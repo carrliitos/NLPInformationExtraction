@@ -3,4 +3,6 @@ This is my "diary" where I will be mapping down the timeline of this project. Th
 TODO for 6/8 - 6/14: Get a crawler working to get PDF articles from online journals
 Day 1 (6/8):
 	- Use Jsoup to crawl
-	
+	- After spending the whole day trying to understand JSoup, I finally got one working. All my output for today are all saved in output.txt
+	- I got 17 total case reports from https://www.sciencedirect.com/journal/trauma-case-reports/vol/25 -- This is volume 25 of year 2020
+	- Tomorrow, I will try to figure out how to parse through mutliple URLs and extract more articles that way

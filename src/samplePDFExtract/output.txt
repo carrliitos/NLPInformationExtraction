@@ -1,0 +1,59 @@
+Fetching https://www.sciencedirect.com/journal/trauma-case-reports/vol/25/...
+Title: Trauma Case Reports | Vol 25, February 2020 | ScienceDirect.com
+
+Total Case Report Extracted = 17
+
+Case Report [0]: Editorial Board
+Links: https://www.sciencedirect.com/science/article/pii/S235264402030008X
+
+Case Report [1]: High-voltage electrocution-induced pulmonary injury and cerebellar hemorrhage with fractures in atlas
+Links: https://www.sciencedirect.com/science/article/pii/S2352644019301013
+
+Case Report [2]: Bilateral fractures of acetabulum in a young girl with osteogenesis imperfecta and epilepsy
+Links: https://www.sciencedirect.com/science/article/pii/S2352644019300998
+
+Case Report [3]: Complex bicondylar tibial plateau fractures with reversed tibial slope - Our experience with a fracture-specific correction strategy
+Links: https://www.sciencedirect.com/science/article/pii/S2352644019300901
+
+Case Report [4]: Oral cyst-like nodule caused by a long standing unusual embedded foreign object: Report of a case
+Links: https://www.sciencedirect.com/science/article/pii/S2352644019300950
+
+Case Report [5]: Primary abdominal Tyre blast injury: A rare case of intra-abdominal trauma
+Links: https://www.sciencedirect.com/science/article/pii/S2352644019300949
+
+Case Report [6]: The Masquelet technique for septic arthritis of the small joint in the hands: Case reports
+Links: https://www.sciencedirect.com/science/article/pii/S2352644019301025
+
+Case Report [7]: Bilateral pure facet joint dislocation in thoracolumbar junction (T11–T12) without facet fracture using a 3D digital printing model for surgical planning: A case report
+Links: https://www.sciencedirect.com/science/article/pii/S2352644019301074
+
+Case Report [8]: Morphological abnormalities of the hip in acetabular fractures
+Links: https://www.sciencedirect.com/science/article/pii/S2352644019301050
+
+Case Report [9]: Spinal infarction caused by hypovolemic shock following massive bleeding from stab wounds to the neck
+Links: https://www.sciencedirect.com/science/article/pii/S2352644019301037
+
+Case Report [10]: Delayed presentation of a firearm injury in a patient with recent use of phencyclidine: A case report
+Links: https://www.sciencedirect.com/science/article/pii/S2352644019301062
+
+Case Report [11]: Newcastle approach for the treatment of supra-intercondylar fractures in children
+Links: https://www.sciencedirect.com/science/article/pii/S2352644019301049
+
+Case Report [12]: Femoral non-union above a fused knee: Successful treatment with exchange nailing and intramedullary delivery of bone morphogenetic protein
+Links: https://www.sciencedirect.com/science/article/pii/S2352644019301104
+
+Case Report [13]: Osteochondral avulsion fracture of the posteromedial tibial plateau
+Links: https://www.sciencedirect.com/science/article/pii/S2352644020300054
+
+Case Report [14]: Lazarus phenomenon in trauma
+Links: https://www.sciencedirect.com/science/article/pii/S2352644020300042
+
+Case Report [15]: Isolated renal vein and inferior vena cava thrombus following blunt trauma abdomen. A rare case scenario
+Links: https://www.sciencedirect.com/science/article/pii/S2352644020300066
+
+Case Report [16]: Arthroscopic suture bracing of posterior cruciate ligament in a multiple ligament knee injury – A technical report
+Links: https://www.sciencedirect.com/science/article/pii/S2352644020300030
+
+Case Report [17]: Presentation and Management of Displaced Lateral Condylar Mass Fractures With Ipsilateral Displaced Olecranon Fractures in Two Pediatric Cases
+Links: https://www.sciencedirect.com/science/article/pii/S2352644020300029
+
