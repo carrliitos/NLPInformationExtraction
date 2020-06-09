@@ -1,0 +1,359 @@
+===========================================
+Fetching https://www.sciencedirect.com/journal/trauma-case-reports/vol/20/ ...
+Journal Title: Trauma Case Reports | Vol 20, April 2019 | ScienceDirect.com
+
+Total Case Report Extracted = 13
+
+Case Report [0]: Editorial Board
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300160
+
+Case Report [1]: Publisher’s Note
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300159
+
+Case Report [2]: Displaced osteochondral fracture of the posterolateral tibial plateau associated with an acute anterior cruciate ligament injury
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300068
+
+Case Report [3]: Traumatic periimplant fracture after nail arthrodesis of the knee in a limb reconstruction case
+PDF Link: https://www.sciencedirect.com/science/article/pii/S235264401930007X
+
+Case Report [4]: A deer miss
+PDF Link: https://www.sciencedirect.com/science/article/pii/S235264401930010X
+
+Case Report [5]: An unusual case of femoral head perforation following fixation with proximal femoral nail antirotation (PFNA-II) for an unstable intertrochanteric fracture: Case report and literature review
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300123
+
+Case Report [6]: Nonunion fragility fracture of the pelvis with complication from bladder rupture: A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300032
+
+Case Report [7]: Rim plating for a rare variant of posteromedial tibial condyle fracture; partial coronal split, akin to Hoffa's fracture, associated with multi-ligament injuries and central depression
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300081
+
+Case Report [8]: Case report: Traumatic lingual hematoma
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300111
+
+Case Report [9]: A rare case of floating fifth metacarpal and review of literature
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300020
+
+Case Report [10]: Open acetabular fracture: Case report and literature review
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300147
+
+Case Report [11]: Trisegmentectomy for traumatic left superior pulmonary vein pseudoaneurysm
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300044
+
+Case Report [12]: The dangers of pets and horses, animal related injuries in the Emergency department
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300135
+
+Case Report [13]: Irreducible ankle fracture dislocation due to posterior tibialis tendon interposition: Diagnostic and clues for early management – A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300093
+
+===========================================
+Fetching https://www.sciencedirect.com/journal/trauma-case-reports/vol/21/ ...
+Journal Title: Trauma Case Reports | Vol 21, June 2019 | ScienceDirect.com
+
+Total Case Report Extracted = 20
+
+Case Report [0]: Editorial Board
+PDF Link: https://www.sciencedirect.com/science/article/pii/S235264401930041X
+
+Case Report [1]: Efficiency of a pelvic circumferential compression device for continuous hemorrhage of peripheral soft tissue of the pelvis: A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300172
+
+Case Report [2]: Manubriosternal joint dislocation due to blunt force trauma
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300214
+
+Case Report [3]: Retro-lunar dislocation of carpal bones with trans-capitate, trans-lunate fractures and intact scaphoid. What if Bain was right?
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300202
+
+Case Report [4]: Damage control surgery for unstable thoracic wall injury
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300226
+
+Case Report [5]: Management of haemarthrosis induced anterior shoulder dislocation with arthroscopic washout and haemostasis
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300056
+
+Case Report [6]: Isolated ureteral injury following a stab wound: A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300317
+
+Case Report [7]: Aseptic loosening of an APTIS distal radioulnar joint arthroplasty – Case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300305
+
+Case Report [8]: Transorbital penetrating head trauma leading to serious cerebral edema - A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300263
+
+Case Report [9]: Tube thoracostomy: One-off cause of chylothorax
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300184
+
+Case Report [10]: Two cases of penetrating left ventricular cardiac trauma: Pre-hospital ultrasound and direct to theatre
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300238
+
+Case Report [11]: A novel approach in retrieving retained pulmonary bullet injury
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300251
+
+Case Report [12]: Post-traumatic acetabular dysplasia following pelvic fracture malunion associated with an acetabular labral tear: A case report and literature review
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300299
+
+Case Report [13]: Spontaneous coronary vasospasm due to polytrauma
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300287
+
+Case Report [14]: Delayed rupture of the flexor tendons as a complication of malunited distal radius fracture after nonoperative management: A report of two cases
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300329
+
+Case Report [15]: Entrapment of the urinary bladder: A rare mechanism of bladder injury in pelvic trauma
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300330
+
+Case Report [16]: Case report of a surgical neck humerus fracture due to strength training
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300391
+
+Case Report [17]: Simultaneous fracture of the tibia shaft and talar body — A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S235264401930038X
+
+Case Report [18]: Humeral plate failure following trauma – A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300378
+
+Case Report [19]: Globe rupture caused by a camel bite
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300366
+
+Case Report [20]: Trauma of the external genital in children: Emasculation, a paediatric case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300354
+
+===========================================
+Fetching https://www.sciencedirect.com/journal/trauma-case-reports/vol/22/ ...
+Journal Title: Trauma Case Reports | Vol 22, August 2019 | ScienceDirect.com
+
+Total Case Report Extracted = 13
+
+Case Report [0]: Editorial Board
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300615
+
+Case Report [1]: Motor vehicle collision with seatbelt sign and traumatic abdominal wall hernia should raise suspicion for hollow viscus injury
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300408
+
+Case Report [2]: 3D printed modeling contributes to reconstruction of complex chest wall instability
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300524
+
+Case Report [3]: Giant cell tumour of the femoral neck: Failure of curettage–cavity filling cementation with screw fixation, a case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300500
+
+Case Report [4]: Cement leakage into the hip joint during TFN-A cement augmentation in a revision surgery of an extra-capsular hip fracture
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300469
+
+Case Report [5]: Survived traumatic hemipelvectomy with salvage of the limb in a 14 months old toddler
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300548
+
+Case Report [6]: Autograft-prosthesis composite use for a Vancouver type B1 periprosthetic femur fracture with pelvic acetabular component migration after bipolar hemiarthroplasty: A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300470
+
+Case Report [7]: Index extensor digitorum communis tendon entrapment in a growth plate injury of distal radius
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300433
+
+Case Report [8]: A novel fixation method for panfacial fracture using an Ilizarov-type external fixator
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300482
+
+Case Report [9]: Minimally invasive surgical management of penetrating chest injury from kinetic impact bean bag projectile
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300445
+
+Case Report [10]: Delayed evolving epidural hematoma in the setting of a depressed skull fracture: A case report and review of the literature
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300275
+
+Case Report [11]: Repeat posterior wall acetabular fracture-dislocation: High-energy trauma as a ‘second hit phenomenon’
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300494
+
+Case Report [12]: Tactical tourniquet: Surgical management must be within 3 hours
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300512
+
+Case Report [13]: Acute splenic rupture following laparoscopic pneumoperitoneum: A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300457
+
+===========================================
+Fetching https://www.sciencedirect.com/journal/trauma-case-reports/vol/23/ ...
+Journal Title: Trauma Case Reports | Vol 23, October 2019 | ScienceDirect.com
+
+Total Case Report Extracted = 21
+
+Case Report [0]: Editorial Board
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300780
+
+Case Report [1]: A case report of cutaneous mucormycosis of the hand after minor trauma in a patient with acute myeloid leukaemia
+PDF Link: https://www.sciencedirect.com/science/article/pii/S235264401930055X
+
+Case Report [2]: Conservative management of a traumatic non-destructive grade II extraperitoneal rectal injury following motor vehicle collision
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300585
+
+Case Report [3]: Pure divergent dislocation of the index and middle finger carpometacarpal joints: A rare case
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300561
+
+Case Report [4]: Traumatic lingual haematoma: Another unusual cause of upper airway obstruction in systemic lupus erythematosus
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300603
+
+Case Report [5]: Complex metacarpophalangeal joint dislocation of the litter finger: A sesamoid bone seen within joint. What does it mean?
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300597
+
+Case Report [6]: Esmarch technique for maintaining reduction during intramedullary nailing of tibial shaft fractures
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300718
+
+Case Report [7]: Lumbar artery pseudoaneurysm following blunt trauma: A case report and literature review
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300664
+
+Case Report [8]: Primary single stage Total Hip Arthroplasty in a patient 40 years post traumatic Hip dysplasia, a case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300573
+
+Case Report [9]: Transverse capitellar shear fracture with interposed radial head fragment. A previously unclassified type of distal humeral fracture
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300652
+
+Case Report [10]: Ankle joint reconstruction by circular frame external fixator for a severely comminuted and contaminated open tibial pilon fracture (AO 43-C3.3). Case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300688
+
+Case Report [11]: Bilateral popliteal artery injury: Lessons learned
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300640
+
+Case Report [12]: Traumatic severe tricuspid regurgitation diagnosis after the progression of right ventricle function deterioration
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300731
+
+Case Report [13]: Intercostal nerve cryoablation for control of traumatic rib fracture pain: A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300639
+
+Case Report [14]: Handlebar versus gallbladder: A case of gallbladder rupture in blunt thoracoabdominal trauma without other major injury
+PDF Link: https://www.sciencedirect.com/science/article/pii/S235264401930072X
+
+Case Report [15]: Fracture dislocation of the ankle with posterior tibial tendon entrapment within the tibiofibular interosseous space: A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S235264401930069X
+
+Case Report [16]: Hybrid approach to complex vascular injury secondary to blast induced scapulothoracic dissociation
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300706
+
+Case Report [17]: Simultaneous bilateral reverse shoulder arthroplasty for bilateral four-part fracture of the proximal humerus in an elderly patient: A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300767
+
+Case Report [18]: Two cases of brachial plexus compression secondary to displaced clavicle fractures
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300536
+
+Case Report [19]: Modified Whipple on an 18-month-old with traumatic pancreatic transection and duodenal rupture
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300755
+
+Case Report [20]: Posterior interosseous nerve palsy after closed proximal forearm fractures
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300743
+
+Case Report [21]: Iatrogenic displacement of the metacarpal head of the index finger while attempting closed reduction of a complex dorsal metacarpophalangeal joint dislocation
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300779
+
+===========================================
+Fetching https://www.sciencedirect.com/journal/trauma-case-reports/vol/24/ ...
+Journal Title: Trauma Case Reports | Vol 24, December 2019 | ScienceDirect.com
+
+Total Case Report Extracted = 17
+
+Case Report [0]: Editorial Board
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019301086
+
+Case Report [1]: “Morbidity and Mortality”: A new section in Trauma Case Reports to help us learn from our mistakes
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300895
+
+Case Report [2]: Mortality in a low energy geriatric polytrauma patient
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300925
+
+Case Report [3]: An unexpected fracture of a titanium rib plate in a patient with traumatic brain injury
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300883
+
+Case Report [4]: Traumatic spondyloptosis of L3 with incomplete neurological involvement: A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300822
+
+Case Report [5]: Three cases of paediatric pancreatic injury involving the main pancreatic duct
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300871
+
+Case Report [6]: Latissimus muscle sparing approach to subscapular rib fracture plating
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300810
+
+Case Report [7]: A rare case of avulsion fracture of the iliac crest apophysis in a young female athlete
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300913
+
+Case Report [8]: Invasive fungal wound infection in an otherwise healthy trauma patient (Mucor Trauma)
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300858
+
+Case Report [9]: Survival following traumatic thoracic compartment syndrome managed with VV-ECMO
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300834
+
+Case Report [10]: Modified bridle tendon transfer procedure following a complete musculature loss of the anterior leg compartment: Case report and literature review
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300962
+
+Case Report [11]: Application of pharmacogenomics for trauma and critical care patients: A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019301001
+
+Case Report [12]: Delayed presentation of pericardio-diaphragmatic hernia following blunt trauma: A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300846
+
+Case Report [13]: Management and outcome of a variant of posadas fracture in an adolescent patient: A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300937
+
+Case Report [14]: Incomplete, stable-like, peri-prosthetic Vancouver B fracture around an ha-coated stem. Is there a case for strategic thoughtful neglect?
+PDF Link: https://www.sciencedirect.com/science/article/pii/S235264401930086X
+
+Case Report [15]: Reverse suspension syndrome: First report of a novel mechanism of severe trauma
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300986
+
+Case Report [16]: Blunt carotid injury with thrombotic occlusion: Is an intervention always required for best outcome?
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300974
+
+Case Report [17]: Augmentation of simultaneous acetabular and femoral neck fracture in osteogenesis imperfecta using photodynamic bone stabilization — A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300342
+
+===========================================
+Fetching https://www.sciencedirect.com/journal/trauma-case-reports/vol/25/ ...
+Journal Title: Trauma Case Reports | Vol 25, February 2020 | ScienceDirect.com
+
+Total Case Report Extracted = 17
+
+Case Report [0]: Editorial Board
+PDF Link: https://www.sciencedirect.com/science/article/pii/S235264402030008X
+
+Case Report [1]: High-voltage electrocution-induced pulmonary injury and cerebellar hemorrhage with fractures in atlas
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019301013
+
+Case Report [2]: Bilateral fractures of acetabulum in a young girl with osteogenesis imperfecta and epilepsy
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300998
+
+Case Report [3]: Complex bicondylar tibial plateau fractures with reversed tibial slope - Our experience with a fracture-specific correction strategy
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300901
+
+Case Report [4]: Oral cyst-like nodule caused by a long standing unusual embedded foreign object: Report of a case
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300950
+
+Case Report [5]: Primary abdominal Tyre blast injury: A rare case of intra-abdominal trauma
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019300949
+
+Case Report [6]: The Masquelet technique for septic arthritis of the small joint in the hands: Case reports
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019301025
+
+Case Report [7]: Bilateral pure facet joint dislocation in thoracolumbar junction (T11–T12) without facet fracture using a 3D digital printing model for surgical planning: A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019301074
+
+Case Report [8]: Morphological abnormalities of the hip in acetabular fractures
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019301050
+
+Case Report [9]: Spinal infarction caused by hypovolemic shock following massive bleeding from stab wounds to the neck
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019301037
+
+Case Report [10]: Delayed presentation of a firearm injury in a patient with recent use of phencyclidine: A case report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019301062
+
+Case Report [11]: Newcastle approach for the treatment of supra-intercondylar fractures in children
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019301049
+
+Case Report [12]: Femoral non-union above a fused knee: Successful treatment with exchange nailing and intramedullary delivery of bone morphogenetic protein
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644019301104
+
+Case Report [13]: Osteochondral avulsion fracture of the posteromedial tibial plateau
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644020300054
+
+Case Report [14]: Lazarus phenomenon in trauma
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644020300042
+
+Case Report [15]: Isolated renal vein and inferior vena cava thrombus following blunt trauma abdomen. A rare case scenario
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644020300066
+
+Case Report [16]: Arthroscopic suture bracing of posterior cruciate ligament in a multiple ligament knee injury – A technical report
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644020300030
+
+Case Report [17]: Presentation and Management of Displaced Lateral Condylar Mass Fractures With Ipsilateral Displaced Olecranon Fractures in Two Pediatric Cases
+PDF Link: https://www.sciencedirect.com/science/article/pii/S2352644020300029
+
+Total PDFs extracted: 107
+Total URLs crawled: 6

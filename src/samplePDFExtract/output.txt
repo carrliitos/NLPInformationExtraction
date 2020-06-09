@@ -1,5 +1,5 @@
 Fetching https://www.sciencedirect.com/journal/trauma-case-reports/vol/25/...
-Title: Trauma Case Reports | Vol 25, February 2020 | ScienceDirect.com
+Journal Title: Trauma Case Reports | Vol 25, February 2020 | ScienceDirect.com
 
 Total Case Report Extracted = 17
 

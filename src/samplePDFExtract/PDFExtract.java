@@ -14,8 +14,8 @@ public class PDFExtract {
 			String url = "https://www.sciencedirect.com/journal/trauma-case-reports/vol/25/";
 			Document document = Jsoup.connect(url).get();
 
-			System.out.printf("Fetching %s...%n", url);
-			System.out.printf("Title: %s%n", document.title());
+			System.out.printf("Fetching %s ...%n", url);
+			System.out.printf("Journal Title: %s%n", document.title());
 			System.out.println();
 
 			Elements titles = document.getElementsByClass("anchor article-content-title u-margin-xs-top u-margin-s-bottom");
