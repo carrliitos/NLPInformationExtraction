@@ -1,4 +1,4 @@
-This is my "diary" where I will be mapping down the timeline of this project. This will be updated everyday with everyday tasks.
+This is my daily logs where I will be mapping down the timeline of this project on a daily basis. This will be updated everyday with everyday tasks.
 
 TODO for 6/8 - 6/14: Get a crawler working to get PDF articles from online journals
 Day 1 (6/8):
