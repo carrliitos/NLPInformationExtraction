@@ -44,7 +44,8 @@ public class JsoupTest {
 		* document = document object representing the HTML DOM
 		* Jsoup = main class to parse the given HTML String
 		* url = url of the html page to load
-		
+		*/
+
 		try{
 			URL path = ClassLoader.getSystemResource("test.html");
 			File input = new File(path.toURI());
@@ -55,7 +56,6 @@ public class JsoupTest {
 		}catch(URISyntaxException f){
 			System.out.println("URI Syntax Exception here");
 		}
-		*/
 
 		/*
 		* Following example will showcase use of DOM like methods after parsing an HTML String into a Document object
@@ -66,7 +66,7 @@ public class JsoupTest {
 		* links = Elements object represents the multiple node elements identified by tag "a".
 		* 
 		* The parse(String html) method parses the input HTML into a new Document. This document object can be used to traverse and get details of the html dom.
-
+		*/
 
 		String html = "<html><head><title>Sample Title</title></head>"
 						+ "<body>"
@@ -86,9 +86,6 @@ public class JsoupTest {
 		for (Element link : links) {
 			System.out.println("Href: " + link.attr("href"));
 			System.out.println("Text: " + link.text());
-		}
-		*/
-
-		
+		}		
 	}
 }
