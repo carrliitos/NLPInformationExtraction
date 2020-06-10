@@ -10,12 +10,24 @@ public class PDFCrawler{
 	public static void main(String[] args) {
 		try{
 			String[] urls = {
+				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/10/",
+				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/11/",
+				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/12/",
+				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/13/",
+				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/14/",
+				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/15/",
+				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/16/",
+				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/17/",
+				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/18/",
+				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/19/",
 				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/20/",
 				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/21/",
 				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/22/",
 				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/23/",
 				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/24/",
 				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/25/",
+				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/26/",
+				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/27/",
 			};
 			int pdfTotal = 0;
 			int urlCount = 0;
