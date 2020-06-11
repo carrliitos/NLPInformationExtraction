@@ -31,28 +31,30 @@ public class PDFCrawler{
 			};
 			int pdfTotal = 0;
 			int urlCount = 0;
+			System.out.println("Link, Title");
 			for(String url : urls){
 				Document document = Jsoup.connect(url).get();
 				urlCount++;
-				System.out.println("===========================================");
-				System.out.printf("Fetching %s ...%n", url);
-				System.out.printf("Journal Title: %s%n", document.title());
-				System.out.println();
+				// System.out.println("===========================================");
+				// System.out.printf("Fetching %s ...%n", url);
+				// System.out.printf("Journal Title: %s%n", document.title());
+				// System.out.println();
 
 				Elements titles = document.getElementsByClass("anchor article-content-title u-margin-xs-top u-margin-s-bottom");
-				System.out.printf("Total Case Report Extracted = %d%n", (titles.size() - 1));
-				System.out.println();
+				// System.out.printf("Total Case Report Extracted = %d%n", (titles.size() - 1));
+				// System.out.println();
 				int j = 0;
 				for(Element title : titles) {
-					System.out.printf("Case Report [%d]: %s%n", j, title.text());
-					System.out.printf("PDF Link: %s%n", title.attr("abs:href"));
+					System.out.printf("%s, %s", title.attr("abs:href"), title.text());
+					// System.out.printf("Case Report [%d]: %s%n", j, title.text());
+					// System.out.printf("PDF Link: %s%n", title.attr("abs:href"));
 					System.out.println();
 					j++;
 					pdfTotal++;
 				}
 			}
-			System.out.printf("Total PDFs extracted: %d%n", pdfTotal);
-			System.out.printf("Total URLs crawled: %d%n", urlCount);
+			// System.out.printf("%nTotal PDFs extracted: %d%n", pdfTotal);
+			// System.out.printf("Total URLs crawled: %d%n", urlCount);
 
 		}catch(IOException e) {
 			System.out.println("IO Exception on this line.");
