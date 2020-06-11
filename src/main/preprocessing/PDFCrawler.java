@@ -42,9 +42,11 @@ public class PDFCrawler{
 		System.out.println("Link,Title");
 		for(String url : urls){
 			Document document = Jsoup.connect(url).get();
-			Elements titles = document.getElementsByClass("anchor article-content-title u-margin-xs-top u-margin-s-bottom");
-			for(Element title : titles) {
-				System.out.printf("%s,%s%n", title.attr("abs:href"), title.text());
+			Elements articles = document.getElementsByClass("js-article article-content");
+			for(Element article : articles) {
+				Elements pdfLinks = article.getElementsByClass("anchor pdf-download u-margin-l-right text-s");
+				Elements titles = article.select("h3");				
+				System.out.printf(("%s,%s%n"), pdfLinks.attr("abs:href"), titles.text());
 			}
 		}
 	}

@@ -12,11 +12,16 @@ public class Extractor{
 			String link = "https://www.sciencedirect.com/science/article/pii/S2352644020300261";
 			Document document = Jsoup.connect(link).get();
 
-			Element content = document.getElementById("body");
-			Elements paragraphs = document.getElementsByTag("h2");
-			for(Element paragraph : paragraphs) {
-				System.out.printf("Text: %s%nID: %s%n", paragraph.text(), paragraph.id());
-				System.out.println();
+			// Element content = document.getElementById("body");
+			// Elements paragraphs = document.getElementsByTag("h2");
+			// for(Element paragraph : paragraphs) {
+			// 	System.out.printf("Text: %s%nID: %s%n", paragraph.text(), paragraph.id());
+			// 	System.out.println();
+			// }
+
+			Elements elements = document.body().select("*");
+			for(Element element : elements) {
+				System.out.println(element.ownText());
 			}
 		}catch(IOException e){
 			System.out.println("IOException on Extractor");
