@@ -15,3 +15,4 @@ Day 2 (6/9):
 Day 3 (6/10):
 	- Successfully converted the txt files consisting of all extracted PDFs onto a csv file
 	- Tomorrow, we need to do more data cleaning to exclude all "Editorial Board" pdfs
+	- It is possible to start the preprocessing for the pipeline already by this weekend.
