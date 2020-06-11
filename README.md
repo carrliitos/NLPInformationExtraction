@@ -1,5 +1,5 @@
 # NLPInformationExtraction
-==========
+
 Benzon Carlitos Salazar's summer project focusing on Information Exraction
 
 The goal of this project is to be able to automate data/information extraction to create a larger database of CSVs for the medical domain (for our research team in UW-WHITEWATER)
@@ -7,7 +7,7 @@ The goal of this project is to be able to automate data/information extraction t
 Complete timeline: NLPTimeline.txt
 
 # General Overview of the Pipeline
-==========
+
 1. Case reports are crawled from online resources ✓
 2. Documents are converted from PDF to text ✓
 3. Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures
@@ -15,7 +15,7 @@ Complete timeline: NLPTimeline.txt
 5. CSV to DTM analysis
 
 # Sources I am following:
-==========
+
 # For all NLP:
 1. Natural Language Processing for Information Extraction (Sonit Singh, 2018)
 	https://arxiv.org/abs/1807.02383
