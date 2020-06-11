@@ -17,4 +17,5 @@ Day 3 (6/10):
 	- Tomorrow, we need to do more data cleaning to exclude all "Editorial Board" pdfs
 	- It is possible to start the preprocessing for the pipeline already by this weekend.
 Day 4 (6/11):
-	
+	- I tried to extract the body texts from a pdf article -- unsuccessful
+	- Will try the paragraph extraction again tomorrow

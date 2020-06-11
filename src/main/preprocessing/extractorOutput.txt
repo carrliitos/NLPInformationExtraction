@@ -1,0 +1,18 @@
+Text: Trauma Case Reports
+ID: publication-title
+
+Text: Abstract
+ID: 
+
+Text: Keywords
+ID: 
+
+Text: Recommended articles
+ID: 
+
+Text: Citing articles
+ID: 
+
+Text: Article Metrics
+ID: 
+

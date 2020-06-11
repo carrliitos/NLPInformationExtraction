@@ -11,7 +11,7 @@ import java.io.IOException;
 
 public class TextToCsv{
 	public static void main(String[] args) {
-		String path = "output.txt";
+		String path = "/home/carlitos/Documents/programs/NLPInformationExtraction/src/main/output.txt";
 		List<PDFStore> pdfs;
 
 		// Read the file
@@ -27,7 +27,7 @@ public class TextToCsv{
 
 		// Write to a new file
 		try{
-			writeFile(pdfs, "output.csv");
+			writeFile(pdfs, "/home/carlitos/Documents/programs/NLPInformationExtraction/src/main/output.csv");
 			System.out.println("Successfully wrote to file.");
 		}catch(IOException c) {
 			System.out.println("Error: could not write to file.");

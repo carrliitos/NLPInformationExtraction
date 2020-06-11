@@ -9,8 +9,8 @@ import org.jsoup.select.Elements;
 public class PDFCrawler{
 	public static void main(String[] args) {
 		try{
-			String[] urls = {
-				// Trauma case reports
+			String[] links = {
+				// Trauma Case Reports
 				// "https://www.sciencedirect.com/journal/trauma-case-reports/vol/10/",
 				// "https://www.sciencedirect.com/journal/trauma-case-reports/vol/11/",
 				// "https://www.sciencedirect.com/journal/trauma-case-reports/vol/12/",
@@ -28,40 +28,24 @@ public class PDFCrawler{
 				// "https://www.sciencedirect.com/journal/trauma-case-reports/vol/24/",
 				// "https://www.sciencedirect.com/journal/trauma-case-reports/vol/25/",
 				// "https://www.sciencedirect.com/journal/trauma-case-reports/vol/26/",
-				// "https://www.sciencedirect.com/journal/trauma-case-reports/vol/27/",
-				// Infectious Diseases
-				"https://www.sciencedirect.com/journal/diagnostic-microbiology-and-infectious-disease/vol/97/issue/4",
-				"https://www.sciencedirect.com/journal/diagnostic-microbiology-and-infectious-disease/vol/97/issue/5",
+				"https://www.sciencedirect.com/journal/trauma-case-reports/vol/27/",
 			};
-			int pdfTotal = 0;
-			int urlCount = 0;
-			System.out.println("Link,Title");
-			for(String url : urls){
-				Document document = Jsoup.connect(url).get();
-				urlCount++;
-				// System.out.println("===========================================");
-				// System.out.printf("Fetching %s ...%n", url);
-				// System.out.printf("Journal Title: %s%n", document.title());
-				// System.out.println();
-
-				Elements titles = document.getElementsByClass("anchor article-content-title u-margin-xs-top u-margin-s-bottom");
-				// System.out.printf("Total Case Report Extracted = %d%n", (titles.size() - 1));
-				// System.out.println();
-				int j = 0;
-				for(Element title : titles) {
-					System.out.printf("%s,%s", title.attr("abs:href"), title.text());
-					// System.out.printf("Case Report [%d]: %s%n", j, title.text());
-					// System.out.printf("PDF Link: %s%n", title.attr("abs:href"));
-					System.out.println();
-					j++;
-					pdfTotal++;
-				}
-			}
-			// System.out.printf("%nTotal PDFs extracted: %d%n", pdfTotal);
-			// System.out.printf("Total URLs crawled: %d%n", urlCount);
-
+			PDFCrawler(links);
 		}catch(IOException e) {
-			System.out.println("IO Exception on the crawler.");
+			System.out.println("IO Exception on PDFCrawler.");
+			return;
+		}
+	}
+
+	private static void PDFCrawler(String[] links) throws IOException{
+		String[] urls = links;
+		System.out.println("Link,Title");
+		for(String url : urls){
+			Document document = Jsoup.connect(url).get();
+			Elements titles = document.getElementsByClass("anchor article-content-title u-margin-xs-top u-margin-s-bottom");
+			for(Element title : titles) {
+				System.out.printf("%s,%s%n", title.attr("abs:href"), title.text());
+			}
 		}
 	}
 }

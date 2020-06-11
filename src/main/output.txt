@@ -1,15 +1,13 @@
 Link,Title
-https://www.sciencedirect.com/science/article/pii/S0732889320301012,Evaluation of Copan FecalSwab™ preserved stool specimens with the BD MAX™ Enteric Bacterial Panel and the BD MAX™ Extended Enteric Bacterial Panel
-https://www.sciencedirect.com/science/article/pii/S0732889320304454,Evaluation of the role of oral penicillin for treating Lyme disease patients with erythema migrans in the United States
-https://www.sciencedirect.com/science/article/pii/S073288932030314X,False-positive Trypanosoma cruzi serology in a cancer patient receiving intravenous immunoglobulin
-https://www.sciencedirect.com/science/article/pii/S0732889320304521,A highly multiplexed melt-curve assay for detecting the most prevalent carbapenemase, ESBL, and AmpC genes
-https://www.sciencedirect.com/science/article/pii/S0732889320304557,Screening methods for intestinal carriage of multidrug-resistant Enterobacterales: interest of enrichment broth
-https://www.sciencedirect.com/science/article/pii/S0732889320304582,Evaluation of the fully automated AIX1000 rapid plasma reagin system compared to a manual plasma reagin testing method for the diagnosis of syphilis
-https://www.sciencedirect.com/science/article/pii/S073288932030451X,Utility of two DNA extraction methods using formalin-fixed paraffin-embedded tissues in identifying congenital cytomegalovirus infection by polymerase chain reaction
-https://www.sciencedirect.com/science/article/pii/S0732889320301012,Evaluation of Copan FecalSwab™ preserved stool specimens with the BD MAX™ Enteric Bacterial Panel and the BD MAX™ Extended Enteric Bacterial Panel
-https://www.sciencedirect.com/science/article/pii/S0732889320304454,Evaluation of the role of oral penicillin for treating Lyme disease patients with erythema migrans in the United States
-https://www.sciencedirect.com/science/article/pii/S073288932030314X,False-positive Trypanosoma cruzi serology in a cancer patient receiving intravenous immunoglobulin
-https://www.sciencedirect.com/science/article/pii/S0732889320304521,A highly multiplexed melt-curve assay for detecting the most prevalent carbapenemase, ESBL, and AmpC genes
-https://www.sciencedirect.com/science/article/pii/S0732889320304557,Screening methods for intestinal carriage of multidrug-resistant Enterobacterales: interest of enrichment broth
-https://www.sciencedirect.com/science/article/pii/S0732889320304582,Evaluation of the fully automated AIX1000 rapid plasma reagin system compared to a manual plasma reagin testing method for the diagnosis of syphilis
-https://www.sciencedirect.com/science/article/pii/S073288932030451X,Utility of two DNA extraction methods using formalin-fixed paraffin-embedded tissues in identifying congenital cytomegalovirus infection by polymerase chain reaction
+https://www.sciencedirect.com/science/article/pii/S2352644020300443,Editorial Board
+https://www.sciencedirect.com/science/article/pii/S2352644020300273,Revision of a blade cut-out in PFN-A fixation: Blade exchange, cement augmentation and a cement plug as a successful salvage option
+https://www.sciencedirect.com/science/article/pii/S2352644020300261,Bilateral concomitant femoral neck stress fracture in a sedentary patient with anorexia nervosa
+https://www.sciencedirect.com/science/article/pii/S2352644020300248,Emergency stabilisation by single-stage posterior transpedicular approach for treatment of unstable lumbar spine fracture with neurological injury
+https://www.sciencedirect.com/science/article/pii/S2352644020300236,Spontaneous pubic symphysis disruption and concomitant bladder rupture during competitive squatting: A case report
+https://www.sciencedirect.com/science/article/pii/S2352644020300285,Unique tooth dislocation into submental space during a pan facial trauma – Importance of an orthopantomogram
+https://www.sciencedirect.com/science/article/pii/S235264402030025X,Unusual case of a migrating spinal bullet: An opportunity for reflection
+https://www.sciencedirect.com/science/article/pii/S2352644020300224,Multiple-level cervical spine trauma in children: Case report and literature review
+https://www.sciencedirect.com/science/article/pii/S2352644020300339,Pericardial rupture leading to cardiac herniation after blunt trauma
+https://www.sciencedirect.com/science/article/pii/S2352644020300315,Transection of the origin of the innominate artery: A rare sequela of blunt traumatic chest trauma
+https://www.sciencedirect.com/science/article/pii/S2352644020300303,Intentional replantation with 180° rotation of a complicated crown-root fracture: A Case Report
+https://www.sciencedirect.com/science/article/pii/S2352644020300297,Delayed post-traumatic presentation of severe sternal osteomyelitis: A strong multidisciplinary effort and a novel reconstruction technique for a challenging case
