@@ -13,3 +13,5 @@ Day 2 (6/9):
         - Currently, I was able to crawl 6 different urls from the same publishing company and extracted 107 total PDF files -- including the Editorial Board
         - During text cleaning, I need to figure out a way to put all extracted PDFs into a CSV with two columns -- Title and URL Links
 Day 3 (6/10):
+	- Successfully converted the txt files consisting of all extracted PDFs onto a csv file
+	- Tomorrow, we need to do more data cleaning to exclude all "Editorial Board" pdfs
