@@ -31,7 +31,7 @@ public class PDFCrawler{
 			};
 			int pdfTotal = 0;
 			int urlCount = 0;
-			System.out.println("Link, Title");
+			System.out.println("Link,Title");
 			for(String url : urls){
 				Document document = Jsoup.connect(url).get();
 				urlCount++;
@@ -45,7 +45,7 @@ public class PDFCrawler{
 				// System.out.println();
 				int j = 0;
 				for(Element title : titles) {
-					System.out.printf("%s, %s", title.attr("abs:href"), title.text());
+					System.out.printf("%s,%s", title.attr("abs:href"), title.text());
 					// System.out.printf("Case Report [%d]: %s%n", j, title.text());
 					// System.out.printf("PDF Link: %s%n", title.attr("abs:href"));
 					System.out.println();

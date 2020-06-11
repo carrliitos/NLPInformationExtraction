@@ -71,7 +71,7 @@ public class TextToCsv{
 		BufferedWriter writer = new BufferedWriter(new FileWriter(path));
 
 		// Create heade
-		writer.write("Link, Article");
+		writer.write("Link,Article");
 		writer.newLine();
 
 		// Print everything in our ArrayList
