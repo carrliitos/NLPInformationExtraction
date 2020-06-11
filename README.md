@@ -9,7 +9,7 @@ Complete timeline: NLPTimeline.txt
 # General Overview of the Pipeline
 
 1. Case reports are crawled from online resources ✓
-2. Documents are converted from PDF to text ✓
+2. Documents are converted from PDF to text
 3. Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures
 4. CSV assembly from relevant sentences
 5. CSV to DTM analysis
@@ -24,6 +24,10 @@ Complete timeline: NLPTimeline.txt
 3. Med7: a transferable clinical natural language processing model for electronic health records (Kormilitzin et al., 2020)
 	https://arxiv.org/abs/2003.01271
 
-# For my crawler:
+# For my crawler and text extraction:
 4. jsoup: Java HTML Parser
 	https://jsoup.org/
+
+# Text preprocessing:
+5. https://www.kdnuggets.com/2017/12/general-approach-preprocessing-text-data.html
+6. https://www.kdnuggets.com/2018/08/practitioners-guide-processing-understanding-text-2.html
