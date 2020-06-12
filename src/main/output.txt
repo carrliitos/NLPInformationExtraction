@@ -72,7 +72,8 @@ https://www.sciencedirect.com/science/article/pii/S2352644018300293/pdfft?md5=b8
 https://www.sciencedirect.com/science/article/pii/S235264401830030X/pdfft?md5=60fd115917a7929665b457449eaf4260&pid=1-s2.0-S235264401830030X-main.pdf,Bosworth fracture dislocation of the ankle: - Two case reports with perioperative illustration
 https://www.sciencedirect.com/science/article/pii/S2352644018300311/pdfft?md5=6fd9f1c1008110ce300f7871b9f322ff&pid=1-s2.0-S2352644018300311-main.pdf,Identity of growing pulsatile mass lesion of the scalp after blunt head injury: Case reports and literature review
 https://www.sciencedirect.com/science/article/pii/S2352644018300323/pdfft?md5=5760b5915c5685fdb69d8f42b6fbf85d&pid=1-s2.0-S2352644018300323-main.pdf,Asymmetric bilateral hip dislocations and unilateral femoral head fracture: A CASE report
-https://www.sciencedirect.com/science/article/pii/S2352644018300487/pdfft?md5=501e0fe7ef6d7ecc7f7807e93d38bf5e&pid=1-s2.0-S2352644018300487-main.pdf,Editorial Board
+IO Exception on PDFCrawler.
+m/science/article/pii/S2352644018300487/pdfft?md5=501e0fe7ef6d7ecc7f7807e93d38bf5e&pid=1-s2.0-S2352644018300487-main.pdf,Editorial Board
 https://www.sciencedirect.com/science/article/pii/S2352644018300360/pdfft?md5=f1b020006e5b3ba1b654867a6516bb1e&pid=1-s2.0-S2352644018300360-main.pdf,Traumatic complications of inpatient massage therapy: Case report and literature review
 https://www.sciencedirect.com/science/article/pii/S2352644018300359/pdfft?md5=1e9469c25a8aea23263008f3af77adaa&pid=1-s2.0-S2352644018300359-main.pdf,Rigid endoscope guided removal of penetrated embedded neck foreign body
 https://www.sciencedirect.com/science/article/pii/S2352644018300396/pdfft?md5=a6d6c7e0cb24a7259a80db1c95f6b5eb&pid=1-s2.0-S2352644018300396-main.pdf,Joint reconstruction using sternocleidomastoid tendon autograft as a treatment for traumatic posterior dislocation of sternoclavicular joint: A case report
