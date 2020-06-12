@@ -1,4 +1,4 @@
-# NLPInformationExtraction
+# NLP Information Extraction
 
 Benzon Carlitos Salazar's summer project focusing on Information Exraction
 
@@ -10,6 +10,7 @@ Complete timeline: NLPTimeline.txt
 
 1. Case reports are crawled from online resources ✓
 2. Documents are converted from PDF to text
+	a. Testing
 3. Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures
 4. CSV assembly from relevant sentences
 5. CSV to DTM analysis
