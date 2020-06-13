@@ -1,3 +1,11 @@
+/**
+*
+* @author BC Salazar
+* This program is for converting the .txt files that holds
+* 	all of the extracted .pdf files to a .csv file for a more
+* 	easier way of handling data.
+*/
+
 import java.util.List;
 import java.util.ArrayList;
 import java.io.BufferedReader;

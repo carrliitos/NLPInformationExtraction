@@ -1,3 +1,10 @@
+/**
+* 
+* @author BC Salazar
+* This PDF Crawler is for extracting all the pdf articles and their links
+* 	for further research purposes
+*/
+
 import java.io.IOException;
 import java.net.URL;
 
@@ -10,7 +17,7 @@ public class PDFCrawler{
 	public static void main(String[] args) {
 		try{
 			String[] links = {
-				// Trauma Case Reports
+				// Trauma Case Reports -- uncomment to extract all desired cases
 				// "https://www.sciencedirect.com/journal/trauma-case-reports/vol/10/",
 				// "https://www.sciencedirect.com/journal/trauma-case-reports/vol/11/",
 				// "https://www.sciencedirect.com/journal/trauma-case-reports/vol/12/",

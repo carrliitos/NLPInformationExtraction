@@ -1,3 +1,9 @@
+/**
+*
+* @author BC Salazar
+* My class for storing all the PDFs
+*/
+
 public final class PDFStore {
 	private final String articleTitle;
 	private final String articleURL;
