@@ -22,3 +22,7 @@ Day 4 (6/11):
 Day 5 (6/12):
 	- Spent most of the day trying to figure out how I should handle the pdf to text and was reading more about Apache's PDFBox
 	- I did not do a lot of development today
+Day 6 (6/13):
+	- Today and tomorrow's goal will be to start converting all pdf files to text
+
+TODO for 6/15 - 6/21: Get working on Apache OpenNLP
