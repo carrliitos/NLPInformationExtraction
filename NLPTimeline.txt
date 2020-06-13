@@ -19,3 +19,6 @@ Day 3 (6/10):
 Day 4 (6/11):
 	- I tried to extract the body texts from a pdf article -- unsuccessful
 	- Will try the paragraph extraction again tomorrow -- I will try and use Apache's PDFBox and learn that
+Day 5 (6/12):
+	- Spent most of the day trying to figure out how I should handle the pdf to text and was reading more about Apache's PDFBox
+	- I did not do a lot of development today
