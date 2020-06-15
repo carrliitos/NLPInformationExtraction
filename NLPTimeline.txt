@@ -24,5 +24,8 @@ Day 5 (6/12):
 	- I did not do a lot of development today
 Day 6 (6/13):
 	- Today and tomorrow's goal will be to start converting all pdf files to text
+Day 7 (6/14):
+	- Today and yesterday's goals unfortunately not accomplished -- I got side-tracked and started working on something different
 
-TODO for 6/15 - 6/21: Get working on Apache OpenNLP
+TODO for 6/15 - 6/21: Convert all pdf files into a raw text file using PDFBox and get working on Apache OpenNLP
+	- Today's and tomorrow's goal will be to start converting all the pdf files to text
