@@ -1,3 +1,9 @@
+/**
+* @author BC Salazar
+* This class is used for parsing each individual pdf files and converting them
+* to a raw text file
+*/
+
 import java.io.File;
 import java.io.IOException;
 import org.apache.pdfbox.cos.COSDocument;
