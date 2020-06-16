@@ -5,6 +5,9 @@ import java.util.ArrayList;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileInputStream;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
@@ -55,5 +58,9 @@ public class PDFManager {
 		}
 		reader.close();
 		return pdfs;
+	}
+
+	private static void storeFilesToNewDir(List<PDFStore> pdfs, String path) throws SecurityException {
+		// Stumped!		
 	}
 }
