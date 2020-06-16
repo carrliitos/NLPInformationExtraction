@@ -29,3 +29,6 @@ Day 7 (6/14):
 
 TODO for 6/15 - 6/21: Convert all pdf files into a raw text file using PDFBox and get working on Apache OpenNLP
 	- Today's and tomorrow's goal will be to start converting all the pdf files to text
+Day 8 (6/15):
+	- I am currently at a stand still because I created a class to manage each of my pdf files, but I had the realization that I had not downloaded each of the pdf files yet. I will try to get an answer tomorrow to see if I need to download each pdf files or if I can just parse my parser through the csv and extract text that way. 
+		- In order for me to answer this question, I am going to need to read through the PDFBox API
