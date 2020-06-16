@@ -1,7 +1,7 @@
 /**
 * @author BC Salazar
 * This class is used for parsing each individual pdf files and converting them
-* to a raw text file
+* 	to a raw text file
 */
 
 import java.io.File;
@@ -58,7 +58,7 @@ public class PDFManager {
 		return toText();
 	}
 
-	public void writeTexttoFile(String pdfToText2, String string) {
+	// public void writeTexttoFile(String pdfToText2, String string) {
 
-	}
+	// }
 }
