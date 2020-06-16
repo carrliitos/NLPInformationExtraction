@@ -27,7 +27,9 @@ Complete timeline: NLPTimeline.txt
 # For my crawler and text extraction:
 4. jsoup: Java HTML Parser
 	https://jsoup.org/
+5. Apache PDFBox
+	https://pdfbox.apache.org/
 
 # Text preprocessing:
-5. https://www.kdnuggets.com/2017/12/general-approach-preprocessing-text-data.html
-6. https://www.kdnuggets.com/2018/08/practitioners-guide-processing-understanding-text-2.html
+6. https://www.kdnuggets.com/2017/12/general-approach-preprocessing-text-data.html
+7. https://www.kdnuggets.com/2018/08/practitioners-guide-processing-understanding-text-2.html
