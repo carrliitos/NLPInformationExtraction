@@ -32,3 +32,6 @@ TODO for 6/15 - 6/21: Convert all pdf files into a raw text file using PDFBox an
 Day 8 (6/15):
 	- I am currently at a stand still because I created a class to manage each of my pdf files, but I had the realization that I had not downloaded each of the pdf files yet. I will try to get an answer tomorrow to see if I need to download each pdf files or if I can just parse my parser through the csv and extract text that way. 
 		- In order for me to answer this question, I am going to need to read through the PDFBox API
+Day 9 (6/16):
+	- Today I was able to figure out how to create new files on a new directory
+	- Progress has been slow due to summer school, but that is okay! Summer is not over yet!
