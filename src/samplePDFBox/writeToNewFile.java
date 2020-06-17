@@ -7,6 +7,7 @@ import java.io.IOException;
 public class writeToNewFile {
 	public static void main(String[] args) {
 		try {
+			// Use a scanner for all input files
 			String dir = "/home/carlitos/Documents/Projects/git/NLPInformationExtraction/src/samplePDFBox/";
 			boolean success = false;
 
@@ -16,8 +17,8 @@ public class writeToNewFile {
 				System.out.println("Directory alreay exists... ");
 			}else {
 				System.out.println("Directory does not exist, creating now.");
-
 				success = directory.mkdir();
+
 				if(success) {
 					System.out.printf("Successfully created new directory: %s%n", dir);
 				}else {
@@ -41,7 +42,7 @@ public class writeToNewFile {
 				}
 			}
 		}catch(IOException e) {
-			System.out.println("IOException on writing.");
+			System.out.println("Error: Failed to write new file.");
 			return;
 		}
 	}
