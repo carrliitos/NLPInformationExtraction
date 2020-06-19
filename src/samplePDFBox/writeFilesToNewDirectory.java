@@ -13,10 +13,19 @@ import java.io.FileWriter;
 import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.IOException;
+import java.nio.file.Files;
 
 public class writeFilesToNewDirectory {
 	public static void main(String[] args) {
-		try {
+		File dir = new File("/home/carlitos/Documents/Projects/git/NLPInformationExtraction/src/samplePDFBox/sampleDirectory");
+		File[] files = dir.listFiles();
+		// Loop through the files
+		for (File file : files) {
+			// Store the files to a new directory
+			File newFile = new File("filename.txt");
+		}
+
+		// try {
 			// // Use scanner for all input files
 			// File inputDirectory = new File("/home/carlitos/Documents/Projects/git/NLPInformationExtraction/src/samplePDFBox/sampleDirectory");
 			// boolean success = false;
@@ -60,9 +69,13 @@ public class writeFilesToNewDirectory {
 			// 	}
 			// }
 
-			
-		}catch(IOException e) {
-			System.out.println("IOException while creating new directory");
-		}
+			// File oldDirectory = new File("/home/carlitos/Documents/Projects/git/NLPInformationExtraction/src/samplePDFBox/sampleDirectory");
+			// File[] files = oldDirectory.listFiles();
+			// for(int i = 0; i < files.length; i++) {
+			// 	System.out.printf("File: %n%s%n", files[i]);
+			// }
+		// }catch(IOException e) {
+		// 	System.out.println("IOException while creating new directory");
+		// }
 	}
 }
