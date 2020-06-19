@@ -13,19 +13,22 @@ public class writeToNewFile {
 			String dir = "/home/carlitos/Documents/Projects/git/NLPInformationExtraction/src/samplePDFBox/sample1";
 			boolean success = false;
 			// Create a new directory, if it doesn't exist
-			File directory = new File(dir);
-			if(directory.exists()) {
-				System.out.println("Directory alreay exists... ");
-			}else {
-				System.out.println("Directory does not exist, creating now.");
-				success = directory.mkdir();
+			File newFiles = new File(dir, "newFile.txt");
+			System.out.println("Created file on: " + newFiles);
 
-				if(success) {
-					System.out.printf("Successfully created new directory: %s%n", dir);
-				}else {
-					System.out.printf("Failed to create new directory: %s%n", dir);
-				}
-			}
+			// if(directory.exists()) {
+			// 	System.out.println("Directory already exists... ");
+			// }else {
+			// 	System.out.println("Directory does not exist, creating now.");
+			// 	success = directory.mkdir();
+			// 	if(success) {
+			// 		System.out.printf("Successfully created new directory: %s%n", dir);
+			// 	}else {
+			// 		System.out.printf("Failed to create new directory: %s%n", dir);
+			// 	}
+			// }
+			
+			/**
 			// Create a new file, if it does not exist
 			String filename = "temp.txt";
 			File file = new File(filename);
@@ -45,7 +48,9 @@ public class writeToNewFile {
 				}
 				writer.close();
 			}
-		}catch(IOException e) {
+			*/
+
+		}catch(Exception e) {
 			System.out.println("Error: Failed to write new file.");
 			return;
 		}
