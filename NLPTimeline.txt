@@ -35,3 +35,5 @@ Day 8 (6/15):
 Day 9 (6/16):
 	- Today I was able to figure out how to create new files on a new directory
 	- Progress has been slow due to summer school, but that is okay! Summer is not over yet!
+Day 10 (6/17):
+	- No updates for today
