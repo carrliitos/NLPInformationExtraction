@@ -37,3 +37,7 @@ Day 9 (6/16):
 	- Progress has been slow due to summer school, but that is okay! Summer is not over yet!
 Day 10 (6/17):
 	- No updates for today
+Day 11 (6/18):
+	- I'm still toying around with the file system
+	- I am almost close to abandoning this part of the project so I can start the actual program design for the text processing and just revisit this on a later date
+
