@@ -10,7 +10,7 @@ public class writeToNewFile {
 	public static void main(String[] args) {
 		try {
 			// Use a scanner for all input files
-			String dir = "/home/carlitos/Documents/Projects/git/NLPInformationExtraction/src/samplePDFBox/";
+			String dir = "/home/carlitos/Documents/Projects/git/NLPInformationExtraction/src/samplePDFBox/sample1";
 			boolean success = false;
 			// Create a new directory, if it doesn't exist
 			File directory = new File(dir);
