@@ -50,3 +50,6 @@ Day 15 (6/22):
 	- No updates today
 Day 16 (6/23):
 	- Today's Goal: catch up the lost days and do some text processing for at least one article
+	- QOTD: "Doing anything complicated in machine learning usually means building a pipeline. The idea is to break up your problem into very small pieces and then use machine learning to solve each smaller piece separately. Then by chaining together several machine learning models that feed into each other, you can do very complicated things." - Adam Geitgey (https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
+	- Step 0.1:
+		- Clean up the text and remove and url links, clean up metadata, fix any differences in fontsizes, removing irrelevant text, usually found in margins, etc. -- Hopefully I can get these tasks done either today or tomorrow; the goal is to atleast get it working for one document, then we can apply it for multiple documents.
