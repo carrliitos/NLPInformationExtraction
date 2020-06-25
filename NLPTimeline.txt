@@ -64,3 +64,11 @@ Day 16 (6/23):
 		removing irrelevant text, usually found in margins, etc. 
 		- Hopefully I can get these tasks done either today or tomorrow; the goal is 
 		to atleast get it working for one document, then we can apply it for multiple documents.
+Day 17 (6/24):
+	- Getting closer and closer to normalizing the texts
+	- I'm still a bit unsure on where I should be at right now, I am still trying to normalize all the raw text files
+		but I am quite unsure if the best approach is to make a connection with each of the pdfs, do text cleaning, and convert
+		them to raw text
+		of if I should convert each pdfs into raw texts, and do text cleaning that way.
+	- Right now, the process is still a bit slower because of the new technoloqies and libraries I am having to learn on the spot.
+		But slow progress is still progress!
