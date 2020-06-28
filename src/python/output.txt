@@ -1,0 +1,191 @@
+Trauma Case Reports 21 (2019) 100197
+
+Contents lists available at ScienceDirect
+
+Trauma Case Reports
+
+journal homepage: www.elsevier.com/locate/tcr
+
+Case Report
+Isolated ureteral injury following a stab wound: A case report
+Sang Hyun Parka, Ki Hoon Kimb,⁎
+
+a Department of Urology, Haeundae Paik Hospital, University of Inje College of Medicine, Busan, Republic of Korea
+b Department of Surgery, Haeundae Paik Hospital, University of Inje College of Medicine, Busan, Republic of Korea
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Ureteral injuries
+Stab wounds
+Uretero-ureterostomy
+
+Introduction
+
+Ureteral injuries reportedly occur in 2–5% of gunshot wounds to the abdomen, and are even rarer
+in abdominal stab wounds. Ureteral injuries are usually silent and produce no early signs or
+symptoms. An unrecognized or mismanaged ureteral injury can lead to signiﬁcant morbidity and
+mortality. A 34-year-old woman was transferred to our emergency department from another
+hospital after removal of a knife on her abdomen. She was diagnosed with isolated ureter injury.
+An uretero-ureterostomy was performed after stenting of the ureteral catheter. The postoperative
+course was uneventful, and the patient was discharged on postoperative day 12.
+
+Ureteral injuries represent 2.5% of genitourinary (GU) trauma; they are rare because of the ureter's small diameter and its
+protected retroperitoneal location [1]. The most common cause is iatrogenic trauma during open surgery, laparoscopy, or endoscopy.
+Ureteral injuries reportedly occur in 2–5% of gunshot wounds to the abdomen, and are even rarer in abdominal stab wounds [2,3].
+Ureteral injuries are usually silent and produce no early signs or symptoms. Penetrating ureteral injuries are almost always associated
+with injuries to multiple organs such as the bowel and blood vessels or other GU injuries [4]. Few physicians have experience with
+ureteral trauma, as it is more diﬃcult to diagnose isolated ureteral injury. An unrecognized or mismanaged ureteral injury can lead to
+signiﬁcant complications including urinoma, abscess, ureteral stricture, and potential loss of the ipsilateral kidney or even death.
+Hereby, We report a case of isolated ureteral injury following a stab wound.
+
+Case report
+
+A 34-year-old woman was transferred to our emergency department from another hospital after removal of a knife from the right
+upper quadrant (RUQ) of her abdomen. She complained of tenderness in the entire abdomen. Her initial vital signs were stable, and
+we noticed a 5-cm laceration in her abdominal RUQ. She had been taking anti-insomnia drugs. Laboratory examination results were
+normal, except for an increased a white blood count of 20,890/mm3. An abdominal computed tomography (CT) scan was performed
+and showed a hematoma around the site of the stab wound and right psoas muscle (Fig. 1). A simple abdominal radiograph at the
+bed-side was performed 15 min after the CT scan, which showed leakage of contrast material around the right ureter (Fig. 2). An
+emergency laparotomy was performed. There was a tear in the right rectus muscle, with active bleeding. Moreover, a ureter injury of
+nearly 50% of the ureter circumference was detected around the right psoas muscle, causing a hematoma that led me to suspect a stab
+wound (Fig. 3); however, no other organ injury was found. An uretero-ureterostomy was performed using a ﬁne chromic catgut after
+
+⁎ Corresponding author at: Department of Surgery, Inje University Haeundae Paik hospital, 612-030, 1435, Jwa-dong, Haeundae-gu, Busan,
+
+Republic of Korea.
+
+E-mail address: medhun@hanmail.net (K.H. Kim).
+
+https://doi.org/10.1016/j.tcr.2019.100197
+Accepted 7 April 2019
+Available online 12 April 2019
+2352-6440/ © 2019 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+
+S.H. Park and K.H. Kim
+
+Trauma Case Reports 21 (2019) 100197
+
+Fig. 1. Coronary CT ﬁnding. Showing hematoma around the site of the stab wound and right psoas muscle.
+
+stenting of the ureteral catheter. The postoperative course was uneventful except for focal ﬂank pain, and the patient was discharged
+on postoperative day 12. Two weeks after discharge, the patient visited the outpatient clinic due to right ﬂank pain. Abdominal CT
+scan was performed, and massive liquefaction of the hematoma was observed in the injured area of the right psoas muscle. The ﬂank
+area pain subsided after drainage was performed using a percutaneous catheter. At two months post-surgery, intravenous pyelo-
+graphy was performed, and the double-J stent was removed.
+
+Discussion
+
+In the diagnosis of ureteral injury, there are no classic signs and symptoms; moreover, hematuria, which is the hallmark of any GU
+trauma, is not a reliable ﬁnding in ureteral injuries [5,6] Imaging studies are the most important diagnostic tools available to evaluate
+for ureteral injury. A retrograde pyelography (RGP) is the most accurate imaging test to evaluate the location and extent of the
+ureteral injury; however, RGP is time consuming and cumbersome [7]. Thus, it is diﬃcult to perform in the acute trauma setting [4].
+RGP is most commonly used to diagnose missed ureteral injuries, because it allows the simultaneous placement of a ureteral stent if
+possible. Recently, the use of ultrasound has gained widespread use in trauma situations. However, it has proven unreliable in
+
+2
+
+S.H. Park and K.H. Kim
+
+Trauma Case Reports 21 (2019) 100197
+
+Fig. 2. Simple abdominal X-ray after computed tomography. Showing leakage of contrast around the right ureter (black arrow).
+
+evaluating ureteral injuries, particularly because of the small caliber and retroperitoneal location of the ureters. With the availability
+of CT scanning and its sensitivity, contrast-enhanced CT has been the recent diagnostic modality of choice [8,9]. Identiﬁcation of
+ureteral injuries require a delay of 5–10 min after the administration of intravenous contrast to allow the contrast to reach the ureter
+[10,11]. Approximately 80% of injuries can be missed on initial CT and are detected only on delayed CT imaging. Ureteral injury can
+be visualized on CT, including the presence of contrast extravasation from the ureter, non-visualization of the ureter, ipsilateral
+hydronephrosis, and poor renal excretion localized to one side [12,13].Therefore, in case of a hemodynamically stable patient, CT can
+be useful to diagnose the ureteral injury. The AUA trauma guidelines recommend performing abdominopelvic CT with intravenous
+contrast and delayed scans for all stable patients with suspected ureteral trauma [14]. If there is poor renal excretion of intravenous
+contrast at 10 min, repeated scans at a later interval may be necessary although it may cause more radiation exposure. However, in an
+acute trauma state, especially in a patient who is hemodynamically unstable or whose condition is variable, the timing of early
+resuscitation is very important. Therefore, it may be dangerous to keep the patient for 5–10 min in the CT room for gaining the
+delayed CT image. My hospital has a protocol wherein CT scan takes only up to 70 s in a trauma case and a simple abdomen
+radiograph can be checked at the bed-side approximately 10–15 min later. In this case, the initial CT scan showed no evidence of
+ureteral injury, but a subsequent simple abdominal radiograph showed contrast leakage at the right side.
+
+The primary goal for repair is to maintain renal drainage. Management options depend on the site of injury, extent of the
+devitalized ureter, and concomitant injuries. The basic surgical principals include a tension-free anastomosis, debridement of de-
+vitalized tissues, spatulation of each end, and water-tight anastomosis. We use absorbable sutures (5–0 PDS) with the use of ureteral
+stent.
+
+3
+
+S.H. Park and K.H. Kim
+
+Trauma Case Reports 21 (2019) 100197
+
+Fig. 3. Intraoperative ﬁnding. A ureter injury was identiﬁed (white arrow).
+
+Conclusion
+
+The incidence of ureter injury is rare because of the ureter's small diameter and its protected retroperitoneal location; however, a
+delayed diagnosis or misdiagnosis can be associated with a high level of morbidity or mortality. Although abdominal organ injuries
+may not occur in a stab wound, isolated ureter injury might occur. Subsequent abdominal radiographs after computed tomography
+might be useful for detection of ureteral injury. If there is a structural injury around the ureter, the suspicion of ureteral injury is
+necessary. The course of action should be determined keeping in mind the best interest of the patient.
+
+Consent
+
+Written informed consent was obtained from the patient and his wife for publication of this case report and accompanying images.
+
+Conﬂict of interest
+
+The authors declare no conﬂict of interest.
+
+Funding
+
+This research did not receive any speciﬁc grant from funding agencies in the public, commercial, or not-for-proﬁt sectors.
+
+Authors' contributions
+
+KKH has made substantial contributions to conception and design. KKH and PSH wrote the paper. PSH checked bibliographic
+
+reference. KKH had primary responsibility for the content. Both authors read and approved the ﬁnal manuscript.
+
+4
+
+S.H. Park and K.H. Kim
+
+References
+
+Trauma Case Reports 21 (2019) 100197
+
+[1] S.M. Siram, S.Z. Gerald, E.R. Greene, K. Hughes, T.A. Oyetunji, K. Chrouser, et al., Ureteral trauma: patterns and mechanisms of injury of an uncommon
+
+condition, Am. J. Surg. 199 (4) (2010) 566–570.
+
+[2] C. Bent, T. Iyngkaran, N. Power, M. Matson, T. Hajdinjak, N. Buchholz, et al., Urological injuries following trauma, Clin. Radiol. 63 (12) (2008) 1361–1371.
+[3] K. Al-Awadi, E.O. Kehinde, A. Al-Hunayan, A. Al-Khayat, Iatrogenic ureteric injuries: incidence, aetiological factors and the eﬀect of early management on
+
+subsequent outcome, Int. Urol. Nephrol. 37 (2) (2005) 235–241.
+
+[4] S. Brandes, M. Coburn, N. Armenakas, J. McAninch, Diagnosis and management of ureteric injury: an evidence-based analysis, BJU Int. 94 (3) (2004) 277–289.
+[5] T.H. Lynch, L. Martinez-Pineiro, E. Plas, E. Serafetinides, L. Turkeri, R.A. Santucci, et al., EAU guidelines on urological trauma, Eur. Urol. 47 (1) (2005) 1–15.
+[6] L.S. Palmer, R.R. Rosenbaum, M.D. Gershbaum, E.R. Kreutzer, Penetrating ureteral trauma at an urban trauma center: 10-year experience, Urology 54 (1) (1999)
+
+34–36.
+
+1979–1981.
+
+[7] E.W. Campbell Jr., P.S. Filderman, S.C. Jacobs, Ureteral injury due to blunt and penetrating trauma, Urology 40 (3) (1992) 216–220.
+[8] P.J. Kenney, D.M. Panicek, L.S. Witanowski, Computed tomography of ureteral disruption, J. Comput. Assist. Tomogr. 11 (3) (1987) 480–484.
+[9] M. Townsend, A.J. DeFalco, Absence of ureteral opaciﬁcation below ureteral disruption: a sentinel CT ﬁnding, AJR Am. J. Roentgenol. 164 (1) (1995) 253–254.
+[10] S.L. Brown, D.M. Hoﬀman, J.P. Spirnak, Limitations of routine spiral computerized tomography in the evaluation of blunt renal trauma, J. Urol. 160 (1998)
+
+[11] J.M. Mulligan, I. Cagiannos, J.P. Collins, S.F. Millward, Ureteropelvic junction disruption secondary to blunt trauma: excretory phase imaging (delayed ﬁlms)
+
+should help prevent a missed diagnosis, J. Urol. 159 (1) (1998) 67–70.
+
+[12] B.S. Carver, C.B. Bozeman, D.D. Venable, Ureteral injury due to penetrating trauma, South. Med. J. 97 (5) (2004) 462–464.
+[13] S.J. Ortega, F.S. Netto, P. Hamilton, P. Chu, H.C. Tien, CT scanning for diagnosing blunt ureteral and ureteropelvic junction injuries, BMC Urol. 8 (2008) 3.
+[14] A.F. Morey, S. Brandes, D.D. Dugi 3rd, J.H. Armstrong, B.N. Breyer, J.A. Broghanner, et al., Urotrauma: AUA guideline, J. Urol. 192 (2) (2014) 327–335.
+
+5
+
+
