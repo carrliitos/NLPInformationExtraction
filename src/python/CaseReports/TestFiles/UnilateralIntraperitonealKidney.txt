@@ -1,0 +1,185 @@
+Trauma Case Reports 16 (2018) 4–7
+
+Contents lists available at ScienceDirect
+
+Trauma Case Reports
+
+journal homepage: www.elsevier.com/locate/tcr
+
+Case Report
+Blunt trauma of unilateral intraperitoneal kidney: A case report
+Ye Rim Chang, Jeongseok Yun, Dong Hun Kim⁎
+
+Department of Trauma Surgery, Trauma Center, Dankook University Hospital, Cheonan, Republic of Korea
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Intraperitoneal
+Kidney
+Variation
+Trauma
+
+Introduction
+
+The kidney is located and ﬁxed with Gerota's fascia in the retroperitoneal space and is sur-
+rounded by a fat pad that acts as a shock absorber in the normal anatomy; however, the kidney
+becomes more vulnerable to external shock when it is located intraperitoneally. Bleeding from an
+injury may advance to hemoperitoneum and unstable hemodynamics may develop, requiring
+emergency surgery. Although various anatomical variations of the kidney have been reported, to
+our knowledge, an intraperitoneal kidney has never been reported previously except for one case
+in the world literature. This paper describes a successful nephrectomy of a unilateral in-
+traperitoneal kidney in a 69-year-old woman who had grade IV laceration based on the renal
+injury scale of the American Association for the Surgery of Trauma with unstable hemodynamics
+after blunt trauma.
+
+The kidney is normally located and ﬁxed with Gerota's fascia in the retroperitoneal space and is surrounded by a fat pad that acts
+as a shock absorber. When the kidney is located intraperitoneally, it becomes more vulnerable to external shock. In such cases,
+bleeding from the injury may advance to hemoperitoneum, and unstable hemodynamics may develop, requiring emergency surgery.
+Although anatomical variants, such as vascular variations of renal vessels [1, 2], ectopic pelvic kidney [3], and intrathoracic kidney
+[4, 5] have been reported, to our knowledge, an intraperitoneal kidney has never been previously reported except for one case [6] in
+the world literature. Herein, we report a successful nephrectomy of a unilateral intraperitoneal kidney with grade IV laceration based
+on the renal injury scale of the American Association for the Surgery of Trauma (AAST) after blunt trauma.
+
+Case
+
+A 69-year-old woman sustained blunt trauma from a pedestrian traﬃc accident. She had no medical history except subtotal
+gastrectomy for gastric cancer six years prior. On arrival, she was alert with a blood pressure of 104/68 mmHg, pulse rate of 95 beats/
+min, respiratory rate of 23/min, and hemoglobin level of 8.2 g/dL. Physical examination revealed tenderness on the abdomen and
+abdomen distension. Focused assessment with sonography for trauma showed intraabdominal ﬂuid in the Morison pouch and
+splenorenal recess. Abdominal computed tomography (CT) scan revealed laceration of the right kidney, involving the calyx in the
+lower pole in accordance to grade IV of the AAST renal injury scale, and a surrounding perirenal hematoma similar to intraperitoneal
+bleeding, not retroperitoneal hematoma (Fig. 1A, B). The injury severity score was 26 with multiple rib fractures, pneumothorax
+requiring thoracostomy, grade I liver laceration, and skin laceration of the eyebrow.
+
+⁎ Corresponding author at: Department of Trauma Surgery, Trauma Center, Dankook University Hospital, 201 Manghyang-ro, Dongnam-gu,
+
+Cheonan 31116, Republic of Korea.
+
+E-mail address: saint7331@gmail.com (D.H. Kim).
+
+https://doi.org/10.1016/j.tcr.2018.07.002
+Accepted 16 July 2018
+Available online 20 July 2018
+2352-6440/ © 2018 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+
+Y.R. Chang et al.
+
+Trauma Case Reports 16 (2018) 4–7
+
+Fig. 1. Abdominal CT scan. (A) Right renal vein injury and laceration of the right were noted (black arrow). (B) Scan shows laceration of the right
+kidney, involving the calyx in the lower pole (black arrow) and perirenal hematoma boundless with hemoperitoneum (asterisks) (white arrow,
+duodenum; white arrow head, gallbladder).
+
+She underwent emergency laparotomy because of aggravating abdomen distension and unstable hemodynamics. During the
+surgery, the right kidney was found to be an intraperitoneal organ that was lying free at the right of the duodenum and above the
+mesocolon of the transverse colon without perirenal fat tissues and Gerota's fascia (Fig. 2A). Furthermore, it had a laceration in the
+lower pole and renal vein injury with active bleeding into the intraperitoneal space. Right nephrectomy was completed only with
+ligation of hilar vessels and ureter, and without dissection of any underlying tissues or right-sided medial visceral rotation (Fig. 2B).
+The intraperitoneal kidney had anatomically normal renal vessels, renal pelvis, and ureter, but was shorter (8.5 cm). Laceration in the
+lower pole had involved the calyx (Fig. 3). The patient was discharged on postoperative day 23 without any complications.
+
+Discussion
+
+To our knowledge, an intraperitoneal kidney, an anatomical variant, has never been reported except for one case report [6]. The
+previously reported variation was discovered in a female Caucasian cadaver (deceased at 89 years from respiratory insuﬃciency),
+during routine educational dissection at the Medical School of the University of Athens. The left kidney was not covered by the
+parietal peritoneum in the front, which implied that the kidney was located in the intraperitoneal space.
+
+During development, some organs are suspended initially in the abdominal cavity by a peritoneal fold and become secondarily
+retroperitoneal by fusing with the abdominal wall. In our case, the right kidney did not fuse but remained in the intraperitoneal space
+without a supporting fold, and was therefore completely mobile as Panagouli et al. described [6].
+
+Increased mobility of the intraperitoneal position of the kidney may compromise its blood supply because the artery would “fold”
+in some position. In such circumstances, the growth of the kidney may be insuﬃcient, and an additional polar renal artery might not
+degenerate [6]. Each kidney is typically 11 cm in length, whereas the left may be 1.5 cm longer than the right [7]. The kidney of the
+cadaver in Panagouli et al.'s study was 9.3 cm in length, with an additional left renal artery [6], whereas the length was 8.5 cm, 4 cm
+shorter than the normal, with normal vascular anatomy in our case.
+
+An intraperitoneal kidney has several clinical implications. Because it is completely mobile, temporary hydronephrosis due to
+urinary ﬂow obstruction may occur [6]. The approach to diagnostic or interventional procedures of the variant kidney may be
+diﬀerent from that of the normal kidney, but the presence of a variant kidney is diﬃcult to predict and can be overlooked. CT scan of
+the injury of the normal kidney shows crescent-shaped or retroperitoneum-conﬁned perirenal hematoma, diﬀerent from in-
+traperitoneal hematoma [8], whereas the intraperitoneal kidney shows wide, ill-deﬁned and totally encircling perirenal hematoma.
+The kidney is located and ﬁxed with Gerota's fascia in the retroperitoneal space and is surrounded by a fat pad that acts as a shock
+
+5
+
+Y.R. Chang et al.
+
+Trauma Case Reports 16 (2018) 4–7
+
+Fig. 2. Operative ﬁeld shows that (A) the right kidney is lying free in the intraperitoneal space, and injury the lower pole is observed with active
+bleeding (white arrow), and (B) after right nephrectomy, ligation of the renal hilum is performed (white arrow) without dissection of any sur-
+rounding tissues (black arrow, duodenum).
+
+Fig. 3. Specimen of the intraperitoneal kidney shows parenchymal hematoma and laceration involving the calyx in the lower pole.
+
+6
+
+Y.R. Chang et al.
+
+Trauma Case Reports 16 (2018) 4–7
+
+absorber in normal anatomy; however, an intraperitoneal kidney is more vulnerable to external shock. In such cases, bleeding from
+the injury may advance to hemoperitoneum, and unstable hemodynamics may develop, requiring emergency surgery. Renal vessels
+can be also prone to injury due to the increased mobility of the intraperitoneal kidney; therefore, performing nephrectomy was
+inevitable because of hemodynamically unstable status. If the location of the kidney was anatomically normal, the extent of the injury
+might not have caused hemoperitoneum with unstable hemodynamics and might have been managed with angiographic intervention
+or self-limited course because of mass eﬀect of the retroperitoneal perirenal hematoma, as current standard care of AAST renal injury
+grade IV [9, 10]. The clinical features and treatment of traumatic injury to an intraperitoneal kidney were diﬀerent compared with
+the injury to kidney with normal anatomy.
+
+Although an intraperitoneal kidney is extremely rare, it should be considered if unstable hemodynamics and suspected imaging
+
+ﬁndings are present, as it requires aggressive surgical management.
+
+Conﬂicts of interest statement
+
+None of authors have a conﬂict of interest.
+
+References
+
+[1] U. Ozkan, L. Oguzkurt, F. Tercan, O. Kizilkilic, Z. Koc, N. Koca, Renal artery origins and variations: angiographic evaluation of 855 consecutive patients, Diagn.
+
+Interv. Radiol. 12 (4) (2006) 183–186 (PubMed PMID: 17160802 ).
+
+[2] S.Q. Yi, Y. Ueno, M. Naito, N. Ozaki, M. Itoh, The three most common variations of the left renal vein: a review and meta-analysis, Surg. Radiol. Anat. 34 (9)
+
+(2012) 799–804, https://doi.org/10.1007/s00276-012-0968-1 (PubMed PMID: 22535303 ).
+
+[3] R.C. Minnee, H. Kimenai, J. van de Wetering, J.N.M. Ijzermans, Successful use of ectopic pelvic kidney for living related donation technical aspects and literature
+
+review, Case Rep. Transplant. 2017 (2017) 8286257, https://doi.org/10.1155/2017/8286257 (PubMed PMID: 28660086; PubMed Central PMCID:
+PMCPMC5474263).
+
+[4] S.M. Donat, P.E. Donat, Intrathoracic kidney: a case report with a review of the world literature, J. Urol. 140 (1) (1988) 131–133 (PubMed PMID: 3288769).
+[5] J.J. Murphy, G. Altit, S. Zerhouni, The intrathoracic kidney: should we ﬁx it? J. Pediatr. Surg. 47 (5) (2012) 970–973, https://doi.org/10.1016/j.jpedsurg.2012.
+
+01.056 (PubMed PMID: 22595583 ).
+
+[6] E. Panagouli, A. Tsaraklis, D. Venieratos, A lower polar additional renal artery in an ectopic intraperitoneal kidney, Folia Morphol. (Warsz) 70 (1) (2011) 56–58
+
+(PubMed PMID: 21604254 ).
+
+[7] S. Standring, N.R. Borley, P. Collins, A.R. Crossman, M.A. Gatzoulis, J.C. Healy, et al., Gray's Anatomy: The Anatomical Basis of Clinical Practice, 40th ed.,
+
+Elsevier, Edinburgh, 2008, pp. 1225–1233.
+
+[8] A. Kawashima, C.M. Sandler, F.M. Corl, O.C. West, E.P. Tamm, E.K. Fishman, et al., Imaging of renal trauma: a comprehensive review, Radiographics 21 (3)
+
+(2001) 557–574, https://doi.org/10.1148/radiographics.21.3.g01ma11557 (PubMed PMID: 11353106 ).
+
+[9] J.A. Long, G. Fiard, J.L. Descotes, V. Arnoux, A. Arvin-Berod, N. Terrier, et al., High-grade renal injury: non-operative management of urinary extravasation and
+prediction of long-term outcomes, BJU Int. 111 (4 Pt B) (2013) E249–E255, https://doi.org/10.1111/j.1464-410X.2012.11578.x (PubMed PMID: 23088369 ).
+
+[10] E.C. Umbreit, J.C. Routh, D.A. Husmann, Nonoperative management of nonvascular grade IV blunt renal trauma in children: meta-analysis and systematic
+
+review, Urology 74 (3) (2009) 579–582, https://doi.org/10.1016/j.urology.2009.04.049 (PubMed PMID: 19589574 ).
+
+7
+
+

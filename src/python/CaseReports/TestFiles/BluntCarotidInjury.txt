@@ -1,0 +1,226 @@
+Trauma Case Reports 24 (2019) 100263
+
+Contents lists available at ScienceDirect
+
+Trauma Case Reports
+
+journal homepage: www.elsevier.com/locate/tcr
+
+Case Report
+Blunt carotid injury with thrombotic occlusion: Is an intervention
+always required for best outcome?
+Amulya Rattan1,⁎, Ruby Kataria2, Ajay Kumar1, Quamar Azam (Md)3
+
+Department of Trauma Surgery & Critical Care, Trauma Center, AIIMS Rishikesh, India
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Blunt carotid vascular injury
+BCVI
+Stroke recovery
+Anticoagulation
+Carotid stenting
+Carotid trauma
+
+Introduction
+
+Blunt cerebrovascular injuries are rare, comprises of 0.08 to 0.33% of all traumatic blunt injuries.
+Depending on the grade of severity, they may heal with minimal consequences or may lead to
+debilitating and devastating stroke. Surgically accessible lesions are infrequent and hence en-
+dovascular management is preferred modality for high-grade lesions. We hereby present a case of
+complete thrombosis of the common carotid artery, which couldn't receive either surgical or
+endovascular treatment due to low resource settings. The patient developed a stroke after 18 h of
+trauma, which, however, recovered completely and dramatically within 96 h. To the best of our
+knowledge, such rapid and complete recovery from stroke secondary to blunt carotid injury
+managed non-operatively hasn't been reported in literature so far. Our report adds to the scarce
+but growing body of evidence recommending conservative management in BCVI in absence of
+enlarging pseudoaneurysm and dissection with near-complete stenosis.
+
+Blunt cerebrovascular injuries are rare, comprises of 0.08 to 0.33% of all traumatic blunt injuries [1]. Advent of faster CTs has
+increased their detection rate. Depending on the grade of severity, they may heal with minimal consequences or may lead to de-
+bilitating and devastating stroke [2]. Due to rarity, current treatment guidelines are based on extrapolation of experiences from
+single-center studies. Surgically accessible lesions are infrequent and hence endovascular management is preferred modality for high-
+grade lesions [2]. Irrespective of modality chosen, antithrombotic therapy is a must to minimize rates of secondary stroke [3]. We
+hereby present a case of complete thrombosis of the common carotid artery, which couldn't receive either surgical or endovascular
+treatment due to low resource settings. The patient developed a stroke after 18 h of trauma, which, however, recovered completely
+and dramatically within 96 h. To the best of our knowledge, such rapid and complete recovery from stroke secondary to blunt carotid
+injury managed non-operatively hasn't been reported in literature so far.
+
+Case report
+
+28-year lady was brought to the ED with an alleged history of accidental strangulation by cloth while working in ﬁelds. The
+patient presented to us after 8 h of trauma. Airway was patent and the cervical spine motion was restricted. A patterned bruise of
+
+⁎ Corresponding author.
+E-mail address: amulya.rattan@gmail.com (Q. Azam).
+
+1 Assistant Professor
+2 Trauma Fellow
+3 Professor
+
+https://doi.org/10.1016/j.tcr.2019.100263
+Accepted 6 November 2019
+2352-6440/ © 2019 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+
+A. Rattan, et al.
+
+Trauma Case Reports 24 (2019) 100263
+
+Fig. 1. Patterned abrasion suggestive of strangulation injury.
+
+strangulation was present in the middle of the neck (Fig. 1). Larynx and cricotracheal junction were normal to palpation. Breathing
+and circulation were normal and there was no neurological disability. Mild surgical emphysema was present in the face and neck.
+CECT neck revealed tracheal transection more than 50% of the circumference and an abnormally dilated segment of the esophagus
+(Fig. 2). Contrast esophagogram wasn't performed as the patient had an upfront indication of exploration. CT Angio revealed
+complete luminal occlusion of left Common Carotid Artery due to thrombosis 3 cm below bifurcation (Fig. 3); however, the contrast
+was present in the internal carotid artery presumably entering retrogradely from external carotid artery. Interventional radiology
+expertise for CCA stenting wasn't available. The patient was taken up for emergent exploration where complete transection of the
+trachea was repaired along with the esophagus. CCA exploration revealed a contused artery not amenable to resection and end to end
+repair. CCA size precluded the use of saphenous graft due to anticipated luminal discrepancy and subsequent turbulent ﬂow. PTFE
+and Dacron couldn't be arranged in the middle of the night. The operating surgeon decided to manage CCA contusion and thrombosis
+non-operatively as the patient presented after 8 h and majority strokes in Grade 4 injury would have manifested in this period. CCA
+ligation wasn't done in the apprehension of antegrade thrombus propagation post ligation.
+
+Unfortunately, the patient developed right hemiparesis in the immediate post-operative period. MR brain with angiogram re-
+vealed thrombus propagation involving ICA and Left MCA and conﬁrmed stroke (Fig. 4). The patient was started on anticoagulation
+and intensive physiotherapy. Her maximal power was 2/5 in the upper limb and 3/5 in the lower limb. With physiotherapy, she
+started regaining strength and by the third postoperative day, she had regained full power and could write and walk independently.
+Follow up Doppler showed no recanalization (Fig. 5). The rest post-op period was uneventful and the patient was discharged home
+neurologically intact, on antithrombotic therapy.
+
+Discussion
+
+High grade blunt carotid injuries have stroke rates ranging from 26% in Grade 3 (pseudoaneurysm) to 100% in grade 5
+(transection) [2]. Optimal treatment remains unclear [4,5]. Due to high rates of stroke in these patients, intervention is advocated,
+whether surgical or interventional radiological [2]. In all grades, low or high, antithrombotic or anticoagulant therapy is standard of
+care [3,6]. Grade 4 lesions (complete luminal thrombosis) are generally managed with stenting [2]. However, in this case, the patient
+was undergoing urgent neck exploration for concomitant tracheoesophageal injury and CCA being surgically accessible was amenable
+to repair. Logistic limitations ruled out surgical management of CCA injury. Saphenous vein interposition wasn't considered apt due
+
+Fig. 2. Abnormally dilated esophagus.
+
+2
+
+A. Rattan, et al.
+
+Trauma Case Reports 24 (2019) 100263
+
+Fig. 3. Axial section CTA showing non-opaciﬁcation of left CCA.
+
+Fig. 4. MR Angio showing propagation of thrombus in left ICA.
+
+to gross luminal discrepancy with injured CCA. ECA transposition to replace traumatized CCA was fraught with the danger of
+compromising the collateral supply of ICA which was perfusing the brain till presentation to ED, as seen in CT Angio.
+
+Prognosis and neurological outcome in BCVI is highly associated with GCS at presentation [2]. In symptomatic patients, the
+period to development of stroke is highly variable, ranging from 6 h to 53 h [4,7,8]. Delayed presentation with rupture in asymp-
+tomatic patients has been documented as late as 2 weeks after trauma without any deﬁcit, putting a natural history of CCA occlusion
+to speculation [9–11]. It is diﬃcult to answer how many of these patients would actually beneﬁt from intervention after being
+asymptomatic for so long. There are reports of neurologically intact survival after CCA and subclavian ligation in damage control
+surgery [12]. In our case, the patient presented neurologically intact after 10 h of trauma but developed stroke in the immediate post-
+operative period. Whether thrombus propagated due to the hypotensive eﬀect of general anesthesia or migrated as a result of
+perioperative manipulation, remains an open question.
+
+Some researchers have started questioning the utility of stenting in BCVI [4,13,14]. In fact, indications of stenting have been
+narrowed down to enlarging pseudoaneurysms and dissection with near-complete stenosis [14,15]. A review of patients undergoing
+CCA revascularization in the non-traumatic population also concluded that the beneﬁts of traditional treatments in asymptomatic
+
+3
+
+A. Rattan, et al.
+
+Trauma Case Reports 24 (2019) 100263
+
+Fig. 5. Follow up Duplex showing intraluminal thrombus and absence of re-canalization.
+
+patients are uncertain [16].
+
+PubMed search using the MeSH terms “carotid artery injury” or “carotid artery injuries” AND “stroke” AND “stroke recovery”
+
+didn't yield any matching report.
+
+A similar case with complete recovery of post-traumatic ICA stroke has been reported, however, time to recovery was 1 month.
+
+Similar to our case, the maximum deﬁcit was Grade 3 and there was no recanalization on follow up imaging [17].
+
+Dramatic recovery in MCA stroke has been deﬁned in the medical population, however, with thrombolytic infusions in acute
+window [18]. In our case, routine antithrombotic therapy alone was followed. There is apprehension about secondary stroke from the
+recanalization of the thrombosed artery too and some people recommend follow up imaging for the same [2]. Follow up imaging in
+our case showed no recanalization.
+
+The principle of ‘primum non-nocere’ with fate on the patient's side yielded excellent outcome in our case. Being a rare injury,
+GRADE 1 recommendations on the treatment of blunt carotid injuries are not possible currently. However, conservative management
+of grade 4 blunt carotid injury has come up as an option in low resource settings, as in our case, with a satisfactory outcome.
+
+References
+
+[1] B. Jeﬀrey, H. Teruya Theodore, Carotid and vertebral artery injuries, in: B. Robert (Ed.), Rutherford: Vascular Surgery, 6 Rutherford, Saunders, 2005, pp. 1009–1012.
+[2] https://www.uptodate.com/contents/blunt-cerebrovascular-injury-treatment-and-outcomes (Accessed on April 30, 2019).
+[3] C.C. Cothren, E.E. Moore, W.L. Biﬄ, D.J. Ciesla, C.E. Ray Jr., J.L. Johnson, J.B. Moore, J.M. Burch, Anticoagulation is the gold standard therapy for blunt carotid injuries to
+
+reduce stroke rate, Arch. Surg. 139 (5) (May 2004) 540–545 (discussion 545-6).
+
+[4] J.E. Kray, V.Y. Dombrovskiy, T.R. Vogel, Carotid artery dissection and motor vehicle trauma: patient demographics, associated injuries and impact of treatment on cost and
+length of stay, BMC Emerg Med. 16 (1) (Jul 8 2016) 23, https://doi.org/10.1186/s12873-016-0088-z (PubMed PMID: 27392601; PubMed Central PMCID: PMC4938937).
+[5] G. Galyfos, K. Filis, F. Sigala, A. Sianou, Traumatic carotid artery dissection: a diﬀerent entity without speciﬁc guidelines, Vasc Specialist Int 32 (1) (Mar 2016) 1–5, https://
+
+doi.org/10.5758/vsi.2016.32.1.1 (Epub 2016 Mar 31. PubMed PMID: 27051653; PubMed Central PMCID: PMC4816018).
+
+[6] D.M. Stein, S. Boswell, C.W. Sliker, F.Y. Lui, T.M. Scalea, Blunt cerebrovascular injuries: does treatment always matter? J. Trauma 66 (1) (Jan 2009) 132–143 (discussion
+
+143-4).
+
+[7] E. Correa, B. Martinez, Traumatic dissection of the internal carotid artery: simultaneous infarct of optic nerve and brain, Clin Case Rep. 2 (2) (Apr 2014) 51–56, https://doi.
+
+org/10.1002/ccr3.53 (Epub 2014 Mar 3. PubMed PMID: 25356244; PubMed Central PMCID: PMC4184630).
+
+[8] T.C. Fabian, J.H. Patton Jr., M.A. Croce, G. Minard, K.A. Kudsk, F.E. Pritchard, Blunt carotid injury. Importance of early diagnosis and anticoagulant therapy, Ann. Surg.
+
+223 (5) (May 1996) 513–522 (discussion 522-5).
+
+[9] S.A. Richard, C.W. Zhang, C. Wu, W. Ting, X. Xiaodong, Traumatic penetrating neck injury with right common carotid artery dissection and stenosis eﬀectively managed
+
+with stenting: a case report and review of the literature, Case Rep Vasc Med 2018 (Jun 10 2018) 4602743, , https://doi.org/10.1155/2018/4602743 (PubMed PMID:
+29984035; PubMed Central PMCID: PMC6015681).
+
+[10] N. Thakore, S. Abbas, P. Vanniasingham, Delayed rupture of common carotid artery following rugby tackle injury: a case report, World J Emerg Surg 3 (Mar 21 2008) 14,
+
+https://doi.org/10.1186/1749-7922-3-14 (PubMed PMID: 18355416; PubMed Central PMCID: PMC2277436).
+
+[11] S.M. Wijeyaratne, C. Weerasinghe, M.R. Cassim, Blunt carotid injury from a penetrating stick: an unexpected injury, BMJ Case Rep. 22 (Jul 2010) bcr0120102677, , https://
+
+doi.org/10.1136/bcr.01.2010.2677 (PubMed PMID: 22767558; PubMed Central PMCID: PMC3028294).
+
+[12] A. Babu, H. Garg, S. Sagar, A. Gupta, S. Kumar, Penetrating neck injury: collaterals for another life after ligation of common carotid artery and subclavian artery, Chin. J.
+Traumatol. 20 (1) (Feb 2017) 56–58, https://doi.org/10.1016/j.cjtee.2015.12.015 (Epub 2016 Sep 6. PubMed PMID: 28233726; PubMed Central PMCID: PMC5343100).
+
+[13] C.C. Burlew, W.L. Biﬄ, E.E. Moore, F.M. Pieracci, K.M. Beauchamp, R. Stovall, A.E. Wagenaar, G.J. Jurkovich, Endovascular stenting is rarely necessary for the man-
+
+agement of blunt cerebrovascular injuries, J. Am. Coll. Surg. 218 (5) (May 2014) 1012–1017.
+
+[14] C.P. Shahan, J.P. Sharpe, S.M. Stickley, N.R. Manley, D.M. Filiberto, T.C. Fabian, M.A. Croce, L.J. Magnotti, The changing role of endovascular stenting for blunt cere-
+
+brovascular injuries, J. Trauma Acute Care Surg. 84 (2) (Feb 2018) 308–311, https://doi.org/10.1097/TA.0000000000001740.
+
+[15] C.C. Cothren, E.E. Moore, C.E. Ray Jr., D.J. Ciesla, J.L. Johnson, J.B. Moore, J.M. Burch, Carotid artery stents for blunt cerebrovascular injury: risks exceed beneﬁts, Arch.
+
+Surg. 140 (5) (May 2005) 480–485 (discussion 485-6).
+
+[16] S. Belczak, G.C. Mulatti, S.R. Abrão, E.S. da Silva, R. Aun, P. Puech-Leão, N. de Luccia, Common carotid artery occlusion: a single-center experience in 40 cases, Int. J.
+[17] Z. Bajkó, S. Maier, A. Moţăţăianu, R. Bălaşa, S. Vasiu, A. Stoian, S. Andone, Stroke secondary to traumatic carotid artery injury - a case report, J Crit Care Med (Targu Mures)
+
+Angiol. 25 (1) (2016 Mar) 39–43, https://doi.org/10.1055/s-0035-1547340 (Epub 2015 Mar 23. PubMed PMID: 26900310; PubMed Central PMCID: PMC4758852).
+
+4 (1) (2018) 23–28, https://doi.org/10.1515/jccm-2018-0003 Feb 9. (PubMed PMID: 29967897; PubMed Central PMCID: PMC5953265).
+
+[18] R.A. Felberg, N.J. Okon, A. El-Mitwalli, W. Scott Burgin, J.C. Grotta, A.V. Alexandrov, Early dramatic recovery during intravenous tissue plasminogen activator infusion.
+
+Clinical pattern and outcome in acute middle cerebral artery stroke, Stroke 33 (2002) 1301–1307.
+
+4
+
+

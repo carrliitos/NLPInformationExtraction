@@ -1,0 +1,210 @@
+Trauma Case Reports 21 (2019) 100199
+
+Contents lists available at ScienceDirect
+
+Trauma Case Reports
+
+journal homepage: www.elsevier.com/locate/tcr
+
+Case Report
+Entrapment of the urinary bladder: A rare mechanism of bladder
+injury in pelvic trauma
+Derek S. Stenquista,⁎, Tyler J. Chavezb, Michael J. Weaverc,d
+
+a Harvard Combined Orthopedic Residency Program, Brigham and Women's Hospital, United States of America
+b Harvard Medical School, 25 Shattuck Street, Boston, MA 02115, United States of America
+c Harvard Medical School, Brigham and Women's Hospital, United States of America
+d Orthopaedic Trauma, Brigham and Women's Hospital, United States of America
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Trauma surgery
+Pelvic fracture
+Bladder entrapment
+Pelvic trauma
+Genitourinary trauma
+
+A pelvic fracture with entrapment of the urinary bladder in the fracture site is a rare pattern of
+injury. As the “team captains” in the trauma bay and in the care of polytraumatized patients,
+trauma surgeons must be aware of this entity and its implications. We report a case of acute
+bladder entrapment in the fracture site of a lateral compression pelvic fracture. A review of the
+English literature yielded four previous reports, including two patients with delayed diagnosis
+(Ghuman et al., 2014; Kumar et al., 1980; Wright and Taitsman, 1996; Min et al., 2010 [1–4]).
+Kumar and colleagues ﬁrst documented bladder entrapment by a pelvic fracture in 1980
+(Kumar et al., 1980 [2]). Ghuman et al. described a similar case treated with ﬁxation of the pelvic
+fracture (Ghuman et al., 2014 [1]). Wright and colleagues treated a patient with bladder per-
+foration due to entrapment diagnosed two weeks after a pelvic ring fracture (Wright and
+Taitsman, 1996 [3]). In this case the bladder injury was repaired, but internal ﬁxation of the
+pelvis fracture was avoided due to fear of contamination. Finally, Min et al. documented a case of
+bladder entrapment and perforation presenting six months after non-operative management of a
+pelvic ring fracture. The female patient developed recurrent UTIs and dyspareunia, and imaging
+revealed fracture malunion with the bladder entrapped in the fracture site (Min et al., 2010 [4]).
+This collection of case reports demonstrates the potential for acute or delayed bladder injury
+even in seemingly benign pelvic fractures. A high index of suspicion is required to intervene and
+prevent morbidity from bladder injuries in pelvic trauma. Entrapment of the bladder may require
+surgical intervention even when the injury pattern would not normally dictate surgery for the
+pelvis or bladder alone (Bryk and Zhao, 2016 [5]). We describe the diagnosis and surgical
+management of bladder entrapment and present a brief review of bladder injuries associated with
+pelvic fractures.
+
+Case report
+
+A 37-year-old male carpenter presented after a 20-foot fall from a ladder at work. His GCS was 15 in the Trauma Bay and FAST
+exam was negative. Physical exam demonstrated a scalp laceration and pain with pelvic compression. There was no blood at the
+urethral meatus and no scrotal hematoma but Foley catheter placement yielded gross blood. Pelvis x-ray showed a pelvic ring fracture
+and CT scan conﬁrmed a crescent fracture of the left ilium with left superior and inferior pubic rami fractures. A CT cystogram
+
+⁎ Corresponding author at: Brigham and Women's Hospital, 75 Francis Street, Boston, MA 02115, United States of America.
+E-mail address: DSTENQUIST@mgh.harvard.edu (D.S. Stenquist).
+
+https://doi.org/10.1016/j.tcr.2019.100199
+Accepted 21 April 2019
+Available online 25 April 2019
+2352-6440/ © 2019 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+
+D.S. Stenquist, et al.
+
+Trauma Case Reports 21 (2019) 100199
+
+Fig. 1. Residual contrast in the bladder shows bladder entrapment by the left superior pubic ramus fracture on this AP pelvis X-ray.
+
+demonstrated entrapment of the bladder in the left superior pubic ramus fracture with no contrast extravasation, and residual
+contrast in the bladder showed the entrapment on plain ﬁlm (Fig. 1).
+
+The patient was taken to the operating room the next day for open reduction and internal ﬁxation of his pelvis fracture with
+release of the entrapped bladder (Fig. 2). After careful dissection, a Cobb elevator was used to pry the left superior pubic ramus
+fracture apart, and the bladder was teased free from the fracture site. A tear in the bladder wall extending into the muscularis layer
+but not through the mucosa was repaired with absorbable sutures in a mattress pattern. The fracture site was irrigated and ﬁxed with
+a small fragment reconstruction plate. Percutaneous ﬁxation of the posterior pelvic ring injury was performed with a sacroiliac screw
+(Fig. 3). The patient was given peri-operative antibiotics per routine and discharged with the Foley in place for two weeks, toe-touch
+weightbearing on the aﬀected extremity. Two weeks after surgery, repeat cystogram demonstrated no active extravasation from the
+
+Fig. 2. Intra-operative photograph showing the bladder trapped in the fracture site of the left superior pubic ramus. (Blue arrow = fracture. Black
+arrow = bladder.) (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.)
+
+2
+
+D.S. Stenquist, et al.
+
+Trauma Case Reports 21 (2019) 100199
+
+Fig. 3. AP pelvis X-ray 3 months status post open reduction, internal ﬁxation.
+
+bladder. The Foley was removed and the patient passed a voiding trial. At 6-week follow up his fractures were healing well and he
+had no urinary symptoms. By 4 months after surgery, he had returned to work and has experienced no complications, now 18 months
+after injury.
+
+Discussion
+
+Pelvic fractures make up approximately 10% of fractures in blunt trauma patients [6,7]. They are particularly important to
+trauma and orthopaedic surgeons because they indicate major force and have a high rate of associated injuries [6,7]. More than 16%
+of patients with severe pelvic fractures have intra-abdominal or urogenital injuries, and the bladder and urethra are among the most
+commonly injured organs [7]. Both pelvic fractures and urogenital injuries are a source of signiﬁcant healthcare costs and morbidity
+[6–8]. In the USA, the cost of pelvic fractures is nearly $1.5 billion annually, and non-renal genitourinary injuries account for an
+additional $1 billion [6,8].
+
+Injuries to the bladder range in severity from contusion to bladder rupture (Table 1) [5]. Mechanisms of bladder injury in pelvic
+trauma include direct penetration by bony fragments, compression, or shearing forces transmitted through ligamentous attachments.
+Injuries to the bladder neck and urethra as well as combined extra- and intraperitoneal perforation can occur [6]. This case report and
+those previously identiﬁed demonstrate that bladder entrapment in the fracture site is an additional mechanism of injury that must be
+appreciated. Bladder herniation and entrapment at the pubic symphysis after reduction of a traumatic diastasis has also been reported
+several times [9].
+
+Trauma surgeons may be the ﬁrst to recognize genitourinary injury associated with a pelvic fracture during the secondary survey
+in the trauma bay. Blood at the urethral meatus indicates possible urethral injury and Foley catheter placement is deferred. A
+retrograde urethrogram is performed to evaluate for urethral injury and a urology consultation should be obtained. In the absence of
+blood at the urethral meatus, a Foley catheter may be placed. If clear urine is obtained, no further work-up for a urinary tract injury is
+required. However, gross hematuria warrants further evaluation [5].
+
+Hematuria is a hallmark sign of injury to the bladder and may result from contusion, direct laceration, or rupture [10]. This series
+of case reports demonstrates that bladder entrapment can present with gross or microscopic hematuria [1–4]. Brewer et al. found that
+the presence of gross hematuria in blunt trauma patients demonstrated 100% sensitivity and 98.5% speciﬁcity for bladder injury
+[10]. Cystography of the bladder (traditional or CT) is recommended for hemodynamically stable patients with gross hematuria and
+
+Table 1
+AAST organ injury severity scale for bladder trauma [5].
+
+Grade
+
+Description of Injury
+
+1
+2
+3
+4
+5
+
+Hematoma + Contusion, partial thickness laceration
+Extraperitoneal bladder wall laceration < 2 cm
+Extraperitoneal bladder (> 2 cm) or intraperitoneal (< 2 cm) bladder laceration
+Intraperitoneal bladder wall laceration > 2 cm
+Intraperitoneal or extraperitoneal bladder wall laceration extending into the bladder neck or ureteric oriﬁce
+
+3
+
+D.S. Stenquist, et al.
+
+Trauma Case Reports 21 (2019) 100199
+
+either a pelvic ring fracture or a mechanism of injury concerning for bladder injury [5]. More complex injuries to the bladder may
+require co-management by trauma surgeons, orthopaedic surgeons, and urologic surgeons.
+
+Our patient underwent CT cystogram for gross hematuria which demonstrated bladder entrapment but no perforation. According
+to the American Association for the Surgery of Trauma (AAST) classiﬁcation, hematuria without perforation represents a Grade I
+bladder injury and should be treated non-operatively [5,6]. However, all previously documented cases of bladder entrapment have
+been managed surgically due to the interaction between the fracture and the bladder [1–4]. Therefore, bladder entrapment is a
+unique injury because it represents a Grade I bladder injury (typically non-operative) which may beneﬁt from operative management.
+Although rare, bladder entrapment by a pelvic ring fracture has now been documented several times. Bladder entrapment is an
+AAST Grade I injury but trauma surgeons should be aware that these injuries will likely require operative management due to the
+potential for perforation, delayed perforation, or symptoms of urinary and sexual dysfunction. These injuries represent a unique
+intersection of orthopaedic and urologic trauma requiring interdisciplinary collaboration and individualized management. Clinicians
+must maintain a high index of suspicion for urogenital injury in patients with pelvic fractures, and trauma surgeons should be aware
+of this unique mechanism of bladder injury after blunt trauma.
+
+Conﬂicts of interest
+
+None.
+
+References
+
+[1] M.S. Ghuman, S. Kaur, K. Saggar, Urinary bladder herniation into pubic ramus fracture, Urol. J. 11 (4) (2014) 1852 http://www.ncbi.nlm.nih.gov/pubmed/
+
+25194091.
+
+[2] R. Kumar, D.C. Schaﬀ, E.S. Ostrowski, Entrapped urinary bladder: complication of pelvic trauma, Urology 16 (1) (1980) 82–83 http://www.ncbi.nlm.nih.gov/
+
+pubmed/7395017.
+
+[3] D.G. Wright, L.L.R. Taitsman, Case report: pelvic and bladder trauma: a case report and subject review, J. Orthop. Trauma 10 (5) (1996) 351–354.
+[4] W. Min, R.J. Gaines, H.C. Sagi, Delayed presentation of bladder entrapment secondary to nonoperative treatment of a lateral compression pelvic fracture, J.
+
+Orthop. Trauma 24 (5) (2010) e44–e48, https://doi.org/10.1097/BOT.0b013e3181a9ee1d.
+
+[5] D.J. Bryk, L.C. Zhao, Guideline of guidelines: a review of urological trauma guidelines, BJU Int. 117 (2) (2016) 226–234, https://doi.org/10.1111/bju.13040.
+[6] B. Figler, C. Edward Hoﬄer, W. Reisman, et al., Multi-disciplinary update on pelvic fracture associated bladder and urethral injuries, Injury 43 (8) (2012)
+
+1242–1249, https://doi.org/10.1016/j.injury.2012.03.031.
+
+[7] D. Demetriades, M. Karaiskakis, K. Toutouzas, K. Alo, G. Velmahos, L. Chan, Pelvic fractures: epidemiology and predictors of associated abdominal injuries and
+
+outcomes, J. Am. Coll. Surg. 195 (1) (2002) 1–10 http://www.ncbi.nlm.nih.gov/pubmed/12113532.
+
+[8] E. Zaloshnja, T. Miller, E. Romano, R. Spicer, Crash costs by body part injured, fracture involvement, and threat-to-life severity, United States, 2000, Accid Anal
+
+Prev 36 (3) (2004) 415–427, https://doi.org/10.1016/S0001-4575(03)00035-6.
+
+[9] R.P. Finnan, M.A. Herbenick, M.J. Prayson, M.C. McCarthy, Bladder incarceration following anterior external ﬁxation of a traumatic pubic symphysis diastasis
+
+treated with immediate open reduction and internal ﬁxation, Patient Saf Surg 2 (1) (2008) 26, https://doi.org/10.1186/1754-9493-2-26.
+
+[10] M.E. Brewer, R.J. Wilmoth, B.L. Enderson, B.J. Daley, Prospective comparison of microscopic and gross hematuria as predictors of bladder injury in blunt
+
+trauma, Urology 69 (6) (2007) 1086–1089, https://doi.org/10.1016/j.urology.2007.02.056.
+
+4
+
+
