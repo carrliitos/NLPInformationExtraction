@@ -1,38 +1,3 @@
-Trauma Case Reports 1 (2015) 17–20
-
-Contents lists available at ScienceDirect
-
-Trauma Case Reports
-
-j o u r n a l h o m e p a g e : h t t p : / / w w w . j o u r n a l s . e l s e vi e r . c o m /
-
-t r a u m a - c a s e - r e p o r t s /
-
-Case Report
-An unduly delayed presentation of an “isolated segment of
-ileum” after blunt abdominal trauma with full recovery
-H.K.C. Lakmal ⁎, D. Rupasinghe, B.L. Perera
-
-National Hospital Sri Lanka, Colombo, Sri Lanka
-
-a r t i c l e
-
-i n f o
-
-Article history:
-Accepted 7 April 2015
-Available online 7 May 2015
-
-Introduction
-
-Small bowel injury (SBI) is a rare but signiﬁcant complication after blunt abdominal trauma (BAT). De-
-layed presentations of bowel perforations have a high morbidity and mortality due to high faecal contamina-
-tion as it leads to peritonitis. Diagnosis of an isolated SBI in trauma victims, who are otherwise healthy, is a
-challenging issue unless there is a high degree of suspicion. Majority of blunt abdominal trauma, associated
-with bowel injuries, are caused by motor vehicle accidents (MVAs). In this research study we are reporting
-a case of a delayed presentation of avulsion of the terminal ileum due blunt abdominal trauma after a
-motor vehicle accident (MVA).
-
 Case report
 
 A 57-year old male was admitted to the surgical casualty ward with severe lower abdominal pain and high
@@ -43,38 +8,19 @@ ment of the local hospital. Chest and pelvic X-rays and FAST (focused abdominal 
 were done and the patient was discharged with analgesics as investigations indicated that he was clinically
 normal. Patient was asymptomatic for 2 days and then on the third day, he developed abdominal pain and
 fever. He was readmitted to the local hospital on day 4 and was investigated for abdominal pain. On the 7th
-
-⁎ Corresponding author at: 374, Dikhenapura, Munagama, Horana, 12400 Sri Lanka. Tel.: +94 775292757.
-
-E-mail addresses: kasunlakmal@ymail.com (H.K.C. Lakmal), drdamindarupasinghe@yahoo.com (D. Rupasinghe), blalithp@yahoo.com
-
-(B.L. Perera).
-
-http://dx.doi.org/10.1016/j.tcr.2015.04.001
-2352-6440/© 2015 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
-(http://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-18
-
-H.K.C. Lakmal et al. / Trauma Case Reports 1 (2015) 17–20
-
 day, he developed absolute constipation, vomiting and high fever and was transferred to the national hospital
 for further management and investigation.
-
 Upon admission, the patient had fever with chills and persistent vomiting. The patient was in septic shock
 and abdominal examination revealed a distinctive palpable mass in right lower quadrant. Patient was resus-
 citated with Intravenous (IV) ﬂuids and IV antibiotics were started. Routine blood samples were drawn, which
-revealed signs of infection. The blood counts during the initial investigations are given below.
-
-• White blood cells: 33.4 ∗ 103/mm3
-• C-reactive protein: 93.7 mg/l
-• Deranged serum creatinine: 163 micromol/l
-• Clotting proﬁle: INR-1.6
-
+revealed signs of infection. The blood counts during the initial investigations are given: 
+White blood cells: 33.4 ∗ 103/mm3
+C-reactive protein: 93.7 mg/l
+Deranged serum creatinine: 163 micromol/l
+Clotting proﬁle: INR-1.6
 Abdominal X-rays showed multiple dilated small bowel loops and contrast enhanced computed tomogra-
 phy (CT) of the abdomen, revealed an ileal transection proximal to the ileocaecal junction with faecal collec-
 tion (Fig. 1).
-
 An Emergency Laparotomy was performed and an isolated ileal segment of 15 cm was found adherent to
 peritoneal surface of anterior abdominal wall. This segment was detached from the ileum, 12 cm proximal to
 the ileocaecal junction. There was an omental mass covered with faeces with impending entero-cutaneous
@@ -83,144 +29,3 @@ ination. The diseased segment removed and a double barrel ileostomy was made aft
 vage. The patient recovered without signiﬁcant morbidity and was discharged (How many days after? Its
 more comprehensive if this is mentioned). He was then readmitted six weeks later for ileostomy reversal
 and was discharged after full recovery.
-
-Discussion
-
-MVAs are the commonest reason for blunt abdominal trauma, followed by interpersonal violence and fall-
-ing from a height [1,2]. The small bowel is the most commonly injured hollow viscera and third commonest
-organ injured in BAT [3]. Increased intraluminal pressure as a result of elevated intra-abdominal pressure,
-tears and avulsions from ﬁxed points of attachment, and crushing against the spine are the proposed patho-
-physiological causes of SBI. According to our knowledge, this is the ﬁrst report of SBI in BAT after an incident of
-handlebar trauma in motorised trishaw accident. Secondly, this case is unique as this the ﬁrst case of delayed
-
-Fig. 1. CECT abdomen 10 days after initial trauma with faecal collection (arrows) with impending ﬁstulous tract to anterior abdominal
-wall (dashed arrow).
-
-H.K.C. Lakmal et al. / Trauma Case Reports 1 (2015) 17–20
-
-19
-
-presentation of isolated segment of bowel after BAT. There is only one other case report with similarity to the
-present case scenario [4].
-
-SBI after BAT can be reliably diagnosed by clinical examination in only 30% of the cases [6]. Concomitant
-neurological trauma and usage of alcohol, causing reduced level of consciousness, further reduces the reliabil-
-ity of physical assessment of BAT [7]. Current evidence is that the free air under the diaphragm on erect plain
-chest radiographs is of poor sensitivity [8].
-
-FAST examination of blunt abdominal trauma has a good sensitivity for the detection of free ﬂuid but less
-in the detection of intestinal injuries [9,10]. Limited amount of bleeding, paralytic ileus after bowel injury, and
-operator factors may have been the cause for negative FAST in this case of isolated SBI. But there is evidence
-that delayed repeat ultrasound scans may increase the sensitivity [11].
-
-CT abdomen is an investigation of choice with a sensitivity up to 92%, speciﬁcity up to 94% in diagnosing
-SBI after BAT [8,12,13]. CT evidence of contrast extravasation and/or extra luminal air are diagnostic of
-bowel injury and free ﬂuid without solid organ injury, small bowel thickening and dilatation are suggestive
-features [8,13]. However, it should be noted that the CT has as approximately 13% false negative rate which
-challenges its role as gold standard [14]. Diagnostic peritoneal lavage (DPL) has also a place in detecting hol-
-low organ perforation after BAT [15,16]. Laparoscopy can identify SBI in BAT effectively in stable patients and
-improve morbidity and mortality [17,18]. Our case conﬁrms the abovementioned ﬁndings where imaging has
-failed the early diagnosis of SBI. This case conﬁrms that the high degree of clinical suspicion with repeated in-
-vestigations is the only option for early detection of isolated SBI in BAT.
-
-Time elapsed until surgery has been identiﬁed as a major factor causing mortality following SBI. Peritoneal
-soiling and the presence of other nonintestinal lesions have all been identiﬁed as independent factors affect-
-ing the prognosis [19]. When surgery is delayed more than 24 hour mortality can rise more than 50% [19].
-
-Conclusion
-
-Even though our patient had a remarkable recovery, BAT related isolated bowel injury carries a signiﬁcant
-morbidity and mortality due to diagnostic delays. Currently the available investigations still carry variable
-sensitivity or speciﬁcity in diagnosis of SBI in BAT. This condition is further worsened due to the variance of
-the availability of facilities such as CT in the Asian countries. We suggest that patients with blunt abdominal
-trauma with high energy handlebar injuries should have a CECT abdomen to exclude bowel injury regardless
-of the symptoms. If CT facilities are not available, patient should be monitored for delayed symptoms and
-signs at least for 24 h with a delayed ultrasound scan or DPL before discharging from the hospital.
-
-To our knowledge, medical literature about speciﬁc injury patterns of BAT following MVAs associated with
-motorised trishaws is sparse. So we conclude that further studies should be conducted in this regard in order
-to implement better preventive strategies.
-
-Conﬂict of interest
-
-No conﬂicts of interest.
-
-Acknowledgements
-
-Dr. S.A.S. Gunawardena, Consultant Urologist, National Hospital Sri Lanka, Colombo, is thanked for
-
-reviewing the manuscript.
-
-References
-
-[1] J. Smith, E. Caldwell, S. D'Amours, B. Jalaludin, M. Sugrue, Abdominal trauma: a disease in evolution, ANZ J. Surg. 75 (2005)
-
-790–794.
-
-[2] M.A. Gad, A. Saber, S. Farrag, M.E. Shams, G.M. Ellabban, Incidence, patterns, and factors predicting mortality of abdominal injuries
-
-in trauma patients, N. Am. J. Med. Sci. 4 (2012) 129–134.
-
-[3] D.D. Watts, S.M. Fakhry, Incidence of hollow viscus injury in blunt trauma: an analysis from 275,557 trauma admissions from the
-
-East multi-institutional trial, J. Trauma 54 (2003) 289–294.
-
-[4] R. Vijayan, K. Toe, Delayed complete small-bowel and mesenteric transection following seemingly minor blunt abdominal trauma,
-
-BMJ Case Rep. 2013 (2013).
-
-[6] J. Guarino, J.M. Hassett Jr., F.A. Luchette, Small bowel injuries: mechanisms, patterns, and outcome, J. Trauma 39 (1995) 1076–1080.
-
-20
-
-H.K.C. Lakmal et al. / Trauma Case Reports 1 (2015) 17–20
-
-[7] W.S. Hoff, M. Holevar, K.K. Nagy, L. Patterson, J.S. Young, A. Arrillaga, et al., Practice management guidelines for the evaluation of
-blunt abdominal trauma: the EAST practice management guidelines work group, J. Trauma Acute Care Surg. 53 (2002) 602–615.
-[8] M. Saku, K. Yoshimitsu, J. Murakami, Y. Nakamura, S. Oguri, T. Noguchi, et al., Small bowel perforation resulting from blunt abdom-
-
-inal trauma: interval change of radiological characteristics, Radiat. Med. 24 (2006) 358–364.
-
-[9] M.I. Nnamonu, C.H. Ihezue, A.Z. Sule, V.M. Ramyil, S.D. Pam, Diagnostic value of abdominal ultrasonography in patients with blunt
-
-[10] L. Hoffman, D. Pierce, S. Puumala, Clinical predictors of injuries not identiﬁed by focused abdominal sonogram for trauma (FAST)
-
-abdominal trauma, Niger. J. Surg. Res. 19 (2013) 73–78.
-
-examinations, J. Emerg. Med. 36 (2009) 271–279.
-
-[11] L.H. Blackbourne, D. Soffer, M. McKenney, J. Amortegui, C.I. Schulman, B. Crookes, et al., Secondary ultrasound examination in-
-
-creases the sensitivity of the FAST exam in blunt trauma, J. Trauma 57 (2004) 934–938.
-
-[12] J. Sherck, C. Shatney, K. Sensaki, V. Selivanov, The accuracy of computed tomography in the diagnosis of blunt small-bowel perfo-
-
-ration, Am. J. Surg. 168 (1994) 670–675.
-
-[13] K.K. Tan, J.Z. Liu, T.S. Go, A. Vijayan, M.T. Chiu, Computed tomography has an important role in hollow viscus and mesenteric inju-
-
-ries after blunt abdominal trauma, Injury 41 (2010) 475–478.
-
-[14] S.M. Fakhry, D.D. Watts, F.A. Luchette, Current diagnostic approaches lack sensitivity in the diagnosis of perforated blunt small
-bowel injury: analysis from 275,557 trauma admissions from the EAST multi-institutional HVI trial, J. Trauma 54 (2003) 295–306.
-[15] K.K. Nagy, R.R. Roberts, K.T. Joseph, R.F. Smith, G.C. An, F. Bokhari, et al., Experience with over 2500 diagnostic peritoneal lavages,
-
-Injury 31 (2000) 479–482.
-
-[16] Y.C. Wang, C.H. Hsieh, C.Y. Fu, C.C. Yeh, S.C. Wu, R.J. Chen, Hollow organ perforation in blunt abdominal trauma: the role of diag-
-
-nostic peritoneal lavage, Am. J. Emerg. Med. 30 (2012) 570–573.
-
-[17] M. Khubutiya, P.A. Yartsev, A.A. Guliaev, V.D. Levitsky, M.A. Tlibekova, Laparoscopy in blunt and penetrating abdominal trauma,
-
-Surg. Laparosc. Endosc. Percutan. Tech. 23 (2013) 507–512.
-
-[18] J.J. Johnson, T. Garwe, A.R. Raines, J.B. Thurman, S. Carter, J.S. Bender, et al., The use of laparoscopy in the diagnosis and treatment of
-blunt and penetrating abdominal injuries: 10-year experience at a level 1 trauma center, Am. J. Surg. 205 (2013) 317–320 discus-
-sion 21.
-
-[19] G.R. Faria, A.B. Almeida, H. Moreira, E. Barbosa, P. Correia-da-Silva, J. Costa-Maia, Prognostic factors for traumatic bowel injuries:
-
-killing time, World J. Surg. 36 (2012) 807–812.
-
-

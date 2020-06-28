@@ -1,90 +1,13 @@
-Trauma Case Reports 26 (2020) 100277
-
-Contents lists available at ScienceDirect
-
-Trauma Case Reports
-
-journal homepage: www.elsevier.com/locate/tcr
-
-Case Report
-Hoﬀa fracture associated with tibial shaft fracture and multiple
-ligament avulsion fractures: A case report
-Qian Liu, Wanchun Wang, Wei Fan, Weihong Zhu⁎
-
-Department of Orthopaedics, The Second Xiangya Hospital, Central South University, Changsha, PR China
-
-A R T I C L E I N F O
-
-A B S T R A C T
-
-Keywords:
-Hoﬀa fracture
-Tibial fracture
-Anterior cruciate ligament
-Posterior cruciate ligament
-Avulsion
-Arthroscopic technique
-
-Introduction
-
-Hoﬀa fracture combined with tibial shaft fracture and multiple ligament avulsion injuries is
-extremely rare. Herein, we report a case of medial Hoﬀa fracture with associated fracture of tibial
-shaft and avulsion fractures of multiple ligaments secondary to knee dislocation. A 17-year-old
-female with history of a motorcycle accident was referred to our hospital after knee joint re-
-duction at a regional trauma center. Preoperative radiology revealed a medial Hoﬀa fracture
-associated with tibial shaft fracture, inferior pole patellar fracture, ﬁbular head fracture and
-multiple ligament avulsion fractures including anterior cruciate ligament, posterior cruciate li-
-gament and medial collateral ligament. A less invasive approach via arthroscopy-assisted tech-
-nique and minimally invasive plate osteosynthesis (MIPO) technique was used for fracture re-
-duction and ﬁxation. Six months postoperatively, the patient had arthroﬁbrosis and adhesiolysis
-under arthroscopy was performed. At the last follow-up of 24 months, the patient regained knee
-full range of motion and returned to pre-injury level of activities. Although minimally invasive
-techniques were used to speed recovery, the orthopaedic surgeon should still be aware of the
-possibility of postoperative arthroﬁbrosis as multiple site fractures may need longer im-
-mobilization.
-
-Hoﬀa fractures are rare injuries characterized by femoral condylar fractures in the coronal plane. They are often associated with
-high-energy trauma and are more commonly seen in the lateral femoral condyle than the medial femoral condyle [1]. While Hoﬀa
-fractures in association with femoral fracture [2], tibial fracture [3] or soft tissue injury [4] have been reported, there were no reports
-regarding the occurrence of a medial Hoﬀa fracture combined with ipsilateral tibial shaft fracture and multiple ligament avulsion
-fractures. Herein, we report a case of Hoﬀa fracture in the medial condyle with ipsilateral tibial shaft fracture, tibial avulsion
-fractures of the anterior cruciate ligament (ACL) and posterior cruciate ligament (PCL) as well as femoral avulsion fracture of the
-medial collateral ligament (MCL).
-
 Case report
 
 A 17-year-old female with history of a motorcycle accident was referred to our hospital after diagnosing with right knee dis-
 location and reduction at a regional trauma center. Physical examination revealed swelling and tenderness of the right middle tibia
-
-⁎ Corresponding author at: Department of Orthopaedics, The Second Xiangya Hospital, Central South University, 139 Middle Renmin Road,
-
-Changsha, Hunan Province 410011, PR China.
-
-E-mail address: zhuweihong@csu.edu.cn (W. Zhu).
-
-https://doi.org/10.1016/j.tcr.2020.100277
-Accepted 4 January 2020
-Available online 17 January 2020
-2352-6440/ © 2020 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
-(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
-
-Q. Liu, et al.
-
-Trauma Case Reports 26 (2020) 100277
-
-Fig. 1. (a) Preoperative lateral radiograph showing coronal fracture of the medial femoral condyle with fractures of tibial plateau, patella and
-proximal ﬁbula. (b) Preoperative radiograph showing an oblique fracture of the midshaft tibia. (c) Preoperative three-dimensional CT scanning
-(axial view) showing displaced fragment of the tibial plateau incarcerated in the Hoﬀa fracture as well as patellar and medial collateral ligament
-femoral attachment fractures. (d) Preoperative three-dimensional CT scanning (posterior view) showing tibial-side avulsion fracture of the posterior
-cruciate ligament, medial Hoﬀa fracture, tibial plateau fracture and ﬁbular fracture.
-
 and right knee. Gross deformity of the right calf was identiﬁed. The tibial and knee injuries were closed and there was no vascular
 deﬁcit of the extremity shown by computed tomographic angiography (CTA). Anterior drawer, posterior drawer, ﬂoating patella,
 medial stress and Lachman test were positive. Plain radiograph and computed tomography (CT) scanning of the right knee revealed
 Hoﬀa fracture of the medial femoral condyle and multiple site fractures including tibial midshaft, tibial plateau, proximal ﬁbula and
 inferior pole patella (Fig. 1). Magnetic resonance imaging (MRI) further conﬁrmed multiple ligament avulsion injuries of the ACL,
 PCL and MCL.
-
 The surgery was scheduled 5 days after admission. The reduction and ﬁxation of the midshaft tibial fracture was achieved by
 minimally invasive plate osteosynthesis (MIPO) technique. The displaced tibial plateau fragment which includes the entire ACL
 attachment was found incarcerated in the medial Hoﬀa fracture. The fragment was then reduced and ﬁxed with two 1.2-mm
@@ -96,7 +19,6 @@ MB66 sutures and tied over the anteromedial cortex of the tibia with the knee at
 to provisionally stabilize the Hoﬀa fracture, followed by two 6.5-mm cannulated lag screws placed from anterior to posterior for
 ﬁxation. The MCL femoral avulsion fracture was subsequently reduced and ﬁxed with a 4.0-mm cannulated screw padded with
 washer (Fig. 2). The knee joint was examined to be stable intraoperatively.
-
 The patient was immobilized in full-extension using a knee brace with cotton pad protecting the PCL. Quadriceps strengthening,
 isometric exercises, controlled knee range of motion and straight-leg raises were started postoperatively. The patient was allowed
 partial weight-bearing using axillary crutches at week 4. At 6 months follow-up, the patient had no pain in her right knee. Plain
@@ -106,114 +28,3 @@ active and passive knee movement after surgery. Tibial fracture ﬁxation was re
 ﬁnal follow-up (24 months), the patient's right knee achieved a full range of motion and she returned to preinjury level of activities.
 The preoperative Lysholm score (37), International Knee Documentation Committee (IKDC) score (40) and Tegner score (2) improved
 to 92, 85 and 8 at last follow-up, respectively.
-
-2
-
-Q. Liu, et al.
-
-Trauma Case Reports 26 (2020) 100277
-
-Fig. 2. Postoperative anteroposterior and lateral radiographs of the right knee and tibial shaft demonstrating good alignment of the fracture.
-
-Fig. 3. Arthroscopic images showing (a) intra-articular scar tissue, (b) Hoﬀa fracture screw ﬁxation and (c) after screw removal and adhesiolysis.
-
-Discussion
-
-Hoﬀa fractures are very rare orthopaedic injuries and are challenging in diagnosis and surgical treatment. Although Hoﬀa
-fractures can involve only one condyle or both condyles, lateral fractures are estimated to be three times more common than medial
-fractures [1]. Given the unstable, intra-articular injury nature of Hoﬀa fractures, conservative treatment is often associated with
-inferior outcomes such as nonunion or malunion [5,6]. Currently, open reduction and internal ﬁxation combined with early func-
-tional exercises is recommended to obtain good long-term results [7]. In addition to Hoﬀa fractures, tibial-side PCL avulsion fractures
-are also uncommon, especially in the Western world where motorcycle accidents are less frequent compared to Asia countries [8,9].
-Our patient sustained a knee dislocation with medial Hoﬀa fracture, tibial midshaft and plateau fracture, proximal ﬁbular fracture,
-patellar fracture and multiple ligament avulsion fractures. Such complex injuries could have a devastating eﬀect on the knee joint and
-are extremely rare. To our best knowledge, this case is the ﬁrst report of medial Hoﬀa fracture associated with tibial shaft fracture and
-multiple ligament avulsion injuries, which present a real challenge to orthopaedic surgeons.
-
-In our case, the Hoﬀa fracture of the medial femoral condyle was reduced and ﬁxed with two antero-posterior screws which is
-proven eﬀective in previous reports [4,10]. The PCL tibial avulsion injury and tibial shaft fracture are addressed through arthroscopy-
-assisted technique and MIPO technique to restore the stability, respectively. Those minimally invasive technique might play an
-
-3
-
-Q. Liu, et al.
-
-Trauma Case Reports 26 (2020) 100277
-
-Fig. 4. Anteroposterior and lateral radiographs of the right knee at 12 months follow-up showing complete union of all fractures.
-
-important role in minimizing the soft tissue problem and accelerating the rehabilitation process. Nevertheless, postoperative knee
-stiﬀness was found at 6 months follow-up owing to arthroﬁbrosis. The patient subsequently underwent manipulation under an-
-esthesia and arthroscopic lysis.
-
-Regarding the optimal surgical treatment for tibial avulsion fractures of the PCL, no consensus has been reached. In a retro-
-spective study comparing open posterior approach and arthroscopic suture ﬁxation for tibial-side PCL avulsion fractures, both
-methods yielded comparable clinical outcomes at 1 year of follow-up, though postoperative knee laxity was better in the arthroscopic
-group [9]. A recent systematic review by Hooper et al. concluded that patients with PCL tibial avulsion fractures had similar out-
-comes after open or arthroscopic surgical treatment. Interestingly, arthroscopic approach is associated with slightly higher incidence
-of arthroﬁbrosis [8]. Although factors contributing to arthroﬁbrosis after arthroscopic surgery are not clear, patients sustained
-multiple site fractures as in our case may require extended period of immobilization postoperatively which could lead to excessive
-scar formation and eventually loss of motion.
-
-In conclusion, we reported a unique case of medial Hoﬀa fracture associated with tibial shaft fracture and multiple ligament
-avulsion fractures. Orthopaedic surgeons who treat a patient sustained multiple site fractures should be aware of the possibility of
-postoperative arthroﬁbrosis though minimally invasive approach was adopted.
-
-Meetings
-
-None.
-
-Funding
-
-None.
-
-4
-
-Q. Liu, et al.
-
-Declaration of competing interest
-
-None.
-
-Acknowledgements
-
-None.
-
-References
-
-Trauma Case Reports 26 (2020) 100277
-
-[1] M.H. Arastu, M.C. Kokke, P.J. Duﬀy, R.E. Korley, R.E. Buckley, Coronal plane partial articular fractures of the distal femoral condyle: current concepts in
-
-management, Bone Joint J. 95–B (9) (2013) 1165–1171.
-
-[2] K. Akan, U. Akgun, O. Poyanli, K. Unay, Arthroscopy-assisted treatment of Hoﬀa fracture associated with ipsilateral femoral shaft, tibial eminence and Malgaigne
-
-fractures, Acta Orthop. Traumatol. Turc. 48 (5) (2014) 602–606.
-
-[3] A. Jain, P. Aggarwal, A. Pankaj, Concomitant ipsilateral proximal tibia and femoral Hoﬀa fractures, Acta Orthop. Traumatol. Turc. 48 (4) (2014) 383–387.
-[4] S.K. Jain, M. Jadaan, E. Rahall, Hoﬀa’s fracture - lateral meniscus obstructing the fracture reduction - a case report, Injury 46 (2) (2015) 419–421.
-[5] T. Iwai, M. Hamada, T. Miyama, K. Shino, Intra-articular corrective osteotomy for malunited Hoﬀa fracture: a case report, Sports Med. Arthrosc. Rehabil. Ther.
-
-Technol. 4 (1) (2012) 28.
-
-[6] R. Kumar, R. Malhotra, The Hoﬀa fracture: three case reports, J. Orthop. Surg. (Hong Kong) 9 (2) (2001) 47–51.
-[7] V. Trikha, S. Das, S. Gaba, P. Agrawal, Analysis of functional outcome of Hoﬀa fractures: a retrospective review of 32 patients, J. Orthop. Surg. (Hong Kong) 25
-
-(2) (2017) (2309499017718928).
-
-[8] P.O. Hooper 3rd, C. Silko, T.L. Malcolm, L.D. Farrow, Management of posterior cruciate ligament tibial avulsion injuries: a systematic review, Am. J. Sports Med.
-
-46 (3) (2018) 734–742.
-
-[9] D. Sabat, A. Jain, V. Kumar, Displaced posterior cruciate ligament avulsion fractures: a retrospective comparative study between open posterior approach and
-
-arthroscopic single-tunnel suture ﬁxation, Arthroscopy 32 (1) (2016) 44–53.
-
-[10] R. Miyamoto, E. Fornari, N.C. Tejwani, Hoﬀa fragment associated with a femoral shaft fracture. A case report, J. Bone Joint Surg. Am. 88 (10) (2006)
-
-2270–2274.
-
-5
-
-

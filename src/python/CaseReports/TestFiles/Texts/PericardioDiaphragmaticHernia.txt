@@ -1,78 +1,13 @@
-Trauma Case Reports 24 (2019) 100250
-
-Contents lists available at ScienceDirect
-
-Trauma Case Reports
-
-journal homepage: www.elsevier.com/locate/tcr
-
 Case Report
-Delayed presentation of pericardio-diaphragmatic hernia following
-blunt trauma: A case report
-Jennifer E. Reid∗, Shailvi Gupta, Thomas M. Scalea, Deborah M. Stein
-
-University of Maryland / R Adams Cowley Shock Trauma Center Baltimore, MD, USA
-
-A R T I C L E I N F O
-
-A B S T R A C T
-
-Keywords:
-Blunt injury
-Diaphragmatic hernia
-Pericardio-diaphragmatic hernia
-Diaphragmatic rupture
-
-1. Introduction
-
-Pericardio-diaphragmatic hernias (PDHs) are exceedingly rare. When found in adults, they are
-most commonly caused by blunt trauma and require immediate repair. We report a case of a 61-
-year-old female who presented with shortness of breath, chest pain and fatigue one month after a
-motor vehicle collision. Imaging revealed an anterior diaphragmatic rupture with herniation of
-transverse colon and omentum into the left hemithorax with mass eﬀect on the anterior heart.
-She underwent exploratory laparotomy revealing a pericardio-diaphragmatic hernia with con-
-tents further herniating through a lateral pericardial defect into the left chest. The pericardio-
-diaphragmatic defect was repaired primarily with non-absorbable sutures. There is an average of
-only one case report of PDH annually and to our knowledge, this is the ﬁrst report of pericardio-
-diaphragmatic hernia with concomitant lateral pericardial defect with herniation of contents into
-the chest.
-
-Pericardio-diaphragmatic hernias (PDHs) are the rarest type of diaphragmatic hernia [1]. This type of hernia exists between the
-pericardial and peritoneal cavities and typically does not have a hernia sac [2]. PDHs can be congenital, however when discovered in
-adults are usually due to trauma. They can be asymptomatic or can present with chest pain, fatigue, dyspnea and weight loss, or even
-palpitations, which can suggest impending cardiac tamponade[2]. We report a case of pericardio-diaphragmatic hernia further
-extending into a lateral pericardial rupture presenting one month after inciting traumatic event (Fig. 1).
-
-2. Case
 
 A 61-year-old female with no signiﬁcant past medical history presented to an another hospital after she was the restrained driver
 in a motor vehicle collision. She complained of mild to moderate sharp pain in her left chest and hip, as well as shortness of breath.
 On exam she demonstrated stable vital signs, regular rate and had left rib tenderness and left pelvic and sacral tenderness. Evaluation,
 including pan CT scanning, revealed fractures of the left sacral ala and left superior and inferior pubic rami. Her injuries were deemed
 non-operative and she was admitted for pain control and physical therapy for 4 days, and then discharged home.
-
 One month after discharge she re-presented with worsening left chest pain, shortness of breath, dizziness and fatigue. New
 imaging revealed an anterior diaphragmatic rupture with herniation of transverse colon and omentum into the left hemithorax with
 mass eﬀect on the anterior heart (Fig. 1), a moderate to large layering left pleural eﬀusion with near complete atelectasis of the left
-
-∗ Corresponding author. MedStar Health, 9000 Franklin Square Drive, Suite 2312, Baltimore, MD 21237, USA.
-E-mail address: jennifer.e.reid@medstar.net (J.E. Reid).
-
-https://doi.org/10.1016/j.tcr.2019.100250
-Received 25 August 2018; Received in revised form 20 August 2019; Accepted 19 September 2019
-Available online 29 November 2019
-2352-6440/ © 2019 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
-(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
-
-J.E. Reid, et al.
-
-Trauma Case Reports 24 (2019) 100250
-
-Fig. 1. Anterior diaphragmatic rupture with herniation of transverse colon and omentum into the left hemithorax with mass eﬀect on the anterior
-heart. (A) A coronal view demonstrating herniation of bowel through the pericardio-diaphragmatic defect (red arrow). (B) Cross-sectional view
-showing transverse colon (red arrow) and omentum located in the left hemithorax. (C) Sagittal view showing the defect in the anterior diaphragm
-(red arrow) with herniation of abdominal contents anterior to the heart.
-
 lower lobe and a subacute minimally displaced manubrium fracture. She was transferred to our hospital, for further management.
 Upon arrival to our hospital she was tachycardic and diaphoretic with decreased left breath sounds and left upper quadrant
 tenderness. We opted to take her emergently to the operating room for operative reduction of the hernia and repair of diaphragmatic
@@ -81,63 +16,5 @@ diaphragm and into her pericardium. The undamaged heart was visible through the 
 through which the hernia contents traveled out of the pericardium and further into the left chest. We were able to easily reduce the
 hernia contents, the transverse colon and omentum. We repaired the open pericardial and diaphragmatic defect and were able to
 achieve good tension-free approximation. There were no other injuries.
-
 Postoperatively she had intermittent episodes of atrial ﬁbrillation, which was controlled with low dose metoprolol. She was
-
 discharged to home on postoperative day 5 on metoprolol, without complications.
-
-3. Discussion
-
-Congenital PDHs result from failure of fusion of the septum transversum to form the pars sternalis portion of the anterior dia-
-phragm and only account for 1–6% of all congenital diaphragmatic hernias [3]. In adults, PDH is caused by trauma, most commonly
-blunt trauma resulting from motor vehicle crashes. The forceful blunt trauma causes a sudden increase in intra-abdominal pressure
-that transmits through the domes of the diaphragm, causing a linear tear. The central tendon of the diaphragm is strong and derives
-additional strength from blending with the pericardium, therefore it is rarely injured [4]. Sometimes these tears can initially be very
-small, however gradually increase due to episodes of increased abdominal pressure in daily life such as straining, cough, or lifting,
-which likely accounts for delayed presentation in several reports. Our patient likely had a small tear that was not appreciated by the
-radiologist on initial imaging, which increased in size over time allowing herniation of abdominal contents and development of
-symptoms. After retrospective review of the initial imaging from the other hospital, we were able to appreciate a small diaphragmatic
-defect.
-
-Patients may present with dyspnea, fatigue, chest pain and even acute tamponade. Usually abdominal viscera herniate through
-the defect into the pericardium, however there have also been reports of herniation of the heart through the defect into the abdomen
-
-2
-
-J.E. Reid, et al.
-
-Trauma Case Reports 24 (2019) 100250
-
-[4]. When suspected, PDH should be repaired immediately to prevent or relieve tamponade, strangulation of incarcerated viscera, or
-bowel obstruction. In the acute setting, defects should be repaired primarily with non-absorbable sutures. In chronic cases, it is
-usually necessary to use prosthetic mesh because the circumference of the defect may become ﬁxed [2]. We chose to approach the
-hernia through the abdomen instead of the chest because we believed that herniation occurred with the onset of symptoms, which
-was only a few days prior to presentation. We assumed there would not be signiﬁcant intrathoracic adhesions.
-
-In our case, the pericardio-diaphragmatic rupture was also accompanied by a lateral pericardial defect allowing the omentum and
-transverse colon to escape into the left chest. This second defect could have occurred during the initial trauma or as a result of
-increased pressure in the pericardial sac from herniated contents, leading to disruption of the lateral pericardium, which likely
-prevented our patient from developing tamponade. We opted to not repair this lateral pericardial defect because it would require
-thoracotomy. We also believed that cardiac herniation would not occur through this small defect and that closing it may increase the
-risk of tamponade in the perioperative period.
-
-Our patient developed atrial ﬁbrillation in the perioperative period, likely related to inﬂammation of the pericardium secondary
-to communication with the abdomen. To ensure that this new onset atrial ﬁbrillation was not a sign of impending tamponade or
-cardiac herniation we obtained an ECHO, which was normal, further suggesting that the arrhythmia was simply due to inﬂammation.
-There is an average of only one case report of PDH annually [4] and to our knowledge this is the ﬁrst report of pericardio-
-diaphragmatic hernia with concomitant lateral pericardial defect with herniation of contents into the chest. While rare, clinicians
-should recognize that this can occur. Patients who present late with symptoms should be evaluated.
-
-References
-
-[1] S. Scheepers, C. Ackermann, P.J. Van Rensburg, H. Els, An intrapericardial hernia, Eur J Cardiothor Surg 39 (2011) 135.
-[2] K. Spiliotopoulos, K. de la Cruz, G. Gkotsis, O. Preventza, J. Coselli, Repair of intrapericardial diaphragmatic hernia, Tex. Heart Inst. J. 44 (2) (2017) 150–2.
-[3] S. Tyagi, J. Steele, B. Patton, S. Fukuhara, A. Cooperman, M. Wayne, Laparoscopic repair of an intrapericardial diaphragmatic hernia, Ann. Thorac. Surg. 97
-
-(2014) 332–3.
-
-[4] O.P. Sharma, Pericardio-diaphragmatic rupture: ﬁve new cases and literature review, J. Emerg. Med. 17 (6) (1999) 963–8.
-
-3
-
-

@@ -1,36 +1,3 @@
-Trauma Case Reports 9 (2017) 27–29
-
-Contents lists available at ScienceDirect
-
-Trauma Case Reports
-
-j o ur n a l h o m e p a g e : w ww . e l s e v i e r . c om / l o c a t e / t c r
-
-Case Report
-Isolated and stable gallbladder perforation in a 5 year old child after blunt
-abdominal trauma
-I. Issa a,b, V. Modica Alameddine a,b, M.C. Fadous Khalife a,b,⁎, M. Al Ojaimi c, Z. Ghorayeb a,b
-
-a Department of Pediatrics & Pediatric Surgery, UH Notre Dame De Secours, Jbeil, Lebanon
-b Holy Spirit University of Kaslik, Lebanon
-c Balamand University, Koura, Lebanon
-
-a r t i c l e
-
-i n f o
-
-a b s t r a c t
-
-Article history:
-Accepted 21 May 2017
-Available online 28 May 2017
-
-Keywords:
-Isolated
-Gallbladder injury
-Blunt trauma
-Conservative approach
-
 Case report
 
 Isolated gallbladder injury, secondary to a blunt abdominal trauma, is a rare ﬁnding in children.
@@ -42,138 +9,29 @@ We report a case of a 5 year old boy who presented an isolated gallbladder lesio
 a blunt abdominal trauma.
 The surgical treatment was delayed for non-medical reasons, which gave us the possibility to
 try a conservative approach.
-© 2017 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND
-license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
-
 A 5 years old boy with unremarkable previous medical history was transferred to our center, from another hospital, for the
-
 management of a blunt abdominal trauma.
-
 He was the victim of an accidental bicycle crush, in which he got a head trauma and the handlebars hit his epigastrium. He
-
 was admitted to another facility 2 days before admission. A brain CT scan was done and no abnormalities were detected.
-
 Ultrasound of the abdomen and pelvis showed the presence of free peritoneal ﬂuid, and an abdominal CT scan demonstrated a
 distended gallbladder containing low-density material of mixed signal intensity consistent with blood between the internal and
 external wall (Fig. 1). A laparotomy was proposed.
-
 The parents refused to give consent to the proposed procedure and he was transferred to our hospital for further management.
 At his arrival to our department, the child was suffering from diffuse abdominal pain and vomiting, without any localized ten-
 derness on physical exam or abdominal distention. He was having normal bowel movement, was hemodynamically stable and
 afebrile.
-
 His laboratory tests showed the absence of anemia (Hb 12.1 g/dL, Hct 37%) or any signiﬁcant elevation of his liver and pan-
 creatic function tests (ALT 47 U/L, AST 37 U/L, direct bilirubin 0.4 mg/dL, indirect bilirubin 0.9 mg/dL, amylase 34 U/L, lipase
 9 U/L, ALP 135 U/L, GGT 16 U/L, normal PT and PTT).
-
 Amoxicillin/clavulanic acid (100 mg/kg/day) was started IV (WBC 16.400/μL, N 86.1%, L 4.8%, M 8.6%, E 0%, B 0.3%, C reactive
-
 protein 15 mg/L, procalcitonin 1.21 ng/mL).
-
-⁎ Corresponding author at: Department of Pediatrics & Pediatric Surgery, UH Notre Dame De Secours, Jbeil, Lebanon.
-
-E-mail addresses: issaissa@usek.edu.lb (I. Issa), valeriamodeca@usek.edu.lb (V. Modica Alameddine), marieclaudefadous@usek.edu.lb (M.C. Fadous Khalife),
-
-maud.ojaimi@fty.balamand.edu.lb (M. Al Ojaimi), zakighorayeb@usek.edu.lb (Z. Ghorayeb).
-
-http://dx.doi.org/10.1016/j.tcr.2017.05.004
-2352-6440/© 2017 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
-
-28
-
-I. Issa et al. / Trauma Case Reports 9 (2017) 27–29
-
-Fig. 1. Computed tomography without injection showing the presence of gallbladder distention and intra parietal ﬂuid of low density.
-
 Repeat abdominal ultrasound and CT scan conﬁrmed the presence of a dilated gallbladder with echogenic sludge and a peri-
-
 toneal ﬂuid around the gallbladder and in the Douglas space.
-
 MRI cholangiography showed the above ﬁndings without apparent perforation of the gallbladder (Fig. 2).
 To rule out a gallbladder laceration, laparotomy and cholecystectomy were proposed. For the second time the parents refused
-
 the operation. Since the patient was clinically stable, we elected to observe him in hospital.
-
 On day 6 post trauma, the child was still complaining of diffuse abdominal pain. An echo-guided abdominal needle aspiration
-
 of the peritoneal ﬂuid showed the presence of bile in the abdomen, which conﬁrmed the suspicion of gallbladder perforation.
-
-Fig. 2. T2 weighted sequence in MRI cholangiography showing gallbladder hematoma with peritoneal ﬂuid around the gallbladder.
-
-I. Issa et al. / Trauma Case Reports 9 (2017) 27–29
-
-29
-
 Abdominal laparotomy was performed then, and revealed a 2 cm perforation of the posterior wall of the gallbladder with ne-
-
 crotic edges plugged by the liver. A cholecystectomy in addition to a peritoneal cavity lavage was performed.
-
 He was discharged on day 3 post surgery without complications.
-
-Discussion
-
-In adults, gallbladder injury secondary to blunt abdominal trauma is very rare, occurring in approximately 2% of cases. Gener-
-ally they are associated with other organ injuries as liver or spleen. In children, isolated gallbladder injury is rare if not exceptional
-[2–3]. This very rare incidence is due to its anatomical protection by the liver, intestines, omentum and rib cage [3–4]. In most
-cases, isolated gallbladder injuries are due to blunt abdominal trauma directly to the epigastrium (bicycle crash, ATV crash, tram-
-pled by bull, pedestrian struck, non-accidental trauma, struck by falling object and motor vehicle crash) [2]. The ingestion of al-
-cohol or a distended post-prandial gallbladder could represent pre-disposing factors [6].
-
-There are three possible types of blunt traumatic gallbladder injuries: contusion, avulsion and laceration.
-Contusion is an intramural hematoma that can contribute to wall necrosis and secondary delayed perforation. Due to the lack
-of acute signs and symptoms, diagnosis is usually late. Avulsion is the most severe injury and it could be partial or total with or
-without extension to the cystic duct or the cystic artery. Laceration, which can evolve to perforation, usually affects the gallbladder
-fundus [6–8]. Sometimes the diagnosis could be delayed because the signs and symptoms are vague [4,9].
-
-The real incidence of post trauma isolated gallbladder lesions in children is not really deﬁned.
-In a recent retrospective review of patients with biliary tract injury conducted from 2002 to 2012: 13,582 trauma patients
-were identiﬁed and only 12 patients presented with biliary injury. Between them, only two cases (0, 01%) presented an isolated
-gallbladder injury with a median age of 14.5 years and in both cases the treatment was an immediate laparotomy with cholecys-
-tectomy [5].
-
-The diagnosis of gallbladder perforation could be very difﬁcult because of its low index of suspicion.
-Ultrasound can be useful especially for identiﬁcation of blood within or surrounding the gallbladder. CT scan is much more
-
-accurate and in equivocal cases, MRI could detect the presence of gallbladder wall discontinuities [5].
-
-Although conservative measures have been reported when dealing with adults (cholecystostomy, percutaneous radiological in-
-
-traperitoneal drainage or cholecystography), cholecystectomy remains the gold treatment [2,6].
-
-Our case was unusual for different reasons. It represents the youngest age of isolated gallbladder injury reported in literature
-and the only one published about initial conservative treatment. The clinical stability of the patient, in the absence of a real acute
-abdominal presentation, could be explained by the presence of a gallbladder perforation that affected only the posterior wall and
-that probably had been contained and limited by the liver.
-
-The delay of surgery without complications may lead to the question: Could we treat this case conservatively?
-
-Conclusion
-
-Although abdominal trauma is very frequent in children, secondary isolated gallbladder injury is very rare. Cholecystectomy
-remains the deﬁnitive treatment for gallbladder injuries till nowadays. Further studies are required to see if conservative manage-
-ment in stable children is valid.
-
-References
-
-[2] Elizabeth S. Soukup, Katie W.W. Russell, Ryan Metzger, Eric R. Scaife, Douglas C. Barnhart, Michael D. Rollins, Treatment and outcome of traumatic biliary injuries
-
-in children, J. Pediatr. Surg. (2014) 345–348.
-
-[3] Jeffrey Birn, Melissa Jung, Mark Dearing, Isolated gallbladder injury in a case of blunt abdominal trauma, J. Radiol. (2012) 25–30.
-[4] J. Bainbridge, H. Shaaban, N. Kenefitck, C.P. Armstrong, Delayed presentation of an isolated gallbladder rupture following abdominal trauma, J. Med. Case Rep.
-
-(2007) 294–295.
-
-(2013) 41–42.
-
-(1982) 634–641.
-
-[5] Oumar Ndour, Helle Moustapha, Ndeye Aby Ndoye, Gabriel NGom, Isolated gallbladder perforation after blunt abdominal trauma in children, Afr. J. Paediatr. Surg.
-
-[6] Rohan Kumar, Non-operative management of gallbladder perforation after blunt abdomina trauma, J. Surg. Tech. Case Rep. (2013) 45–47.
-[7] J.E. Losanoff, K.T. Kjossev, Complete traumatic avulsion of the gallbladder, Injury (1990) 365–368.
-[8] C.A. Soderstrom, K. Maekawa, R.W. Dupriest, R.A. Dowley, Gallbladder injuries resulting from blunt abdominal trauma. An experience and review, Ann. Surg.
-
-[9] I. Di Carlo, F. Sparatore, S. Pimo, A. Toro, Gallbladder blunt trauma: unusal presentation and difficult diagnosis, Chir. Gastroenterol. (2006) 272–274.
-
-
