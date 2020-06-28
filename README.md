@@ -4,8 +4,6 @@ This is a summer project focusing on Information Exraction
 
 The goal of this project is to be able to automate data/information extraction to create a larger database of CSVs for the medical domain (for our research team in UW-WHITEWATER)
 
-Complete timeline: NLPTimeline.txt
-
 # General Overview of the Pipeline
 
 1. Case reports are crawled from online resources ✓
