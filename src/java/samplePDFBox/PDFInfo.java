@@ -15,7 +15,7 @@ import org.apache.pdfbox.cos.COSDocument;
 
 public class PDFInfo {
 	public static void main(String[] args) {
-		String path = "/home/carlitos/Documents/Research/MedicalIntent/CaseReports/CamelBite.pdf";
+		String path = "/home/carlitos/Documents/NLPInformationExtraction/src/java/CaseReports/OralCyst.pdf";
 		// File file = new File(path);
 		PDDocument pdd = null;
 
