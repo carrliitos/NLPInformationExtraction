@@ -2,15 +2,15 @@
 
 This is a summer project focusing on Information Exraction
 
-The goal of this project is to be able to automate data/information extraction to create a larger database of CSVs for the medical domain (for our research team in UW-WHITEWATER)
+The goal of this project is to be able to automate data/information extraction to create a larger database of CSVs for the medical domain (for proprietary research in University of Wisconsin - WHITEWATER)
 
 # General Overview of the Pipeline
 
 1. Case reports are crawled from online resources ✓
-2. Documents are converted from PDF to text
+2. Documents are converted and cleaned from PDF to text
 3. Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures
 4. CSV assembly from relevant sentences
-5. CSV to DTM analysis
+5. CSV for proprietary research
 
 # Sources I am following:
 
