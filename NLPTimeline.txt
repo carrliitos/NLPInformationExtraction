@@ -1,0 +1,74 @@
+This is my daily logs where I will be mapping down the timeline of this project on a daily basis. This will be updated everyday with everyday tasks.
+
+TODO for 6/8 - 6/14: Get a crawler working to get PDF articles from online journals
+Day 1 (6/8):
+	- Use Jsoup to crawl
+	- After spending the whole day trying to understand JSoup, I finally got one working. All my output for today are all saved in src/samplePDFExtract/output.txt
+	- I got 17 total case reports from https://www.sciencedirect.com/journal/trauma-case-reports/vol/25 -- This is volume 25 of year 2020
+	- Tomorrow, I will try to figure out how to parse through mutliple URLs and extract more articles that way
+Day 2 (6/9):
+    - After using JSoup for crawling, I was able to figure out how to parse in multiple URLs at once.
+    - The performance did slowed down a bit and I kind of expected that.
+    - The results can be found on the main folder -- src/main/output.txt
+        - Currently, I was able to crawl 6 different urls from the same publishing company and extracted 107 total PDF files -- including the Editorial Board
+        - During text cleaning, I need to figure out a way to put all extracted PDFs into a CSV with two columns -- Title and URL Links
+Day 3 (6/10):
+	- Successfully converted the txt files consisting of all extracted PDFs onto a csv file
+	- Tomorrow, we need to do more data cleaning to exclude all "Editorial Board" pdfs
+	- It is possible to start the preprocessing for the pipeline already by this weekend.
+Day 4 (6/11):
+	- I tried to extract the body texts from a pdf article -- unsuccessful
+	- Will try the paragraph extraction again tomorrow -- I will try and use Apache's PDFBox and learn that
+Day 5 (6/12):
+	- Spent most of the day trying to figure out how I should handle the pdf to text and was reading more about Apache's PDFBox
+	- I did not do a lot of development today
+Day 6 (6/13):
+	- Today and tomorrow's goal will be to start converting all pdf files to text
+Day 7 (6/14):
+	- Today and yesterday's goals unfortunately not accomplished -- I got side-tracked and started working on something different
+
+TODO for 6/15 - 6/21: Convert all pdf files into a raw text file using PDFBox and get working on Apache OpenNLP
+	- Today's and tomorrow's goal will be to start converting all the pdf files to text
+Day 8 (6/15):
+	- I am currently at a stand still because I created a class to manage each of my 
+		pdf files, but I had the realization that I had not downloaded each of the pdf files yet. 
+	- I will try to get an answer tomorrow to see if I need to download each 
+		pdf files or if I can just parse my parser through the csv and extract text that way. 
+	- In order for me to answer this question, I am going to need to read through the PDFBox API
+Day 9 (6/16):
+	- Today I was able to figure out how to create new files on a new directory
+	- Progress has been slow due to summer school, but that is okay! Summer is not over yet!
+Day 10 (6/17):
+	- No updates for today
+Day 11 (6/18):
+	- I'm still toying around with the file system
+	- I am almost close to abandoning this part of the project so I can start the actual program design for the text processing and just revisit this on a later date
+Day 12 (6/19):
+	- No updates today
+Day 13 (6/20):
+	- No updates today
+Day 14 (6/21):
+	- No updates today
+Day 15 (6/22):
+	- No updates today
+Day 16 (6/23):
+	- Today's Goal: catch up the lost days and do some text processing for at least one article
+	- QOTD: "Doing anything complicated in machine learning usually means building a pipeline.
+		The idea is to break up your problem into very small pieces and then use machine learning to solve each smaller piece separately. 
+		Then by chaining together several machine learning models 
+		that feed into each other, you can do very complicated things." 
+		- Adam Geitgey 
+		(https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
+	- Step 0.1:
+		- Clean up the text and remove and url links, clean up metadata, fix any differences in fontsizes, 
+		removing irrelevant text, usually found in margins, etc. 
+		- Hopefully I can get these tasks done either today or tomorrow; the goal is 
+		to atleast get it working for one document, then we can apply it for multiple documents.
+Day 17 (6/24):
+	- Getting closer and closer to normalizing the texts
+	- I'm still a bit unsure on where I should be at right now, I am still trying to normalize all the raw text files
+		but I am quite unsure if the best approach is to make a connection with each of the pdfs, do text cleaning, and convert
+		them to raw text
+		of if I should convert each pdfs into raw texts, and do text cleaning that way.
+	- Right now, the process is still a bit slower because of the new technoloqies and libraries I am having to learn on the spot.
+		But slow progress is still progress!

@@ -25,8 +25,8 @@ The goal of this project is to be able to automate data/information extraction t
 # For my crawler and text extraction:
 4. jsoup: Java HTML Parser
 	https://jsoup.org/
-5. Apache PDFBox
-	https://pdfbox.apache.org/
+5. pdf2txt: extracts text contents of PDF files
+	https://github.com/euske/pdfminer
 
 # Text preprocessing:
 6. https://www.kdnuggets.com/2017/12/general-approach-preprocessing-text-data.html
