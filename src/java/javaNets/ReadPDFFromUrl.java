@@ -24,7 +24,7 @@ public class ReadPDFFromUrl {
 
 			try {
 				// contacting the URL
-				System.out.println("Contacting to " + url1.toString() + "...");
+				System.out.println("\nContacting to " + url1.toString() + "...\n");
 				URLConnection urlConn = url1.openConnection();
 
 				// Checking whether the URL contains the PDF
