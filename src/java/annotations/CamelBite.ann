@@ -1,0 +1,5 @@
+T1	Patient 15 47	25-year-old male camel caregiver
+T2	SurgicalIntervention 2810 2822	evisceration
+E1	SurgicalIntervention:T2 
+T3	SurgicalIntervention 1326 1330;1331 1341	Neck inspection
+E2	SurgicalIntervention:T3 
