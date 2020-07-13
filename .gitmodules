@@ -1,3 +1,6 @@
 [submodule "pdfminer"]
 	path = pdfminer
 	url = https://github.com/euske/pdfminer.git
+[submodule "brat"]
+	path = brat
+	url = https://github.com/nlplab/brat.git
