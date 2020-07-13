@@ -1,4 +1,4 @@
-# NLP Information Extraction
+# NLP Information Extraction (In Progress)
 
 This is a summer project focusing on Information Exraction
 
