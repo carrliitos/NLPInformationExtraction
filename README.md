@@ -14,20 +14,15 @@ The goal of this project is to be able to automate data/information extraction t
 
 # Sources I am following:
 
-# For all NLP:
-1. Natural Language Processing for Information Extraction (Sonit Singh, 2018)
-	https://arxiv.org/abs/1807.02383
-2. Pipelines for Procedural Information Extraction from Scientific Literature:Towards Recipes using Machine Learning and Data Science (H Yang, 2019)
-	https://arxiv.org/pdf/1912.07747.pdf
-3. Med7: a transferable clinical natural language processing model for electronic health records (Kormilitzin et al., 2020)
-	https://arxiv.org/abs/2003.01271
+## For all NLP:
+- [Natural Language Processing for Information Extraction (Sonit Singh, 2018)](https://arxiv.org/abs/1807.02383)
+- [Pipelines for Procedural Information Extraction from Scientific Literature:Towards Recipes using Machine Learning and Data Science (H Yang, 2019)](https://arxiv.org/pdf/1912.07747.pdf)
+- [Med7: a transferable clinical natural language processing model for electronic health records (Kormilitzin et al., 2020)](https://arxiv.org/abs/2003.01271)
 
-# For my crawler and text extraction:
-4. jsoup: Java HTML Parser
-	https://jsoup.org/
-5. pdf2txt: extracts text contents of PDF files
-	https://github.com/euske/pdfminer
+## For my crawler and text extraction:
+- [jsoup: Java HTML Parser](https://jsoup.org/)
+- [pdf2txt: extracts text contents of PDF files](https://github.com/euske/pdfminer)
 
-# Text preprocessing:
-6. https://www.kdnuggets.com/2017/12/general-approach-preprocessing-text-data.html
-7. https://www.kdnuggets.com/2018/08/practitioners-guide-processing-understanding-text-2.html
+## Text preprocessing:
+- [A General Approach to Preprocessing Text Data](https://www.kdnuggets.com/2017/12/general-approach-preprocessing-text-data.html)
+- [Text Wrangling & Pre-processing: A Practitioner’s Guide to NLP](https://www.kdnuggets.com/2018/08/practitioners-guide-processing-understanding-text-2.html)
