@@ -26,3 +26,4 @@ The goal of this project is to be able to automate data/information extraction t
 ## Text preprocessing:
 - [A General Approach to Preprocessing Text Data](https://www.kdnuggets.com/2017/12/general-approach-preprocessing-text-data.html)
 - [Text Wrangling & Pre-processing: A Practitioner’s Guide to NLP](https://www.kdnuggets.com/2018/08/practitioners-guide-processing-understanding-text-2.html)
+- [All you need to know about text preprocessing for NLP and Machine Learning](https://www.freecodecamp.org/news/all-you-need-to-know-about-text-preprocessing-for-nlp-and-machine-learning-bc1c5765ff67/)
