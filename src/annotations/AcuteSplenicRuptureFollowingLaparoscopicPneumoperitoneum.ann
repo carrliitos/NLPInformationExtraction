@@ -1,0 +1,100 @@
+T2	Evaluation 146 167	On initial evaluation
+E1	Evaluation:T2 
+T7	IMR 384 418	positive in the hepatorenal space.
+T9	Goal 477 492	further imaging
+T10	IM 503 561	CTs of the head, cervical spine, chest, abdomen and pelvis
+T11	IMR 576 593	multiple injuries
+T12	IMR 604 627	subarachnoid hemorrhage
+T13	IMR 629 664	anterior left 3rd–8th rib fractures
+T14	IMR 666 703	right posterior 1st–3rd rib fractures
+T15	IMR 705 744	peri-hepatic and peri-splenic hematomas
+T16	IMR 759 826	a left lower quadrant mesenteric hematoma with active extravasation
+T17	MedicalImaging 503 506	CTs
+E3	MedicalImaging:T17 
+T5	IM 301 312	(FAST) exam
+T1	PrimaryIssues 185 212	alert but somewhat confused
+T3	PrimaryIssues 223 253	Glasgow Coma Scale (GCS) of 13
+T4	MedicalImaging 256 326	Focused Assessment with Sonography in Trauma (FAST) exam was performed
+E2	MedicalImaging:T4 
+T6	Evaluation 467 492	taken for further imaging
+E4	Evaluation:T6 
+T8	PatientTransferred 845 864	admitted to the ICU
+E5	PatientTransferred:T8 
+T18	Evaluation 869 903	underwent conservative man-agement
+E6	Evaluation:T18 
+T19	Goal 892 960	man-agement of mesenteric, peri-hepatic, and peri-splenic hematomas.
+T20	PrimaryIssues 995 1029	mental status began to deteriorate
+T21	IM 1044 1056	immediate CT
+T22	IM 1073 1076	EEG
+T23	IMR 1089 1102	both negative
+T24	MedicalImaging 1031 1077	prompting an immediate CT of his head and EEG,
+E7	MedicalImaging:T24 
+T25	Diagnosed 1189 1245	thought to be experiencing post-traumatic encephalopathy
+E8	Diagnosed:T25 
+T26	PrimaryIssues 1261 1279	declined to GCS 3T
+T27	SurgicalIntervention 1337 1402	perform tracheostomy and laparoscopic gastrostomy tube placement.
+E9	SurgicalIntervention:T27 
+T28	SurgicalProcedure 1345 1357	tracheostomy
+T29	SurgicalProcedure 1362 1401	laparoscopic gastrostomy tube placement
+T30	SurgicalIntervention 1420 1463	prepped and draped in usual sterile fashion
+E10	SurgicalIntervention:T30 
+T31	SurgicalPreparation 1420 1427	prepped
+T32	SurgicalPreparation 1432 1438	draped
+T33	SurgicalDiscussion 1472 1504	tracheostomy was performed first
+T34	SurgicalLocation 1553 1560	abdomen
+T35	SurgicalProcedure 1565 1604	laparoscopic gastrostomy tube placement
+T36	SurgicalIntervention 1543 1604	patient's abdomen for laparoscopic gastrostomy tube placement
+E11	SurgicalIntervention:T36 
+T37	SurgicalIntervention 1619 1692	gaining access to the abdomen with a Veress needle through Palmer's point
+E12	SurgicalIntervention:T37 
+T38	SurgicalDiscussion 1619 1633	gaining access
+T39	SurgicalLocation 1641 1648	abdomen
+T40	SurgicalLocation 1678 1693	Palmer's point.
+T41	SurgicalIntervention 1711 1722	insufflated
+E13	SurgicalIntervention:T41 
+T42	PrimaryIssues 1753 1786	developed significant hypotension
+T43	PrimaryIssues 1787 1833	without a decrease in end tidal carbon dioxide
+T44	Evaluation 1753 1833	developed significant hypotension without a decrease in end tidal carbon dioxide
+E14	Evaluation:T44 
+T45	SurgicalIntervention 1839 1920	partially evacuated the capnoperitoneum with no improvement in hemodynamic status
+E15	SurgicalIntervention:T45 
+T46	SurgicalProcedure 1839 1858	partially evacuated
+T47	SurgicalLocation 1863 1878	capnoperitoneum
+T48	PrimaryIssues 1884 1920	no improvement in hemodynamic status
+T49	SurgicalIntervention 1942 2012	apidly inserted the laparoscope which showed widespread hemoperitoneum
+E16	SurgicalIntervention:T49 
+T50	SurgicalProcedure 1962 1973	laparoscope
+T51	PrimaryIssues 1987 2013	widespread hemoperitoneum.
+T52	PrimaryIssues 2023 2069	unable to identify the source laparoscopically
+T53	Goal 2074 2113	elected to convert to an open procedure
+T54	Evaluation 2023 2113	unable to identify the source laparoscopically and elected to convert to an open procedure
+E17	Evaluation:T54 
+T55	SurgicalProcedure 2121 2128	opening
+T56	SurgicalLocation 2133 2140	abdomen
+T57	SurgicalIntervention 2121 2140	opening the abdomen
+E18	SurgicalIntervention:T57 
+T58	Evaluation 2157 2203	able to identify an active splenic hemorrhage;
+E19	Evaluation:T58 
+T59	PrimaryIssues 2177 2202	active splenic hemorrhage
+T60	SurgicalIntervention 2270 2337	spleen was rapidly medialized and the hilum was controlled manually
+E20	SurgicalIntervention:T60 
+T61	SurgicalLocation 2270 2276	spleen
+T62	SurgicalProcedure 2281 2299	rapidly medialized
+T63	SurgicalLocation 2308 2313	hilum
+T64	SurgicalProcedure 2318 2337	controlled manually
+T65	SurgicalIntervention 2392 2430	spleen was removed using a GIA stapler
+E21	SurgicalIntervention:T65 
+T66	SurgicalLocation 2392 2398	spleen
+T67	SurgicalProcedure 2403 2410	removed
+T68	SurgicalDiscussion 2411 2430	using a GIA stapler
+T69	Evaluation 2435 2477	the remainder of the abdomen was inspected
+E22	Evaluation:T69 
+T70	SurgicalIntervention 2525 2571	transfused two units of packed red blood cells
+E23	SurgicalIntervention:T70 
+T71	PatientTransferred 2576 2617	taken to the surgical intensive care unit
+E24	PatientTransferred:T71 
+T72	Recovered 2624 2641	patient recovered
+E25	Recovered:T72 
+T73	Discharged 2661 2685	discharged 16 days later
+E26	Discharged:T73 
+T74	PathologyReport 2732 2785	capsular laceration with focal parenchymal hemorrhage
