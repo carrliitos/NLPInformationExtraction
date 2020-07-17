@@ -6,7 +6,7 @@ The goal of this project is to be able to automate data/information extraction t
 
 # General Overview of the Pipeline
 
-- [x] Case reports are crawled from online resources ✓
+- [x] Case reports are crawled from online resources
 	- Summary:
 		- Successfully extracted [223 PDF articles](https://github.com/carrliitos/NLPInformationExtraction/blob/master/src/java/main/preprocessing/textCollection/output1.csv) from [Trauma Case Reports Online Medical Journal Vol. 10 - Vol. 27](https://www.sciencedirect.com/journal/trauma-case-reports). The articles extracted included Editorial Boards from all volumes, which will be removed for NER/Sentence Classification as it is irrelevant for all case reports
 - [ ] Documents are converted and cleaned from PDF to text
