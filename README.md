@@ -39,10 +39,5 @@ The goal of this project is to be able to automate data/information extraction t
 - [brat rapid annotation tool](http://brat.nlplab.org/)
 
 ## Ontology
-<<<<<<< HEAD
 - [BioThings Explorer](https://github.com/biothings/biothings_explorer/tree/master/jupyter%20notebooks)
 	- BioThings Explorer is an engine for autonomously querying a distributed knowledge graph. The distributed knowledge graph is made up of biomedical APIs that have been annotated with semantically-precise descriptions of their inputs and outputs.
-=======
-- [BioThings Explorer](https://biothings.io/explorer/)
-	- BioThins Explorer is a schema-based client for API interoperability
->>>>>>> 8a7c24ce911fa8d46273efb29dfe34796ce59671
