@@ -13,7 +13,7 @@ The goal of this project is to be able to automate data/information extraction t
 	- [x] Converted to text
 	- [x] Cleaned
 	- [ ] Annotated - ***In progress***
-- [ ] Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures
+- [ ] Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures (Start: Aug. 1, Finish: Aug. Aug. 22)
 - [ ] CSV assembly from relevant sentences
 - [ ] CSV for proprietary research
 
