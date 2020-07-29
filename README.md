@@ -37,3 +37,7 @@ The goal of this project is to be able to automate data/information extraction t
 
 ## Text Annotation
 - [brat rapid annotation tool](http://brat.nlplab.org/)
+
+## Ontology
+- [BioThings Explorer](https://biothings.io/explorer/)
+	- BioThins Explorer is a schema-based client for API interoperability
