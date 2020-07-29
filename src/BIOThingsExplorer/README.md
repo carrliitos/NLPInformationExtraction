@@ -1,1 +1,0 @@
-## All development is done on my machine's virtual environment, and results will only be posted here.

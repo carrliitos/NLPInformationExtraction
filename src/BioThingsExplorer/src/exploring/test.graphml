@@ -1,0 +1,3535 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d28" for="edge" attr.name="DRUGBANK" attr.type="string" />
+  <key id="d27" for="edge" attr.name="publication" attr.type="string" />
+  <key id="d26" for="edge" attr.name="pubmed" attr.type="string" />
+  <key id="d25" for="edge" attr.name="UMLS" attr.type="string" />
+  <key id="d24" for="edge" attr.name="name" attr.type="string" />
+  <key id="d23" for="edge" attr.name="pmc" attr.type="string" />
+  <key id="d22" for="edge" attr.name="CHEBI" attr.type="string" />
+  <key id="d21" for="edge" attr.name="@type" attr.type="string" />
+  <key id="d20" for="edge" attr.name="$source" attr.type="string" />
+  <key id="d19" for="edge" attr.name="$api" attr.type="string" />
+  <key id="d18" for="edge" attr.name="CHEMBL.COMPOUND" attr.type="string" />
+  <key id="d17" for="edge" attr.name="source" attr.type="string" />
+  <key id="d16" for="edge" attr.name="label" attr.type="string" />
+  <key id="d15" for="node" attr.name="MESH" attr.type="string" />
+  <key id="d14" for="node" attr.name="DRUGBANK" attr.type="string" />
+  <key id="d13" for="node" attr.name="UNII" attr.type="string" />
+  <key id="d12" for="node" attr.name="CHEBI" attr.type="string" />
+  <key id="d11" for="node" attr.name="PUBCHEM" attr.type="string" />
+  <key id="d10" for="node" attr.name="CHEMBL.COMPOUND" attr.type="string" />
+  <key id="d9" for="node" attr.name="ENSEMBL" attr.type="string" />
+  <key id="d8" for="node" attr.name="UNIPROTKB" attr.type="string" />
+  <key id="d7" for="node" attr.name="HGNC" attr.type="string" />
+  <key id="d6" for="node" attr.name="UMLS" attr.type="string" />
+  <key id="d5" for="node" attr.name="SYMBOL" attr.type="string" />
+  <key id="d4" for="node" attr.name="name" attr.type="string" />
+  <key id="d3" for="node" attr.name="NCBIGene" attr.type="string" />
+  <key id="d2" for="node" attr.name="level" attr.type="long" />
+  <key id="d1" for="node" attr.name="identifier" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="ACE2">
+      <data key="d0">Gene</data>
+      <data key="d1">SYMBOL</data>
+      <data key="d2">1</data>
+      <data key="d3">59272</data>
+      <data key="d4">ANGIOTENSIN I CONVERTING ENZYME 2</data>
+      <data key="d5">ACE2</data>
+      <data key="d6">C1422064</data>
+      <data key="d7">13557</data>
+      <data key="d8">Q9BYF1</data>
+      <data key="d9">ENSG00000130234</data>
+    </node>
+    <node id="CHEMBL3144487">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL3144487</data>
+      <data key="d11">90663955</data>
+    </node>
+    <node id="CHEMBL415330">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL415330</data>
+      <data key="d11">25079852</data>
+    </node>
+    <node id="CHEMBL3234446">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL3234446</data>
+      <data key="d11">102485315</data>
+    </node>
+    <node id="CHEMBL437242">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL437242</data>
+      <data key="d11">44307234</data>
+    </node>
+    <node id="CHEMBL436639">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL436639</data>
+      <data key="d11">91935532</data>
+    </node>
+    <node id="CHEMBL426566">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL426566</data>
+      <data key="d11">44421339</data>
+    </node>
+    <node id="CHEMBL525960">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL525960</data>
+    </node>
+    <node id="CHEBI:17089">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:17089</data>
+    </node>
+    <node id="CHEBI:26667">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:26667</data>
+    </node>
+    <node id="CHEBI:36044">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:36044</data>
+    </node>
+    <node id="CHEBI:36080">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:36080</data>
+    </node>
+    <node id="CHEBI:33708">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:33708</data>
+    </node>
+    <node id="CHEBI:48343">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:48343</data>
+    </node>
+    <node id="CHEBI:35457">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:35457</data>
+    </node>
+    <node id="CHEBI:48433">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:48433</data>
+    </node>
+    <node id="CHEBI:33699">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:33699</data>
+    </node>
+    <node id="CHEBI:2720">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:2720</data>
+    </node>
+    <node id="CHEBI:52211">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:52211</data>
+    </node>
+    <node id="CHEBI:37670">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:37670</data>
+    </node>
+    <node id="CHEBI:53000">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:53000</data>
+    </node>
+    <node id="CHEBI:48705">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:48705</data>
+    </node>
+    <node id="CHEBI:46761">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:46761</data>
+    </node>
+    <node id="CHEBI:33709">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:33709</data>
+    </node>
+    <node id="CHEBI:35620">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:35620</data>
+    </node>
+    <node id="CHEBI:48432">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:48432</data>
+    </node>
+    <node id="CHEBI:35222">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:35222</data>
+    </node>
+    <node id="CHEBI:39061">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:39061</data>
+    </node>
+    <node id="CHEBI:48706">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:48706</data>
+    </node>
+    <node id="CHEBI:80132">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:80132</data>
+    </node>
+    <node id="CHEBI:22587">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:22587</data>
+    </node>
+    <node id="CHEMBL257229">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL257229</data>
+      <data key="d11">44454959</data>
+    </node>
+    <node id="CHEMBL251804">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL251804</data>
+      <data key="d11">44446967</data>
+    </node>
+    <node id="CHEMBL260273">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL260273</data>
+      <data key="d11">24827312</data>
+    </node>
+    <node id="CHEMBL253428">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL253428</data>
+      <data key="d11">44446960</data>
+    </node>
+    <node id="CHEMBL409721">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL409721</data>
+      <data key="d11">24827309</data>
+    </node>
+    <node id="CHEMBL437595">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL437595</data>
+      <data key="d11">44455429</data>
+    </node>
+    <node id="CHEMBL350414">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL350414</data>
+      <data key="d11">44377126</data>
+    </node>
+    <node id="CHEMBL411942">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL411942</data>
+      <data key="d11">24827437</data>
+    </node>
+    <node id="CHEMBL251809">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL251809</data>
+      <data key="d11">44446980</data>
+    </node>
+    <node id="CHEMBL253224">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL253224</data>
+      <data key="d11">44446957</data>
+    </node>
+    <node id="CHEMBL401086">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL401086</data>
+      <data key="d11">44446953</data>
+    </node>
+    <node id="CHEMBL410509">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL410509</data>
+      <data key="d11">24827547</data>
+    </node>
+    <node id="CHEMBL261121">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL261121</data>
+      <data key="d11">44450312</data>
+    </node>
+    <node id="CHEMBL254493">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL254493</data>
+      <data key="d11">44446970</data>
+    </node>
+    <node id="CHEMBL257726">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL257726</data>
+      <data key="d11">44455016</data>
+    </node>
+    <node id="CHEMBL261423">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL261423</data>
+      <data key="d11">24827781</data>
+    </node>
+    <node id="CHEMBL251808">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL251808</data>
+      <data key="d11">44446979</data>
+    </node>
+    <node id="CHEMBL411298">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL411298</data>
+      <data key="d11">24828309</data>
+    </node>
+    <node id="CHEMBL411052">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL411052</data>
+      <data key="d11">24827661</data>
+    </node>
+    <node id="CHEMBL254282">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL254282</data>
+      <data key="d11">44446969</data>
+    </node>
+    <node id="CHEMBL254495">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL254495</data>
+      <data key="d11">44446972</data>
+    </node>
+    <node id="CHEMBL400527">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL400527</data>
+      <data key="d11">44446959</data>
+    </node>
+    <node id="CHEMBL254900">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL254900</data>
+      <data key="d11">44446954</data>
+    </node>
+    <node id="CHEMBL400526">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL400526</data>
+      <data key="d11">44446956</data>
+    </node>
+    <node id="CHEMBL409105">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL409105</data>
+      <data key="d11">44450311</data>
+    </node>
+    <node id="CHEMBL271224">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL271224</data>
+      <data key="d11">44455428</data>
+    </node>
+    <node id="CHEMBL254703">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL254703</data>
+      <data key="d11">44446974</data>
+    </node>
+    <node id="CHEMBL260677">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL260677</data>
+      <data key="d11">24828308</data>
+    </node>
+    <node id="CHEMBL257270">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL257270</data>
+      <data key="d11">44455013</data>
+    </node>
+    <node id="CHEMBL257026">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL257026</data>
+      <data key="d11">44454957</data>
+    </node>
+    <node id="CHEMBL252391">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL252391</data>
+      <data key="d11">44446952</data>
+    </node>
+    <node id="CHEMBL257727">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL257727</data>
+      <data key="d11">44455018</data>
+    </node>
+    <node id="CHEMBL263663">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL263663</data>
+      <data key="d11">24827440</data>
+    </node>
+    <node id="CHEMBL398771">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL398771</data>
+      <data key="d11">44446976</data>
+    </node>
+    <node id="CHEMBL408705">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL408705</data>
+      <data key="d11">24827784</data>
+    </node>
+    <node id="CHEMBL272925">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL272925</data>
+      <data key="d11">44455407</data>
+    </node>
+    <node id="CHEMBL252009">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL252009</data>
+      <data key="d11">44446984</data>
+    </node>
+    <node id="CHEMBL258698">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL258698</data>
+      <data key="d11">24827658</data>
+    </node>
+    <node id="CHEMBL252003">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL252003</data>
+      <data key="d11">44446968</data>
+    </node>
+    <node id="CHEMBL254911">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL254911</data>
+      <data key="d11">44446975</data>
+    </node>
+    <node id="CHEMBL271223">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL271223</data>
+      <data key="d11">25033281</data>
+    </node>
+    <node id="CHEMBL269997">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL269997</data>
+      <data key="d11">25033280</data>
+    </node>
+    <node id="CHEMBL404117">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL404117</data>
+      <data key="d11">44454960</data>
+    </node>
+    <node id="CHEMBL408448">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL408448</data>
+      <data key="d11">24827913</data>
+    </node>
+    <node id="CHEMBL408182">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL408182</data>
+      <data key="d11">44450296</data>
+    </node>
+    <node id="CHEMBL401397">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL401397</data>
+      <data key="d11">44446965</data>
+    </node>
+    <node id="CHEMBL269996">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL269996</data>
+      <data key="d11">44454987</data>
+    </node>
+    <node id="CHEMBL258333">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL258333</data>
+      <data key="d11">44455047</data>
+    </node>
+    <node id="CHEMBL271225">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL271225</data>
+      <data key="d11">44455430</data>
+    </node>
+    <node id="CHEMBL402987">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL402987</data>
+      <data key="d11">44455406</data>
+    </node>
+    <node id="CHEMBL398545">
+      <data key="d1">CHEMBL.COMPOUND</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL398545</data>
+      <data key="d11">44446963</data>
+    </node>
+    <node id="C0682921">
+      <data key="d1">UMLS</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0682921</data>
+    </node>
+    <node id="C0772162">
+      <data key="d1">UMLS</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0772162</data>
+    </node>
+    <node id="C0309049">
+      <data key="d1">UMLS</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0309049</data>
+    </node>
+    <node id="C0684162">
+      <data key="d1">UMLS</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0684162</data>
+    </node>
+    <node id="CHEBI:24433">
+      <data key="d1">CHEBI</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:24433</data>
+    </node>
+    <node id="DYNORPHIN A (1-17)">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL411557</data>
+      <data key="d11">44298303</data>
+      <data key="d13">9M18T0TD14</data>
+      <data key="d4">DYNORPHIN A (1-17)</data>
+    </node>
+    <node id="BICYCLOHEXYL">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL1231413</data>
+      <data key="d11">7094</data>
+      <data key="d13">Y77501141O</data>
+      <data key="d4">BICYCLOHEXYL,BIPHENYL</data>
+    </node>
+    <node id="FASUDIL">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL38380,CHEMBL541388</data>
+      <data key="d14">DB08162</data>
+      <data key="d11">3547</data>
+      <data key="d12">CHEBI:31593</data>
+      <data key="d6">C0062068</data>
+      <data key="d15">C049347</data>
+      <data key="d13">Q0CH43PGXS</data>
+      <data key="d4">FASUDIL</data>
+    </node>
+    <node id="STREPTOZOCIN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL1651906</data>
+      <data key="d14">DB00428</data>
+      <data key="d11">2733335,29327</data>
+      <data key="d12">CHEBI:9288</data>
+      <data key="d6">C0038432</data>
+      <data key="d15">D013311</data>
+      <data key="d13">5W494URQ81</data>
+      <data key="d4">STREPTOZOCIN</data>
+    </node>
+    <node id="DYNORPHIN A (1-11)">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL438223</data>
+      <data key="d11">3086114</data>
+      <data key="d4">DYNORPHIN A (1-11)</data>
+    </node>
+    <node id="FOSTAMATINIB">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL2103830</data>
+      <data key="d14">DB12010</data>
+      <data key="d11">11671467</data>
+      <data key="d6">C2002836</data>
+      <data key="d15">C523665</data>
+      <data key="d13">SQ8A3S5101</data>
+      <data key="d4">FOSTAMATINIB,R788 COMPOUND</data>
+    </node>
+    <node id="ANGIOTENSIN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:2718</data>
+      <data key="d4">ANGIOTENSIN,ANGIOTENSIN I</data>
+      <data key="d10">CHEMBL262670</data>
+      <data key="d11">3081372</data>
+      <data key="d6">C0003018</data>
+      <data key="d15">D000809</data>
+    </node>
+    <node id="SP-600125">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL1725279</data>
+      <data key="d4">SP-600125</data>
+    </node>
+    <node id="DYNORPHIN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL268984</data>
+      <data key="d11">44270142</data>
+      <data key="d4">DYNORPHIN</data>
+    </node>
+    <node id="ORE-1001">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL429844</data>
+      <data key="d14">DB12271</data>
+      <data key="d11">448281</data>
+      <data key="d13">4LD0ZHV25K</data>
+      <data key="d4">ORE-1001</data>
+    </node>
+    <node id="NEUROTENSIN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:7542</data>
+      <data key="d4">NEUROTENSIN</data>
+    </node>
+    <node id="PROINSULIN HUMAN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL2109212</data>
+      <data key="d13">D91579HJ6E</data>
+      <data key="d4">PROINSULIN HUMAN</data>
+    </node>
+    <node id="CEFMENOXIME">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d14">DB00267</data>
+      <data key="d12">CHEBI:55490</data>
+      <data key="d4">CEFMENOXIME</data>
+      <data key="d10">CHEMBL3183193,CHEMBL1201224</data>
+      <data key="d11">9570757,5361486</data>
+      <data key="d6">C0007549</data>
+      <data key="d15">D015281</data>
+      <data key="d13">KBZ4844CXN</data>
+    </node>
+    <node id="HESPERIDIN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d14">DB04703</data>
+      <data key="d12">CHEBI:28775</data>
+      <data key="d4">HESPERIDIN</data>
+      <data key="d10">CHEMBL449317</data>
+      <data key="d11">10621</data>
+      <data key="d6">C0019392</data>
+      <data key="d15">D006569,C506722</data>
+      <data key="d13">E750O06Y6O</data>
+    </node>
+    <node id="MONOCROTALINE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:9464,CHEBI:6980</data>
+      <data key="d4">MONOCROTALINE,TESTOSTERONE ENANTHATE</data>
+      <data key="d10">CHEMBL521035,CHEMBL1200335</data>
+      <data key="d11">9415,9416</data>
+      <data key="d6">C0085241,C0076189</data>
+      <data key="d15">D016686,C004648</data>
+      <data key="d13">7Z6522T8N9,73077K8HYV</data>
+      <data key="d14">DB13944,DB00624</data>
+    </node>
+    <node id="IRBESARTAN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d14">DB01029</data>
+      <data key="d12">CHEBI:5959</data>
+      <data key="d4">IRBESARTAN</data>
+      <data key="d10">CHEMBL1513</data>
+      <data key="d11">3749</data>
+      <data key="d6">C0288171</data>
+      <data key="d15">C081309</data>
+      <data key="d13">J0E2756Z7N,3OGC31WUMZ</data>
+    </node>
+    <node id="ROTTLERIN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:8899</data>
+      <data key="d4">ROTTLERIN</data>
+      <data key="d10">CHEMBL34241</data>
+      <data key="d11">5281847</data>
+      <data key="d6">C0251673</data>
+      <data key="d15">C085746</data>
+      <data key="d13">E29LP3ZMUH</data>
+    </node>
+    <node id="PHENOTHIAZINE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d14">DB00420</data>
+      <data key="d12">CHEBI:8459</data>
+      <data key="d4">PHENOTHIAZINE,PROMAZINE</data>
+      <data key="d10">CHEMBL564,CHEMBL1200469</data>
+      <data key="d11">4926</data>
+      <data key="d6">C0031434,C0033399</data>
+      <data key="d15">C031637,D011395</data>
+      <data key="d13">O9M39HTM5W</data>
+    </node>
+    <node id="EMODIN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d14">DB07715</data>
+      <data key="d12">CHEBI:42223</data>
+      <data key="d4">EMODIN</data>
+      <data key="d10">CHEMBL289277</data>
+      <data key="d11">3220</data>
+      <data key="d6">C0013982</data>
+      <data key="d15">D004642</data>
+      <data key="d13">KA46RNI6HN</data>
+    </node>
+    <node id="SB 203580">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:90705</data>
+      <data key="d4">SB 203580,SB-203580</data>
+      <data key="d10">CHEMBL10</data>
+      <data key="d11">176155</data>
+      <data key="d13">OU13V1EYWQ</data>
+    </node>
+    <node id="ALDOSTERONE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL273453</data>
+      <data key="d14">DB04630</data>
+      <data key="d11">5839</data>
+      <data key="d12">CHEBI:27584</data>
+      <data key="d6">C0002006</data>
+      <data key="d15">D000450</data>
+      <data key="d13">4964P6T9RB</data>
+      <data key="d4">ALDOSTERONE</data>
+    </node>
+    <node id="7-METHOXYCOUMARIN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:5679</data>
+      <data key="d4">7-METHOXYCOUMARIN,HERNIARIN</data>
+      <data key="d10">CHEMBL49732</data>
+      <data key="d11">10748</data>
+      <data key="d13">DGK72G008A</data>
+    </node>
+    <node id="ANGIOTENSIN IV">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:80127</data>
+      <data key="d4">ANGIOTENSIN IV</data>
+    </node>
+    <node id="11-DEOXYCORTICOSTERONE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:16973</data>
+      <data key="d4">11-DEOXYCORTICOSTERONE,DESOXYCORTICOSTERONE,DESOXYCORTONE</data>
+      <data key="d10">CHEMBL1498,CHEMBL1200542</data>
+      <data key="d11">6166</data>
+      <data key="d6">C0011710</data>
+      <data key="d15">D003900</data>
+      <data key="d13">40GP35YQ49</data>
+    </node>
+    <node id="9,10-ANTHRAQUINONE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:40448</data>
+      <data key="d4">9,10-ANTHRAQUINONE,ANTHRAQUINONE</data>
+      <data key="d10">CHEMBL55659</data>
+      <data key="d11">6780</data>
+      <data key="d6">C0050133</data>
+      <data key="d15">C042834</data>
+      <data key="d13">030MS0JBDO</data>
+    </node>
+    <node id="ASPARAGINE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d14">DB00174</data>
+      <data key="d12">CHEBI:17196,CHEBI:58048</data>
+      <data key="d4">ASPARAGINE,ASPARAGINE ANHYDROUS,L-ASPARAGINE</data>
+      <data key="d10">CHEMBL58832</data>
+      <data key="d11">6267,6992089</data>
+      <data key="d6">C0003995</data>
+      <data key="d15">D001216</data>
+      <data key="d13">5Z33R5TKO7,7NG0A2TUHQ</data>
+    </node>
+    <node id="LISINOPRIL">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL1729579,CHEMBL1237</data>
+      <data key="d14">DB00722</data>
+      <data key="d11">11865407,5362119</data>
+      <data key="d12">CHEBI:43755,CHEBI:6503</data>
+      <data key="d6">C0065374</data>
+      <data key="d15">D017706</data>
+      <data key="d13">7Q3P4BS2FD,E7199S1YWR</data>
+      <data key="d4">LISINOPRIL,LISINOPRIL ANHYDROUS</data>
+    </node>
+    <node id="2-(2-AMINO-3-METHOXYPHENYL)CHROMEN-4-ONE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:77954</data>
+      <data key="d4">2-(2-AMINO-3-METHOXYPHENYL)CHROMEN-4-ONE</data>
+      <data key="d10">CHEMBL35482</data>
+      <data key="d11">4713</data>
+      <data key="d13">SJE1IO5E3I</data>
+    </node>
+    <node id="CAPTOPRIL">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d14">DB01197</data>
+      <data key="d12">CHEBI:3380</data>
+      <data key="d4">CAPTOPRIL</data>
+      <data key="d10">CHEMBL1560</data>
+      <data key="d11">44093</data>
+      <data key="d6">C0006938</data>
+      <data key="d15">D002216</data>
+      <data key="d13">9G64RSX1XD</data>
+    </node>
+    <node id="LOSARTAN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL995,CHEMBL191</data>
+      <data key="d14">DB00678</data>
+      <data key="d11">3961</data>
+      <data key="d12">CHEBI:6541</data>
+      <data key="d6">C0126174</data>
+      <data key="d15">C505809,D019808</data>
+      <data key="d13">3ST302B24A,JMS50MPO89</data>
+      <data key="d4">LOSARTAN</data>
+    </node>
+    <node id="SOTRASTAURIN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:90531</data>
+      <data key="d4">SOTRASTAURIN</data>
+      <data key="d10">CHEMBL565612</data>
+      <data key="d14">DB12369</data>
+      <data key="d11">10296883</data>
+      <data key="d6">C2742796</data>
+      <data key="d15">C543528</data>
+      <data key="d13">7I279E1NZ8</data>
+    </node>
+    <node id="DIMINAZENE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL35241</data>
+      <data key="d14">DB03608</data>
+      <data key="d11">2354</data>
+      <data key="d12">CHEBI:81724</data>
+      <data key="d6">C0012447</data>
+      <data key="d15">D004133</data>
+      <data key="d13">Y5G36EEA5Z</data>
+      <data key="d4">DIMINAZENE</data>
+    </node>
+    <node id="P-GLU-ARG-PRO-ARG-LEU-SER-HIS-LYS-GLY-PRO-MET-PRO-PHE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:138186</data>
+      <data key="d4">P-GLU-ARG-PRO-ARG-LEU-SER-HIS-LYS-GLY-PRO-MET-PRO-PHE</data>
+    </node>
+    <node id="BRADYKININ">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:3165</data>
+      <data key="d4">BRADYKININ</data>
+      <data key="d10">CHEMBL406291</data>
+      <data key="d14">DB12126</data>
+      <data key="d11">439201</data>
+      <data key="d6">C0006100</data>
+      <data key="d15">D001920</data>
+      <data key="d13">S8TIM42R2W</data>
+    </node>
+    <node id="ROSIGLITAZONE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d14">DB00412</data>
+      <data key="d12">CHEBI:50122</data>
+      <data key="d4">ROSIGLITAZONE</data>
+      <data key="d10">CHEMBL121,CHEMBL843</data>
+      <data key="d11">77999</data>
+      <data key="d6">C0289313</data>
+      <data key="d15">C089730,D000077154</data>
+      <data key="d13">05V02F2KDG</data>
+    </node>
+    <node id="CHRYSIN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:75095</data>
+      <data key="d4">CHRYSIN</data>
+      <data key="d10">CHEMBL117</data>
+      <data key="d14">DB15581</data>
+      <data key="d11">5281607</data>
+      <data key="d6">C0055661</data>
+      <data key="d15">C043561</data>
+      <data key="d13">3CN01F5ZJ5</data>
+    </node>
+    <node id="ANTHRA[1,9-CD]PYRAZOL-6(2H)-ONE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:90695</data>
+      <data key="d4">ANTHRA[1,9-CD]PYRAZOL-6(2H)-ONE,PYRAZOLANTHRONE</data>
+      <data key="d10">CHEMBL7064</data>
+      <data key="d14">DB01782</data>
+      <data key="d11">8515</data>
+      <data key="d6">C0968382</data>
+      <data key="d15">C432165</data>
+      <data key="d13">1TW30Y2766</data>
+    </node>
+    <node id="PEPTIDE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:16670</data>
+      <data key="d4">PEPTIDE</data>
+    </node>
+    <node id="ZINC ATOM">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:27363</data>
+      <data key="d4">ZINC ATOM</data>
+    </node>
+    <node id="NITRIC OXIDE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d14">DB00435</data>
+      <data key="d12">CHEBI:16480</data>
+      <data key="d4">NITRIC OXIDE</data>
+      <data key="d10">CHEMBL1200689,CHEMBL1234579</data>
+      <data key="d11">145068</data>
+      <data key="d6">C0028128</data>
+      <data key="d15">D009569</data>
+      <data key="d13">31C4KY9ESH</data>
+    </node>
+    <node id="PITRESSIN TANNATE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL2108986,CHEMBL373742,CHEMBL1201528</data>
+      <data key="d14">DB00067</data>
+      <data key="d11">644077</data>
+      <data key="d12">CHEBI:9937,CHEBI:34543</data>
+      <data key="d6">C1705480,C0071162</data>
+      <data key="d15">C016671</data>
+      <data key="d13">4R069M4O1P</data>
+      <data key="d4">PITRESSIN TANNATE,VASOPRESSIN</data>
+    </node>
+    <node id="TELMISARTAN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0248719</data>
+      <data key="d15">D000077333,C084178</data>
+      <data key="d4">TELMISARTAN</data>
+      <data key="d10">CHEMBL1017</data>
+      <data key="d14">DB00966</data>
+      <data key="d11">65999</data>
+      <data key="d12">CHEBI:9434</data>
+      <data key="d13">U5SYW473RQ</data>
+    </node>
+    <node id="LITHIUM ATOM">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:30145</data>
+      <data key="d4">LITHIUM ATOM</data>
+    </node>
+    <node id="ANGIOTENSIN (1-9)">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:80128</data>
+      <data key="d4">ANGIOTENSIN (1-9)</data>
+    </node>
+    <node id="AREQUIN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL76,CHEMBL2095223,CHEMBL1326,CHEMBL58510,CHEMBL1669</data>
+      <data key="d14">DB00608</data>
+      <data key="d11">2719</data>
+      <data key="d12">CHEBI:50178,CHEBI:3638</data>
+      <data key="d6">C0008269,C0700447,C0003751</data>
+      <data key="d15">D002738,C023676</data>
+      <data key="d13">886U3H6UFF,6E17K3343P</data>
+      <data key="d4">AREQUIN,CHLOROQUINE,CHLOROQUINE SULFATE</data>
+    </node>
+    <node id="DYNORPHIN A">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:4727</data>
+      <data key="d4">DYNORPHIN A</data>
+    </node>
+    <node id="RITONAVIR">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:45409</data>
+      <data key="d4">RITONAVIR</data>
+      <data key="d10">CHEMBL163</data>
+      <data key="d14">DB00503</data>
+      <data key="d11">392622</data>
+      <data key="d6">C0292818</data>
+      <data key="d15">D019438</data>
+      <data key="d13">O3J8G9O825</data>
+    </node>
+    <node id="APELIN-13">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:80131</data>
+      <data key="d4">APELIN-13</data>
+    </node>
+    <node id="CREATININE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:16737</data>
+      <data key="d4">CREATININE</data>
+      <data key="d10">CHEMBL65567</data>
+      <data key="d14">DB11846</data>
+      <data key="d11">588</data>
+      <data key="d13">AYI8EX34EU</data>
+    </node>
+    <node id="L-SERINE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:33384,CHEBI:17822,CHEBI:17115</data>
+      <data key="d4">L-SERINE,SERINE</data>
+      <data key="d10">CHEMBL11298</data>
+      <data key="d14">DB00133</data>
+      <data key="d11">5951</data>
+      <data key="d6">C0036720</data>
+      <data key="d15">D012694,C027794</data>
+      <data key="d13">452VLY9402</data>
+    </node>
+    <node id="ENALAPRIL">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d14">DB00584,DB09477</data>
+      <data key="d12">CHEBI:4784</data>
+      <data key="d4">ENALAPRIL</data>
+      <data key="d10">CHEMBL1200659,CHEMBL578</data>
+      <data key="d11">5388962,40466924</data>
+      <data key="d6">C0014025</data>
+      <data key="d15">D004656</data>
+      <data key="d13">69PN84IO1A</data>
+    </node>
+    <node id="CAMOSTAT">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:135632</data>
+      <data key="d4">CAMOSTAT,FOY 305</data>
+      <data key="d10">CHEMBL590799</data>
+      <data key="d14">DB13729</data>
+      <data key="d11">2536</data>
+      <data key="d6">C0060700</data>
+      <data key="d15">C034532</data>
+      <data key="d13">0FD207WKDU</data>
+    </node>
+    <node id="CANDESARTAN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d14">DB00796,DB13919</data>
+      <data key="d12">CHEBI:3347</data>
+      <data key="d4">CANDESARTAN,CV 11974</data>
+      <data key="d10">CHEMBL1016</data>
+      <data key="d11">2541</data>
+      <data key="d6">C0217087</data>
+      <data key="d15">C081643</data>
+      <data key="d13">S8Q36MD2XX</data>
+    </node>
+    <node id="HIS-LEU">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:5729</data>
+      <data key="d4">HIS-LEU</data>
+      <data key="d10">CHEMBL90260</data>
+      <data key="d11">6992010</data>
+    </node>
+    <node id="HYDROXYCHLOROQUINE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL1535,CHEMBL1690</data>
+      <data key="d14">DB01611</data>
+      <data key="d11">3652</data>
+      <data key="d12">CHEBI:5801</data>
+      <data key="d6">C0020336</data>
+      <data key="d15">D006886</data>
+      <data key="d13">4QWG6N8QKH</data>
+      <data key="d4">HYDROXYCHLOROQUINE</data>
+    </node>
+    <node id="KINETENSIN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:80144</data>
+      <data key="d4">KINETENSIN</data>
+    </node>
+    <node id="L-CYSTEINE ZWITTERION">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:35235</data>
+      <data key="d4">L-CYSTEINE ZWITTERION</data>
+    </node>
+    <node id="ORGANIC DISULFIDE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:35489</data>
+      <data key="d4">ORGANIC DISULFIDE</data>
+    </node>
+    <node id="OLMESARTAN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL1200692,CHEMBL1516</data>
+      <data key="d14">DB00275</data>
+      <data key="d11">130881,158781</data>
+      <data key="d12">CHEBI:31932,CHEBI:48416</data>
+      <data key="d6">C1098320,C0386393</data>
+      <data key="d15">C437965,C097933,D000068557</data>
+      <data key="d13">8W1IQP3U10,6M97XTV3HD</data>
+      <data key="d4">OLMESARTAN,OLMESARTAN MEDOXOMIL</data>
+    </node>
+    <node id="LOPINAVIR">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d14">DB01601</data>
+      <data key="d12">CHEBI:31781</data>
+      <data key="d4">LOPINAVIR</data>
+      <data key="d10">CHEMBL729</data>
+      <data key="d11">92727</data>
+      <data key="d6">C0674432</data>
+      <data key="d15">C112035,D061466</data>
+      <data key="d13">2494G1JF75</data>
+    </node>
+    <node id="MOEXIPRIL">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:6960</data>
+      <data key="d4">MOEXIPRIL</data>
+      <data key="d10">CHEMBL1165,CHEMBL1201405,CHEMBL1200534</data>
+      <data key="d14">DB00691</data>
+      <data key="d11">40466988,91270</data>
+      <data key="d6">C0066685</data>
+      <data key="d15">C058302</data>
+      <data key="d13">H3753190JS,WT87C52TJZ</data>
+    </node>
+    <node id="WATER">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:15377</data>
+      <data key="d4">WATER</data>
+      <data key="d10">CHEMBL1098659</data>
+      <data key="d14">DB09145</data>
+      <data key="d11">962</data>
+      <data key="d6">C0043047</data>
+      <data key="d15">D014867</data>
+      <data key="d13">059QF0KO0R</data>
+    </node>
+    <node id="CHLORIDE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:17996</data>
+      <data key="d4">CHLORIDE,CHLORIDE ION</data>
+      <data key="d10">CHEMBL19429</data>
+      <data key="d14">DB14547</data>
+      <data key="d11">312</data>
+      <data key="d13">Q32ZN48698</data>
+    </node>
+    <node id="(3S)-3-AMINO-4-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S,3S)-1-[[(2S)-1-[(2S)-2-[[[(1S)-1-CARBOXY-2-PHENYLETHYL]AMINO]-OXOMETHYL]-1-PYRROLIDINYL]-3-(1H-IMIDAZOL-5-YL)-1-OXOPROPAN-2-YL]AMINO]-3-METHYL-1-OXOPENTAN-2-YL]AMINO]-3-(4-HYDROXYPHENYL)-1-OXOPROPAN-2-YL]AMINO]-3-METHYL-1-OXOBUTAN-2-YL]AMINO]-5-(DIAMINOMETHYLIDENEAMINO)-1-OXOPENTAN-2-YL]AMINO]-4-OXOBUTANOIC ACID">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:131170</data>
+      <data key="d4">(3S)-3-AMINO-4-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S,3S)-1-[[(2S)-1-[(2S)-2-[[[(1S)-1-CARBOXY-2-PHENYLETHYL]AMINO]-OXOMETHYL]-1-PYRROLIDINYL]-3-(1H-IMIDAZOL-5-YL)-1-OXOPROPAN-2-YL]AMINO]-3-METHYL-1-OXOPENTAN-2-YL]AMINO]-3-(4-HYDROXYPHENYL)-1-OXOPROPAN-2-YL]AMINO]-3-METHYL-1-OXOBUTAN-2-YL]AMINO]-5-(DIAMINOMETHYLIDENEAMINO)-1-OXOPENTAN-2-YL]AMINO]-4-OXOBUTANOIC ACID</data>
+    </node>
+    <node id="L-PHENYLALANINE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d14">DB00120</data>
+      <data key="d12">CHEBI:28044,CHEBI:17295</data>
+      <data key="d4">L-PHENYLALANINE,PHENYLALANINE</data>
+      <data key="d10">CHEMBL301523</data>
+      <data key="d11">6140</data>
+      <data key="d6">C0031453</data>
+      <data key="d15">D010649</data>
+      <data key="d13">47E5O17Y3R</data>
+    </node>
+    <node id="3,4 METHYLENEDIOXYAMPHETAMINE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0000379</data>
+      <data key="d15">D015104</data>
+      <data key="d4">3,4 METHYLENEDIOXYAMPHETAMINE,3,4-METHYLENEDIOXYAMPHETAMINE</data>
+    </node>
+    <node id="CAFFEINE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL1200569,CHEMBL113</data>
+      <data key="d14">DB00201</data>
+      <data key="d11">2519</data>
+      <data key="d12">CHEBI:27732</data>
+      <data key="d6">C0006644</data>
+      <data key="d15">C039656,D002110</data>
+      <data key="d13">3G6A5W338E</data>
+      <data key="d4">CAFFEINE</data>
+    </node>
+    <node id=".BETA.-D-GLUCOPYRANOSE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0017725</data>
+      <data key="d15">D005947</data>
+      <data key="d13">IY9XDZ35W2,J4R00M814D,5SL0G7R0OK</data>
+      <data key="d4">.BETA.-D-GLUCOPYRANOSE,BETA-D-GLUCOSE,DEXTROSE,DEXTROSE, UNSPECIFIED FORM,GLUCOSE,GLUCOSE OXIDASE</data>
+      <data key="d10">CHEMBL1614854,CHEMBL2108700,CHEMBL1222250</data>
+      <data key="d14">DB02379,DB01914</data>
+      <data key="d11">5793,64689</data>
+      <data key="d12">CHEBI:17234,CHEBI:4167,CHEBI:15903</data>
+    </node>
+    <node id="HYDROGEN PEROXIDE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL71595</data>
+      <data key="d14">DB11091</data>
+      <data key="d11">784</data>
+      <data key="d12">CHEBI:16240</data>
+      <data key="d6">C0020281,C1246476</data>
+      <data key="d15">D006861</data>
+      <data key="d13">BBX060AN9V</data>
+      <data key="d4">HYDROGEN PEROXIDE</data>
+    </node>
+    <node id="SPIRONOLACTONE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL1393</data>
+      <data key="d14">DB00421</data>
+      <data key="d11">5833</data>
+      <data key="d12">CHEBI:9241</data>
+      <data key="d6">C0037982</data>
+      <data key="d15">D013148</data>
+      <data key="d13">27O7W4T232</data>
+      <data key="d4">SPIRONOLACTONE</data>
+    </node>
+    <node id="COMPOUNDS, SULFHYDRYL">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0038734</data>
+      <data key="d15">D013438</data>
+      <data key="d4">COMPOUNDS, SULFHYDRYL,SULFHYDRYL COMPOUNDS</data>
+    </node>
+    <node id="DIMETHOXON">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL2270068</data>
+      <data key="d11">14210</data>
+      <data key="d12">CHEBI:38730</data>
+      <data key="d6">C0058206</data>
+      <data key="d15">C002302</data>
+      <data key="d13">28U28EWE79</data>
+      <data key="d4">DIMETHOXON,OMETHOATE</data>
+    </node>
+    <node id="MALAOXON">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0065556</data>
+      <data key="d15">C100082</data>
+      <data key="d4">MALAOXON</data>
+    </node>
+    <node id="MICRORNA">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C1101610</data>
+      <data key="d15">D035683</data>
+      <data key="d4">MICRORNA,MICRORNAS</data>
+    </node>
+    <node id="AVE 0991">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C1172934</data>
+      <data key="d15">C469726</data>
+      <data key="d4">AVE 0991</data>
+    </node>
+    <node id="ESERINE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C1314787</data>
+      <data key="d15">D010830</data>
+      <data key="d4">ESERINE</data>
+    </node>
+    <node id="ALCOHOL">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL545</data>
+      <data key="d14">DB00898</data>
+      <data key="d11">702</data>
+      <data key="d12">CHEBI:16236</data>
+      <data key="d6">C0001962</data>
+      <data key="d15">D000431,C010882</data>
+      <data key="d13">3K9958V90M</data>
+      <data key="d4">ALCOHOL,ETHANOL</data>
+    </node>
+    <node id="ANGIOTENSIN CONVERTING ENZYME INHIBITORS">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0003015</data>
+      <data key="d15">D000806</data>
+      <data key="d4">ANGIOTENSIN CONVERTING ENZYME INHIBITORS,ANGIOTENSIN-CONVERTING ENZYME INHIBITORS,ENZYME INHIBITORS, ANGIOTENSIN-CONVERTING,INHIBITORS, ANGIOTENSIN CONVERTING ENZYME,INHIBITORS, ANGIOTENSIN-CONVERTING ENZYME</data>
+    </node>
+    <node id="3-METHYLADENINE DNA">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d12">CHEBI:81146,CHEBI:137218,CHEBI:6476,CHEBI:4300,CHEBI:83828,CHEBI:5420,CHEBI:137177,CHEBI:137052,CHEBI:4294,CHEBI:2588</data>
+      <data key="d6">C0012854</data>
+      <data key="d15">D004247</data>
+      <data key="d4">3-METHYLADENINE DNA,ALKYLATED DNA,DNA,DNA 5'-PHOSPHATE,DNA 8-OXOGUANINE,DNA CONTAINING GUANINE,DNA POLYANION,GLUCOSYLATED DNA,LINEAR DNA DUPLEXES,METHYLPHOSPHOTRIESTER-DNA,TWO THYMINE RESIDUES (IN DNA)</data>
+    </node>
+    <node id="CALCITRIOL">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL846</data>
+      <data key="d14">DB00136</data>
+      <data key="d11">5280453</data>
+      <data key="d12">CHEBI:17823</data>
+      <data key="d6">C0006674</data>
+      <data key="d15">D002117</data>
+      <data key="d13">FXC9231JVH</data>
+      <data key="d4">CALCITRIOL</data>
+    </node>
+    <node id="ESTROGEN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL1627737,CHEMBL1627738,CHEMBL1627734,CHEMBL1627733,CHEMBL1627993,CHEMBL1627731,CHEMBL592868,CHEMBL1627729,CHEMBL34868,CHEMBL186705</data>
+      <data key="d6">C0014939</data>
+      <data key="d15">D004967</data>
+      <data key="d4">ESTROGEN,ESTROGEN PLATINUM (II) HYBRID DERIVATIVE</data>
+      <data key="d11">21628493</data>
+    </node>
+    <node id="ATORVASTATIN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d11">6483036,15378998,23665101,71311905,11651062,62976,60823,24875347,17589822</data>
+      <data key="d6">C0286651</data>
+      <data key="d15">C065179,D000069059</data>
+      <data key="d13">7876IL7J2N,U2H272PQ8B,IVW98J023E,A0JWA85V8F,36TN91XZ0V,DN43058TIV,AMJ4WWI6NM,48A5M73Z4Q,C0GEJ5QCSO</data>
+      <data key="d4">ATORVASTATIN,ATORVASTATIN CALCIUM,ATORVASTATIN CALCIUM ANHYDROUS,ATORVASTATIN CALCIUM TRIHYDRATE,ATORVASTATIN LACTONE,ATORVASTATIN MAGNESIUM,ATORVASTATIN SODIUM,ATORVASTATIN STRONTIUM,ATORVASTATIN, (+/-)-,ENT-ATORVASTATIN</data>
+      <data key="d10">CHEMBL333687,CHEMBL1487,CHEMBL393220,CHEMBL3349878,CHEMBL1790017</data>
+      <data key="d12">CHEBI:39548,CHEBI:50686</data>
+      <data key="d14">DB01076</data>
+    </node>
+    <node id="P 2">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0608663</data>
+      <data key="d15">C020845</data>
+      <data key="d4">P 2,P-2</data>
+    </node>
+    <node id="THIAZOLIDINEDIONES">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C1257987</data>
+      <data key="d15">D045162</data>
+      <data key="d4">THIAZOLIDINEDIONES</data>
+    </node>
+    <node id="MESSENGER RNA">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0035696</data>
+      <data key="d15">D012333</data>
+      <data key="d4">MESSENGER RNA,RNA, MESSENGER</data>
+    </node>
+    <node id="ACETYL COENZYME A">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0001026</data>
+      <data key="d15">D000105</data>
+      <data key="d4">ACETYL COENZYME A,COENZYME A, ACETYL</data>
+    </node>
+    <node id="AGENTS, ANTIHYPERTENSIVE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0003364</data>
+      <data key="d15">D000959</data>
+      <data key="d4">AGENTS, ANTIHYPERTENSIVE,ANTIHYPERTENSIVE AGENTS</data>
+    </node>
+    <node id="CARBON">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0007012,C0007009</data>
+      <data key="d15">D002245,D004367,D002244</data>
+      <data key="d4">CARBON,CARBON DIOXIDE,DIOXIDE, CARBON</data>
+      <data key="d10">CHEMBL1231871</data>
+      <data key="d14">DB09157</data>
+      <data key="d11">280</data>
+      <data key="d12">CHEBI:16526</data>
+      <data key="d13">142M471B3J</data>
+    </node>
+    <node id="PHARMACEUTICAL PREPARATIONS">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0013227</data>
+      <data key="d15">D004364</data>
+      <data key="d4">PHARMACEUTICAL PREPARATIONS,PREPARATIONS, PHARMACEUTICAL</data>
+    </node>
+    <node id="SAPONINS">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0036189</data>
+      <data key="d15">D012503</data>
+      <data key="d4">SAPONINS</data>
+    </node>
+    <node id="20-HYDROXY-5,8,11,14-EICOSATETRAENOIC ACID">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0046616</data>
+      <data key="d15">C055987</data>
+      <data key="d4">20-HYDROXY-5,8,11,14-EICOSATETRAENOIC ACID</data>
+    </node>
+    <node id="DIMINAZEN ACETURATE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL124025</data>
+      <data key="d11">65060</data>
+      <data key="d6">C0058282</data>
+      <data key="d15">C003915</data>
+      <data key="d13">JI8SAD85NO,M011GS5PF5</data>
+      <data key="d4">DIMINAZEN ACETURATE,DIMINAZENE ACETURATE</data>
+    </node>
+    <node id="DESPENTANOYL BUTANOYL VALSARTAN">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0216784,C0719949</data>
+      <data key="d15">D000068756,C081489,C529716</data>
+      <data key="d13">80M03YXJ7I,IDC67444MI,WB8FT61183,4GS9P3LL2L,2P0MPU907C</data>
+      <data key="d4">DESPENTANOYL BUTANOYL VALSARTAN,SACUBITRIL VALSARTAN SODIUM HYDRATE,VALSARTAN,VALSARTAN BENZYL ESTER,VALSARTAN, D-</data>
+      <data key="d11">5284633,60846,58153851,11283894</data>
+      <data key="d10">CHEMBL1069,CHEMBL115622</data>
+      <data key="d14">DB00177</data>
+      <data key="d12">CHEBI:9927</data>
+    </node>
+    <node id="AGONISTS">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d6">C0243192</data>
+      <data key="d15">Q000819</data>
+      <data key="d4">AGONISTS</data>
+    </node>
+    <node id="FLUTAMIDE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL806</data>
+      <data key="d14">DB00499</data>
+      <data key="d11">3397</data>
+      <data key="d12">CHEBI:5132</data>
+      <data key="d6">C0016384</data>
+      <data key="d15">D005485</data>
+      <data key="d13">76W6J0943E</data>
+      <data key="d4">FLUTAMIDE</data>
+    </node>
+    <node id="N-(2-AMINOETHYL)-1-AZIRIDINEETHANAMINE">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL398940</data>
+      <data key="d14">DB15643</data>
+      <data key="d11">98888</data>
+      <data key="d13">K93WMR7E2S</data>
+      <data key="d4">N-(2-AMINOETHYL)-1-AZIRIDINEETHANAMINE</data>
+    </node>
+    <node id="SPP1148">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d14">DB05203</data>
+      <data key="d4">SPP1148</data>
+    </node>
+    <node id="ENALAPRILAT">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL1200697,CHEMBL577</data>
+      <data key="d14">DB09477</data>
+      <data key="d11">5462501</data>
+      <data key="d12">CHEBI:4786</data>
+      <data key="d6">C0014027</data>
+      <data key="d15">D015773</data>
+      <data key="d13">GV0O7ES0R3,Q508Q118JM</data>
+      <data key="d4">ENALAPRILAT,ENALAPRILAT ANHYDROUS</data>
+    </node>
+    <node id="CARBARIL">
+      <data key="d1">name</data>
+      <data key="d0">ChemicalSubstance</data>
+      <data key="d2">2</data>
+      <data key="d10">CHEMBL46917</data>
+      <data key="d11">6129</data>
+      <data key="d12">CHEBI:3390</data>
+      <data key="d6">C0036860</data>
+      <data key="d15">D012721</data>
+      <data key="d13">R890C8J3N1</data>
+      <data key="d4">CARBARIL,CARBARYL</data>
+    </node>
+    <edge source="ACE2" target="CHEMBL3144487" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL3144487</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL415330" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL415330</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL3234446" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL3234446</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL437242" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL437242</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL436639" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL436639</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL426566" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL426566</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL525960" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL525960</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:17089" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:17089</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:26667" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:26667</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:36044" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:36044</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:36080" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:36080</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:33708" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:33708</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:48343" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:48343</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:35457" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:35457</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:48433" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:48433</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:33699" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:33699</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:2720" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:2720</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:2720" id="1">
+      <data key="d16">related_to</data>
+      <data key="d17">Translator Text Mining Provider</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d23">PMC6620569</data>
+      <data key="d22">CHEBI:2720</data>
+      <data key="d19">CORD Gene API</data>
+      <data key="d20">Translator Text Mining Provider</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:52211" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:52211</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:37670" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:37670</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:53000" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:53000</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:48705" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:48705</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:46761" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:46761</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:33709" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:33709</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:35620" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:35620</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:48432" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:48432</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:48432" id="1">
+      <data key="d16">related_to</data>
+      <data key="d17">Translator Text Mining Provider</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d23">PMC6516147,PMC6620569,PMC6693931,PMC6824568</data>
+      <data key="d22">CHEBI:48432</data>
+      <data key="d19">CORD Gene API</data>
+      <data key="d20">Translator Text Mining Provider</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:35222" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:35222</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:39061" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:39061</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:48706" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:48706</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:80132" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:80132</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:22587" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:22587</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL257229" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL257229</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL251804" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL251804</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL260273" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL260273</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL260273" id="1">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">GuideToPharmacologyInteractions</data>
+      <data key="d18">CHEMBL260273</data>
+      <data key="d24">CHEMBL260273</data>
+      <data key="d19">DGIdb API</data>
+      <data key="d20">null</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL253428" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL253428</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL409721" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL409721</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL437595" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL437595</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL350414" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL350414</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL411942" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL411942</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL251809" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL251809</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL253224" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL253224</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL401086" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL401086</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL410509" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL410509</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL261121" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL261121</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL254493" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL254493</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL257726" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL257726</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL261423" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL261423</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL251808" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL251808</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL411298" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL411298</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL411052" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL411052</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL254282" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL254282</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL254495" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL254495</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL400527" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL400527</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL254900" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL254900</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL400526" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL400526</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL409105" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL409105</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL271224" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL271224</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL254703" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL254703</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL260677" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL260677</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL257270" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL257270</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL257026" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL257026</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL252391" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL252391</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL257727" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL257727</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL263663" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL263663</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL398771" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL398771</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL408705" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL408705</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL272925" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL272925</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL252009" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL252009</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL258698" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL258698</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL252003" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL252003</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL254911" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL254911</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL271223" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL271223</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL269997" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL269997</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL404117" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL404117</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL408448" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL408448</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL408182" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL408182</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL401397" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL401397</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL269996" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL269996</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL258333" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL258333</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL271225" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL271225</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL402987" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL402987</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHEMBL398545" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL398545</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="C0682921" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Aliphatic hydrocarbon</data>
+      <data key="d25">C0682921</data>
+      <data key="d26">17882627</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="C0772162" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">AROMATICS</data>
+      <data key="d25">C0772162</data>
+      <data key="d26">17882627</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="C0309049" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">favor</data>
+      <data key="d25">C0309049</data>
+      <data key="d26">19232015</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="C0684162" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">receptor binding sites</data>
+      <data key="d25">C0684162</data>
+      <data key="d26">28008928</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="CHEBI:24433" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">Translator Text Mining Provider</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d23">PMC6620569</data>
+      <data key="d22">CHEBI:24433</data>
+      <data key="d19">CORD Gene API</data>
+      <data key="d20">Translator Text Mining Provider</data>
+    </edge>
+    <edge source="ACE2" target="DYNORPHIN A (1-17)" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL411557</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="BICYCLOHEXYL" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL1231413</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="FASUDIL" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL38380</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="STREPTOZOCIN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL1651906</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="DYNORPHIN A (1-11)" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL438223</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="FOSTAMATINIB" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL2103830</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ANGIOTENSIN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL56448</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ANGIOTENSIN" id="1">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL2391146</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ANGIOTENSIN" id="2">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:89666</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ANGIOTENSIN" id="3">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:2718</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ANGIOTENSIN" id="4">
+      <data key="d16">related_to</data>
+      <data key="d17">Translator Text Mining Provider</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d23">PMC6516147,PMC6620569</data>
+      <data key="d22">CHEBI:2718</data>
+      <data key="d19">CORD Gene API</data>
+      <data key="d20">Translator Text Mining Provider</data>
+    </edge>
+    <edge source="ACE2" target="SP-600125" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL1725279</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="DYNORPHIN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL268984</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ORE-1001" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL429844</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ORE-1001" id="1">
+      <data key="d16">related_to</data>
+      <data key="d17">pharos</data>
+      <data key="d18">CHEMBL429844</data>
+      <data key="d19">Automat PHAROS API</data>
+      <data key="d20">pharos</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ORE-1001" id="2">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">GuideToPharmacologyInteractions</data>
+      <data key="d18">CHEMBL429844</data>
+      <data key="d24">CHEMBL429844</data>
+      <data key="d19">DGIdb API</data>
+      <data key="d20">null</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="NEUROTENSIN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL407196</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="NEUROTENSIN" id="1">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:7542</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="PROINSULIN HUMAN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d18">CHEMBL2109212</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CEFMENOXIME" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:55490</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="HESPERIDIN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:28775</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="MONOCROTALINE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:6980</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="MONOCROTALINE" id="1">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:6980</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="IRBESARTAN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:5959</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="IRBESARTAN" id="1">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:5959</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ROTTLERIN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:8899</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="PHENOTHIAZINE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:8459</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="EMODIN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:42223</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="SB 203580" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:90705</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ALDOSTERONE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:27584</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ALDOSTERONE" id="1">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:27584</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ALDOSTERONE" id="2">
+      <data key="d16">related_to</data>
+      <data key="d17">Translator Text Mining Provider</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d23">PMC6824568</data>
+      <data key="d22">CHEBI:27584</data>
+      <data key="d19">CORD Gene API</data>
+      <data key="d20">Translator Text Mining Provider</data>
+    </edge>
+    <edge source="ACE2" target="ALDOSTERONE" id="3">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Aldosterone</data>
+      <data key="d25">C0002006</data>
+      <data key="d26">16179584</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="7-METHOXYCOUMARIN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:5679</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ANGIOTENSIN IV" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:80127</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="11-DEOXYCORTICOSTERONE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:16973</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="9,10-ANTHRAQUINONE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:40448</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ASPARAGINE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:17196</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="LISINOPRIL" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:43755</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="LISINOPRIL" id="1">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:43755</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="LISINOPRIL" id="2">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">TdgClinicalTrial,DrugBank</data>
+      <data key="d18">CHEMBL1237</data>
+      <data key="d24">LISINOPRIL</data>
+      <data key="d27">11030016,11929321,11752352,1536695</data>
+      <data key="d19">DGIdb API</data>
+      <data key="d20">null</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="2-(2-AMINO-3-METHOXYPHENYL)CHROMEN-4-ONE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:77954</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CAPTOPRIL" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:3380</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CAPTOPRIL" id="1">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:3380</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="LOSARTAN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:6541</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="LOSARTAN" id="1">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:6541</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="LOSARTAN" id="2">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Losartan</data>
+      <data key="d25">C0126174</data>
+      <data key="d26">25766467</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="SOTRASTAURIN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:90531</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="DIMINAZENE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:81724</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="DIMINAZENE" id="1">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:81724</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="DIMINAZENE" id="2">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Diminazene</data>
+      <data key="d25">C0012447</data>
+      <data key="d26">24446061</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="P-GLU-ARG-PRO-ARG-LEU-SER-HIS-LYS-GLY-PRO-MET-PRO-PHE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:138186</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="BRADYKININ" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:3165</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="BRADYKININ" id="1">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:3165</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ROSIGLITAZONE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:50122</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHRYSIN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:75095</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ANTHRA[1,9-CD]PYRAZOL-6(2H)-ONE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scibite</data>
+      <data key="d22">CHEBI:90695</data>
+      <data key="d19">Automat CORD19 Scibite API</data>
+      <data key="d20">scibite</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="PEPTIDE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:16670</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ZINC ATOM" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:27363</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="NITRIC OXIDE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:16480</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="PITRESSIN TANNATE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:9937</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="TELMISARTAN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:9434</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="TELMISARTAN" id="1">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">telmisartan</data>
+      <data key="d25">C0248719</data>
+      <data key="d26">19004932</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="LITHIUM ATOM" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:30145</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ANGIOTENSIN (1-9)" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:80128</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="AREQUIN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:3638</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="AREQUIN" id="1">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">drugbank</data>
+      <data key="d28">DB00608</data>
+      <data key="d19">MyChem.info API</data>
+      <data key="d20">drugbank</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="DYNORPHIN A" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:4727</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="RITONAVIR" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:45409</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="APELIN-13" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:80131</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CREATININE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:16737</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="L-SERINE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:17822</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ENALAPRIL" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:4784</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CAMOSTAT" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:135632</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CANDESARTAN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:3347</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="HIS-LEU" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:5729</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="HYDROXYCHLOROQUINE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:5801</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="HYDROXYCHLOROQUINE" id="1">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">drugbank</data>
+      <data key="d28">DB01611</data>
+      <data key="d19">MyChem.info API</data>
+      <data key="d20">drugbank</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="KINETENSIN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:80144</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="L-CYSTEINE ZWITTERION" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:35235</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ORGANIC DISULFIDE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:35489</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="OLMESARTAN" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:48416</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="OLMESARTAN" id="1">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">olmesartan</data>
+      <data key="d25">C1098320</data>
+      <data key="d26">28656296</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="OLMESARTAN" id="2">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">olmesartan</data>
+      <data key="d25">C1098320</data>
+      <data key="d26">17345786</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="LOPINAVIR" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">scigraph</data>
+      <data key="d22">CHEBI:31781</data>
+      <data key="d19">Automat CORD19 Scigraph API</data>
+      <data key="d20">scigraph</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="MOEXIPRIL" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">hmdb</data>
+      <data key="d22">CHEBI:6960</data>
+      <data key="d19">Automat HMDB API</data>
+      <data key="d20">hmdb</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="WATER" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">hmdb</data>
+      <data key="d22">CHEBI:15377</data>
+      <data key="d19">Automat HMDB API</data>
+      <data key="d20">hmdb</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CHLORIDE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">hmdb</data>
+      <data key="d22">CHEBI:17996</data>
+      <data key="d19">Automat HMDB API</data>
+      <data key="d20">hmdb</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="(3S)-3-AMINO-4-[[(2S)-1-[[(2S)-1-[[(2S)-1-[[(2S,3S)-1-[[(2S)-1-[(2S)-2-[[[(1S)-1-CARBOXY-2-PHENYLETHYL]AMINO]-OXOMETHYL]-1-PYRROLIDINYL]-3-(1H-IMIDAZOL-5-YL)-1-OXOPROPAN-2-YL]AMINO]-3-METHYL-1-OXOPENTAN-2-YL]AMINO]-3-(4-HYDROXYPHENYL)-1-OXOPROPAN-2-YL]AMINO]-3-METHYL-1-OXOBUTAN-2-YL]AMINO]-5-(DIAMINOMETHYLIDENEAMINO)-1-OXOPENTAN-2-YL]AMINO]-4-OXOBUTANOIC ACID" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">hmdb</data>
+      <data key="d22">CHEBI:131170</data>
+      <data key="d19">Automat HMDB API</data>
+      <data key="d20">hmdb</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="L-PHENYLALANINE" id="0">
+      <data key="d16">related_to</data>
+      <data key="d17">hmdb</data>
+      <data key="d22">CHEBI:17295</data>
+      <data key="d19">Automat HMDB API</data>
+      <data key="d20">hmdb</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="3,4 METHYLENEDIOXYAMPHETAMINE" id="0">
+      <data key="d16">negatively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">3,4-Methylenedioxyamphetamine</data>
+      <data key="d25">C0000379</data>
+      <data key="d26">25435005</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="CAFFEINE" id="0">
+      <data key="d16">negatively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Caffeine</data>
+      <data key="d25">C0006644</data>
+      <data key="d26">21335533</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target=".BETA.-D-GLUCOPYRANOSE" id="0">
+      <data key="d16">negatively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Glucose</data>
+      <data key="d25">C0017725</data>
+      <data key="d26">19934006,26968558</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target=".BETA.-D-GLUCOPYRANOSE" id="1">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Glucose</data>
+      <data key="d25">C0017725</data>
+      <data key="d26">19934006</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target=".BETA.-D-GLUCOPYRANOSE" id="2">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Glucose</data>
+      <data key="d25">C0017725</data>
+      <data key="d26">27806985</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="HYDROGEN PEROXIDE" id="0">
+      <data key="d16">negatively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Hydrogen Peroxide</data>
+      <data key="d25">C0020281</data>
+      <data key="d26">24877125</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="SPIRONOLACTONE" id="0">
+      <data key="d16">negatively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Spironolactone</data>
+      <data key="d25">C0037982</data>
+      <data key="d26">16179584</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="COMPOUNDS, SULFHYDRYL" id="0">
+      <data key="d16">negatively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Sulfhydryl Compounds</data>
+      <data key="d25">C0038734</data>
+      <data key="d26">18078750</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="DIMETHOXON" id="0">
+      <data key="d16">negatively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">dimethoxon</data>
+      <data key="d25">C0058206</data>
+      <data key="d26">22489048</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="DIMETHOXON" id="1">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">dimethoxon</data>
+      <data key="d25">C0058206</data>
+      <data key="d26">22489048</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="MALAOXON" id="0">
+      <data key="d16">negatively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">malaoxon</data>
+      <data key="d25">C0065556</data>
+      <data key="d26">22489048</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="MALAOXON" id="1">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">malaoxon</data>
+      <data key="d25">C0065556</data>
+      <data key="d26">22489048</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="MICRORNA" id="0">
+      <data key="d16">negatively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">MicroRNAs</data>
+      <data key="d25">C1101610</data>
+      <data key="d26">24564768</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="AVE 0991" id="0">
+      <data key="d16">negatively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">AVE 0991</data>
+      <data key="d25">C1172934</data>
+      <data key="d26">26406236</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="ESERINE" id="0">
+      <data key="d16">negatively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Eserine</data>
+      <data key="d25">C1314787</data>
+      <data key="d26">22489048</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="ESERINE" id="1">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Eserine</data>
+      <data key="d25">C1314787</data>
+      <data key="d26">22489048</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="ALCOHOL" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Ethanol</data>
+      <data key="d25">C0001962</data>
+      <data key="d26">26975390</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="ANGIOTENSIN CONVERTING ENZYME INHIBITORS" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Angiotensin-Converting Enzyme Inhibitors</data>
+      <data key="d25">C0003015</data>
+      <data key="d26">18192334,19793108</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="ANGIOTENSIN CONVERTING ENZYME INHIBITORS" id="1">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Angiotensin-Converting Enzyme Inhibitors</data>
+      <data key="d25">C0003015</data>
+      <data key="d26">19793108,27931559</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="3-METHYLADENINE DNA" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">DNA</data>
+      <data key="d25">C0012854</data>
+      <data key="d26">10409653,18292088</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="CALCITRIOL" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Calcitriol</data>
+      <data key="d25">C0006674</data>
+      <data key="d26">26968558</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="ESTROGEN" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Estrogens</data>
+      <data key="d25">C0014939</data>
+      <data key="d26">28661206</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="ATORVASTATIN" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">atorvastatin</data>
+      <data key="d25">C0286651</data>
+      <data key="d26">25482567</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="ATORVASTATIN" id="1">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">atorvastatin</data>
+      <data key="d25">C0286651</data>
+      <data key="d26">25482567</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="P 2" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">P-2</data>
+      <data key="d25">C0608663</data>
+      <data key="d26">20347904</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="THIAZOLIDINEDIONES" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Thiazolidinediones</data>
+      <data key="d25">C1257987</data>
+      <data key="d26">24558317</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="MESSENGER RNA" id="0">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">RNA, Messenger</data>
+      <data key="d25">C0035696</data>
+      <data key="d26">11304525</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="ACETYL COENZYME A" id="0">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Acetyl Coenzyme A</data>
+      <data key="d25">C0001026</data>
+      <data key="d26">16998073</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="AGENTS, ANTIHYPERTENSIVE" id="0">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Antihypertensive Agents</data>
+      <data key="d25">C0003364</data>
+      <data key="d26">18449520</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="CARBON" id="0">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Carbon Dioxide</data>
+      <data key="d25">C0007012</data>
+      <data key="d26">26274602</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="PHARMACEUTICAL PREPARATIONS" id="0">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Pharmaceutical Preparations</data>
+      <data key="d25">C0013227</data>
+      <data key="d26">16514079</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="SAPONINS" id="0">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">Saponins</data>
+      <data key="d25">C0036189</data>
+      <data key="d26">20518313</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="20-HYDROXY-5,8,11,14-EICOSATETRAENOIC ACID" id="0">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">20-hydroxy-5,8,11,14-eicosatetraenoic acid</data>
+      <data key="d25">C0046616</data>
+      <data key="d26">20837888</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="DIMINAZEN ACETURATE" id="0">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">diminazene aceturate</data>
+      <data key="d25">C0058282</data>
+      <data key="d26">27571511</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="DESPENTANOYL BUTANOYL VALSARTAN" id="0">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">valsartan</data>
+      <data key="d25">C0216784</data>
+      <data key="d26">23141017</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="AGONISTS" id="0">
+      <data key="d16">positively_regulates</data>
+      <data key="d17">SEMMED</data>
+      <data key="d21">ChemicalSubstance</data>
+      <data key="d24">agonists</data>
+      <data key="d25">C0243192</data>
+      <data key="d26">26783414</data>
+      <data key="d19">SEMMED Gene API</data>
+      <data key="d20">SEMMED</data>
+    </edge>
+    <edge source="ACE2" target="FLUTAMIDE" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">GuideToPharmacologyInteractions</data>
+      <data key="d18">CHEMBL806</data>
+      <data key="d24">FLUTAMIDE</data>
+      <data key="d19">DGIdb API</data>
+      <data key="d20">null</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="N-(2-AMINOETHYL)-1-AZIRIDINEETHANAMINE" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">drugbank</data>
+      <data key="d28">DB15643</data>
+      <data key="d19">MyChem.info API</data>
+      <data key="d20">drugbank</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="SPP1148" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">drugbank</data>
+      <data key="d28">DB05203</data>
+      <data key="d19">MyChem.info API</data>
+      <data key="d20">drugbank</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="ENALAPRILAT" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">drugcentral</data>
+      <data key="d18">CHEMBL577</data>
+      <data key="d19">MyChem.info API</data>
+      <data key="d20">drugcentral</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+    <edge source="ACE2" target="CARBARIL" id="0">
+      <data key="d16">physically_interacts_with</data>
+      <data key="d17">drugcentral</data>
+      <data key="d18">CHEMBL46917</data>
+      <data key="d19">MyChem.info API</data>
+      <data key="d20">drugcentral</data>
+      <data key="d21">ChemicalSubstance</data>
+    </edge>
+  </graph>
+</graphml>
