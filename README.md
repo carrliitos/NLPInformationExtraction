@@ -1,6 +1,7 @@
 # NLP Information Extraction (In Progress)
+> Benzon Carlitos Salazar
 
-This is a summer project focusing on Information Exraction
+This is a summer project focusing on Information Extraction
 
 The goal of this project is to be able to automate data/information extraction to create a larger database of CSVs for the medical domain (for proprietary research in University of Wisconsin - WHITEWATER)
 
