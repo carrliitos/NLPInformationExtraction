@@ -38,7 +38,14 @@ The goal of this project is to be able to automate data/information extraction t
 
 ## Text Annotation
 - [brat rapid annotation tool](http://brat.nlplab.org/)
+- [CLAMP](https://pubmed.ncbi.nlm.nih.gov/29186491/)
 
 ## Ontology
 - [BioThings Explorer](https://github.com/biothings/biothings_explorer/tree/master/jupyter%20notebooks)
 	- BioThings Explorer is an engine for autonomously querying a distributed knowledge graph. The distributed knowledge graph is made up of biomedical APIs that have been annotated with semantically-precise descriptions of their inputs and outputs.
+
+## Similarity Measures
+- Levenshtein Edit Distance
+- Jaro/Jaro-Winkler
+- Soundex
+- [Description and Evaluation of Semantic Similarity Measures Approaches](https://arxiv.org/abs/1310.8059)
