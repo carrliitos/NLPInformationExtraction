@@ -1,7 +1,7 @@
 # NLP Information Extraction (In Progress)
 > Benzon Carlitos Salazar
 
-This is a summer project focusing on Information Extraction
+This is my undergraduate project focusing on automated Information Extraction
 
 The goal of this project is to be able to automate data/information extraction to create a larger database of CSVs for the medical domain (for proprietary research in University of Wisconsin - WHITEWATER)
 
@@ -14,12 +14,12 @@ The goal of this project is to be able to automate data/information extraction t
 	- [x] Converted to text
 	- [x] Cleaned
 	- [ ] Annotated - ***In progress***
-- [ ] Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures (Start: Aug. 1, Finish: Aug. Aug. 22)
+- [ ] Validating machine-generated CSVs against human-generated CSVs - ***In progress***
+- [ ] Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures
 - [ ] CSV assembly from relevant sentences
 - [ ] CSV for proprietary research
 
 # Sources I am following:
-
 ## For all NLP:
 - [Natural Language Processing for Information Extraction (Sonit Singh, 2018)](https://arxiv.org/abs/1807.02383)
 - [Pipelines for Procedural Information Extraction from Scientific Literature:Towards Recipes using Machine Learning and Data Science (H Yang, 2019)](https://arxiv.org/pdf/1912.07747.pdf)
