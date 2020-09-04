@@ -1,0 +1,43 @@
+*****Levenshtein Distance*****
+edit distance for <Attribute1> and <Attribute1>: 
+0
+edit distance for <Attribute2> and <Attribute2>: 
+0
+edit distance for <Attribute3> and <Attribute3>: 
+0
+edit distance for <value1> and <Avalue>: 
+2
+edit distance for <value2> and <valueB>: 
+1
+edit distance for <value3> and <valueC>: 
+1
+edit distance for <value4> and <valueD>: 
+1
+edit distance for <value5> and <valueE>: 
+1
+edit distance for <value6> and <valueF>: 
+1
+edit distance for <value7> and <valueG>: 
+1
+edit distance for <value8> and <valueH>: 
+1
+edit distance for <value9> and <valueI>: 
+1
+edit distance for <value10> and <valueJ>: 
+2
+edit distance for <value11> and <valueK>: 
+2
+edit distance for <value12> and <valueL>: 
+2
+edit distance for <value13> and <None>: 
+7
+edit distance for <value14> and <None>: 
+7
+edit distance for <value15> and <None>: 
+7
+edit distance for <value16> and <None>: 
+7
+edit distance for <value17> and <None>: 
+7
+edit distance for <value18> and <None>: 
+7
