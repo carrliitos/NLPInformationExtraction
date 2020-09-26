@@ -44,7 +44,7 @@ The goal of this project is to be able to automate data/information extraction t
 - [BioThings Explorer](https://github.com/biothings/biothings_explorer/tree/master/jupyter%20notebooks)
 	- BioThings Explorer is an engine for autonomously querying a distributed knowledge graph. The distributed knowledge graph is made up of biomedical APIs that have been annotated with semantically-precise descriptions of their inputs and outputs.
 
-## Similarity Measures
+## Similarity Measures [src folder](https://github.com/carrliitos/NLPInformationExtraction/tree/master/src/CSVComparisons)
 - Levenshtein Edit Distance
 - Jaro/Jaro-Winkler
 - Soundex
