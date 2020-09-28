@@ -15,7 +15,7 @@ The goal of this project is to be able to automate data/information extraction t
 	- [x] Cleaned
 	- [ ] Annotated - ***In progress***
 - [ ] Validating machine-generated CSVs against human-generated CSVs - ***In progress***
-- [ ] Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures
+- [ ] Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures - ***In progress***
 - [ ] CSV assembly from relevant sentences
 - [ ] CSV for proprietary research
 
