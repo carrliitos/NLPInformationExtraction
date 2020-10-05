@@ -3,7 +3,7 @@
 import csv
 
 inputCSV = "testCorpora.csv"
-outputCSV = "testCorporaNER.csv"
+outputCSV = "testCorporaNER2.csv"
 
 with open(inputCSV) as in_file:
     with open(outputCSV, 'w') as out_file:
