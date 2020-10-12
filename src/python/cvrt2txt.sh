@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# output_directory="~/Documents/programs/NLPInformationExtraction/python/CaseReports/copies/output"
+# To run:
+# $ ./cvrt2txt.sh /input/folder/with/all/pdfs
 
 for file in $1*.pdf; do
 	echo "Extracting texts from: "
