@@ -13,7 +13,7 @@ The goal of this project is to be able to automate data/information extraction t
 - [x] Documents are converted and cleaned from PDF to text
 - [x] NER model created 
 	- Summary:
-		- Successfully created a first version of our [NER model](https://github.com/carrliitos/NLPInformationExtraction/tree/master/src/TraumaNLP). The sample can be found [here](https://github.com/carrliitos/NLPInformationExtraction/blob/master/src/TraumaNLP/sampleNER.ipynb).
+		- Successfully created a first version of our NER model. The sample can be found [here](https://github.com/carrliitos/NLPInformationExtraction/blob/master/src/python/sampleNER.ipynb).
 		- The attributes we would generally extract manually are correctly automatically extracted by our model. After this step, we move on to extracting the actions values from our case reports.
 - [ ] Validating machine-generated CSVs against human-generated CSVs - ***In progress***
 - [ ] Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures - ***In progress***
