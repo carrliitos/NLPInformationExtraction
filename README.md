@@ -11,12 +11,13 @@ The goal of this project is to be able to automate data/information extraction t
 	- Summary:
 		- Successfully extracted [223 PDF articles](https://github.com/carrliitos/NLPInformationExtraction/blob/master/src/java/main/preprocessing/textCollection/output1.csv) from [Trauma Case Reports Online Medical Journal Vol. 10 - Vol. 27](https://www.sciencedirect.com/journal/trauma-case-reports). The articles extracted included Editorial Boards from all volumes, which will be removed for NER/Sentence Classification as it is irrelevant for all case reports
 - [x] Documents are converted and cleaned from PDF to text
-	- [x] Converted to text
-	- [x] Cleaned
-	- [x] Annotated
+- [x] NER model created 
+	- Summary:
+		- Successfully created a first version of our [NER model](https://github.com/carrliitos/NLPInformationExtraction/tree/master/src/TraumaNLP). The sample can be found [here](https://github.com/carrliitos/NLPInformationExtraction/blob/master/src/TraumaNLP/sampleNER.ipynb).
+		- The attributes we would generally extract manually are correctly automatically extracted by our model. After this step, we move on to extracting the actions values from our case reports.
 - [ ] Validating machine-generated CSVs against human-generated CSVs - ***In progress***
 - [ ] Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures - ***In progress***
-- [ ] CSV assembly from relevant sentences
+- [ ] CSV assembly from relevant sentences - ***In progress***
 - [ ] CSV for proprietary research
 
 # Sources I am following:
