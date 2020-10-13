@@ -5,6 +5,9 @@ brat/
 pdfminer/
 .idea/
 
+# Our model
+src/TraumaNLP/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
