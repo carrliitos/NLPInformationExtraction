@@ -1,0 +1,136 @@
+Trauma Case Reports 25 (2020) 100260
+
+Contents lists available at ScienceDirect
+Trauma Case Reports
+
+journal homepage: www.elsevier.com/locate/tcr
+
+Case Report
+Primary abdominal Tyre blast injury: A rare case of intra-
+abdominal trauma
+Kirsten M. Larkins⁎, Nicole A. Campbell, Ian A. Campbell
+Department of General Surgery, Wimmera Base Hospital, 83 Baillie Street Horsham, Victoria, Australia 3400
+
+A R T I C L E I N F O
+
+Keywords:
+Blast injury
+Tyre blast
+Intra-abdominal trauma
+
+A B S T R A C T
+
+Tyre blast injuries are an infrequently encountered but important cause of significant injury. Due
+to their rare nature tyre blast injuries are often not recognised as major trauma and this can pose
+significant risk to patient.
+
+Case History.
+A 50 year old male was brought in by ambulance to a rural emergency department following a tyre explosion. The patient
+was fitting treads to industrial rims and inflating them to specifications. He had completed fitting three of the four tyres when the
+tread of the fourth tyre failed releasing a blast of compressed air at approximately 80 kPa. The patient was standing in close
+proximity to the tyre when the blast occurred. The patient recalled being thrown backwards into another vehicle then collapsing
+onto the ground. A witness reported a brief loss of consciousness with no obvious head strike or significant impact with the
+second vehicle.
+On arrival to the rural emergency department the patient was alert and oriented with no imminent airway, breathing or circu-
+lation issues identified. He was observed in the emergency department over a period of hours with no evidence of clinical dete-
+rioration. Prior to discharge the general surgical team were requested to review the patient.
+On review by the general surgical team the patient remained hemodynamically stable however was complaining
+of increasing abdominal bloating and pain. He had significant bruising to the anterior abdominal wall and diffuse
+tenderness to palpation with involuntary guarding. Secondary survey revealed only a superficial laceration to the distal shaft
+of the penis.
+CT imaging of the abdomen demonstrated hyperdense free fluid within the abdomen and significant focal bowel wall
+thickening and submucosal oedema involving the splenic flexure, ascending colon and terminal
+ileum with adjacent
+fat stranding (see Fig. 1) [1–7]. Mesenteric hematomas were identified in the mesentery of the jejunum and ileum with
+deformity of the anterior wall of the caecum and an adjacent gas locule suggestive of perforation. A left adrenal
+hematoma was noted and anterior compression of the L1 and L2 vertebral bodies which was favoured to be chronic and
+degenerative in nature.
+
+⁎ Corresponding author.
+E-mail address: Kirsten.larkins@mh.org.au (K.M. Larkins).
+
+https://doi.org/10.1016/j.tcr.2019.100260
+Accepted 6 November 2019
+Available online 03 December 2019
+2352-6440/ © 2019 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+
+K.M. Larkins, et al.
+
+Trauma Case Reports 25 (2020) 100260
+
+Fig. 1. Coronal and Sagittal CT imaging demonstrating mesenteric hematomas and intestinal injury.
+
+Outcomes.
+The patient was taken to theatre for exploratory laparotomy at the rural base hospital. On laparotomy there was a moderate
+volume of hemoperitoneum. Mesenteric hematomas were noted within the small bowel mesentery. There was non-viable bowel
+extending from the caecum to the hepatic flexure. A small capsular tear to segment 5 of the liver was noted. The patient underwent a
+right hemicolectomy with stapled side to side primary anastomosis. Following laparotomy, the patient was transferred stable and
+intubated to a tertiary trauma centre.
+On arrival to the trauma centre he was hypotensive with a systolic blood pressure of 85 and HR 100 and was taken for completion
+CT trauma series imaging. Repeat imaging at the trauma centre additionally found bibasal pulmonary consolidation in keeping with
+dependant change, and a small left upper pole renal laceration. The patient was admitted to ICU for haemodynamic support however
+stabilised rapidly and was extubated 24 h later. He transferred back to the rural base hospital after 7 days at the trauma centre and
+was discharged home two days later following an uncomplicated admission.
+Histopathological examination of the resected specimen demonstrated a 60x40mm section of haemorrhagic mesentery and
+macroscopically a 65 mm segment of dusky small bowel with mesentery at this site separated from the bowel wall. Microscopic
+analysis of the affected small bowel demonstrated ischaemic change with occasional organising thrombi seen in large mesenteric
+vessels. These findings were consistent with findings of primary blast injury.
+
+Discussion
+
+Blast injuries are described as four separate entities. Primary blast injuries are due to the effects of blast overpressure. Secondary
+blast injuries are due to the projectile components of the blast. Tertiary blast injuries are injuries that are due to the individual being
+
+2
+
+K.M. Larkins, et al.
+
+Trauma Case Reports 25 (2020) 100260
+
+thrown against other objects as a consequence of the force of air displacement. Quaternary blast injuries are all other injuries that do
+not fit these categories and include burns, exposure to toxic substances [1–3].
+Tyre blast injuries have been infrequently described in the literature [4–6]. The mechanism of tyre blasts is typically failure to
+contain the pressure of air on inflation of a tyre during servicing or repair. A “zipper fault” is described as a weakened line of tread
+that splits to release a condensed blast of compressed air [5,6]. This directed air pressure wave can cause isolated primary blast
+injuries.
+Gastrointestinal tract injuries secondary to primary blast injury are uncommon [7]. The majority of reported significant ab-
+dominal blast injuries are attributed to secondary injury [7]. It is noted however that the true incidence of primary blast injury is
+difficult to ascertain due to the significant overlap in the mechanisms of primary and tertiary blast injury [ 7]. The most frequently
+reported injury from primary blast injury is mural haematoma. Mural hematoma varies in severity and so therefore does the integrity
+of the affected bowel with the potential for delayed perforation reported in primary abdominal blast injuries [7].
+In this case primary blast injury was the mechanism responsible for the intra-abdominal injuries sustained. A clear history of
+mechanism suggested there was no significant injury to the abdomen from a tertiary mechanism. There was no noted barotrauma to
+the lung or the ears in keeping with an isolated abdominal blast overpressure wave. This case demonstrates that isolated primary
+blast injury is a potentially serious injury that may be missed in the absence of other blast injuries and in a rarely encountered
+mechanism such as tyre blasts.
+Conclusions
+
+Any suspected blast injury should be promptly assessed following ATLS principles with early surgical involvement. Tyre blasts
+have potential to cause significant injury that could be life threatening if not recognised. Blast injuries are classified as primary,
+secondary, tertiary and quaternary in nature and assessment of a patient should be directed by these defined mechanisms of injury.
+Primary abdominal blast injury is an uncommon isolated injury but has been described in the literature as an injury with high
+associated morbidity and mortality.
+Acknowledgements
+
+We would like to acknowledge the patient for his permission to publish this case report.
+
+Conflicts of interest
+
+None declared.
+
+References
+
+[1] S.J. Wolf, V.S. Bebarata, C.J. Bonnett, P.T. Pons, S.V. Cantrill, Blast Injuries, Lancet 374 (2009) 405–415.
+[2] R.G. DePalma, D.G. Burris, H.R. Champion, M.J. Hodgson, Blast Injuries, New Engl J Med 352 (2005) 1335–1342.
+[3] Z. Matthews, A. Koyfman, Blast Injuries, J Emerg Med 49 (4) (2015) 573–587.
+[4] A.F. Henfy, H.O. Eid, M. Al-Bashir, F.M. Abu-Zidan, Blast injuries of large tyres: case series, Int. J. Surg. 8 (2010) 51–154.
+[5] A.F. Henfy, H.O. Eid, F.M. Abu-Zidan, Severe Tyre blast injury during servicing, Injury 40 (2009) 484–487.
+[6] O.P. Murty, Tyre blast injuries, J of Forensic Leg Med 16 (2009) 224–227.
+[7] F. Turegano-Fuentes, D. Perez-Diaz, M. Sanz-Sanchez, R. Alfici, I. Ashkenazi, Abdominal blast injuries: different patterns, severity, management and prognosis
+
+according to the main mechanism of injury, Eur. J. Trauma Emerg. Surg. 40 (4) (2014) 451–460.
+
+3
+
+

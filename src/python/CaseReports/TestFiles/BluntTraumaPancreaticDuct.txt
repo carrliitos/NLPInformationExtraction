@@ -1,0 +1,202 @@
+Trauma Case Reports 1 (2015) 13–16
+
+Contents lists available at ScienceDirect
+
+Trauma Case Reports
+
+j o u r n a l h o m e p a g e : h t t p : / / w w w . j o u r n a l s . e l s e vi e r . c o m /
+
+t r a u m a - c a s e - r e p o r t s /
+
+Case Report
+Blunt trauma pancreatic duct injury managed by non-operative
+technique, a case study and literature review☆
+A. Zala a, R. Gaszynski b, G. Punch b,⁎
+
+a Nepean Hospital, Derby St., Kingswood 2747, NSW, Australia
+b Liverpool Hospital, Elizabeth St., Liverpool 2170, NSW, Australia
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Accepted 8 March 2015
+
+Keywords:
+Trauma
+Blunt injury
+Pancreas
+Non-operative
+
+Case report
+
+We describe the case of a 15 year old boy who presented with general-
+ised abdominal pain following a seemingly minor collision at weekend
+soccer. Investigation revealed a grade IV pancreatic injury that was sub-
+sequently managed with pancreatic stent insertion by endoscopic retro-
+grade cholangiopancreatography (ERCP) and total parenteral nutrition
+(TPN) prior to recommencing low fat diet 10 days post-injury.
+
+© 2015 The Authors. Published by Elsevier Ltd. This is an open access
+article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/).
+
+A previously well 15 year old male presented to the Emergency department at 1600 h, 4 hours after a
+seemingly minor blunt abdominal injury during a weekend soccer match. Initially following the impact of an-
+other player's knee to the abdomen, the adolescent rested out of the game for half an hour before returning to
+play the second half. Following the game, he returned home, tolerated an afternoon meal before the gradual
+onset of constant, dull, severe, non-radiating, generalised abdominal pain that was not exacerbated by move-
+ment. Due to family concerns, the patient presented to our Level I Tertiary referral trauma centre by own
+means. He was normotensive and not tachycardic. The patient had no signiﬁcant medical history. Physical ex-
+amination revealed a guarded abdomen. Focused Assessment with Sonography for Trauma (FAST) suggested
+a trace of free ﬂuid in the sagittal pelvic image. The initial blood pathology was normal except for an elevation
+
+☆ Author contributions: Dr Zala is a co-author, responsible for the initial draft of manuscript. Dr Gaszynski is a co-author, responsible for
+editing and the ﬁnal manuscript submission.Dr Punch is a co-author, responsible for editing, acquisition of ﬁgures, patient consent and the
+ﬁnal manuscript preparation.
+
+⁎ Corresponding author at: Liverpool Hospital, Locked Bag 7103, Liverpool BC 1871, NSW, Australia. Tel.: +61 2 9828 3000; fax: +61 2
+
+8738 3577.
+
+E-mail address: Gratian.Punch@gmail.com (G. Punch).
+
+http://dx.doi.org/10.1016/j.tcr.2015.03.003
+2352-6440/© 2015 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/).
+
+14
+
+A. Zala et al. / Trauma Case Reports 1 (2015) 13–16
+
+of amylase 410 units/l, lipase 771 units/l and white cell count 12.2 × 109/l. He was admitted for observation
+and serial clinical and FAST assessments.
+
+The patient's symptoms failed to improve after 24 h observation, during which time he developed shoul-
+der tip and central back pain. A repeat FAST 24 h post-admission again revealed possible trace free ﬂuid in the
+sagittal pelvic images with new concerns regarding trace free ﬂuid to the spleno-renal angle. A computed-
+tomography (CT) scan was performed with intravenous contrast. This revealed a transverse laceration
+through the neck of the pancreas with normal enhancement of the pancreas and no pancreatic duct dilatation
+(Fig. 1) consistent with American Association for the Surgery of Trauma (AAST) Organ Injury Scale (OIS) grade
+IV injury. Additionally there was a small volume, low density intraperitoneal ﬂuid, retroperitoneal stranding,
+omental contusion and a small linear laceration of the posterior left kidney without peri-nephric collection
+(AAST-OIS Grade II injury). There was no injury to the other solid organs or the duodenum.
+
+The patient was kept nil by mouth with intravenous antibiotics, TPN and octreotide 100 mg three times a
+day via a percutaneous inserted central catheter (PICC). Ongoing central abdominal pain consistent with acute
+pancreatitis prompted further imaging on day 2 by magnetic resonance cholangiopancreatography (MRCP).
+This conﬁrmed the CT ﬁndings and the patient was booked for ERCP the following day. At ERCP, the pancreatic
+duct was selectively cannulated and contrast extravasation was seen at the pancreatic neck (Fig. 2). A 5 cm 5Fr
+pigtail plastic stent was inserted across the defect and the patient remained on TPN and octreotide for 10 days.
+Repeat MRCP 10 days later showed a contiguous main pancreatic duct of normal calibre and appearance with
+no evidence of transection and improvement of the peri-pancreatic oedema. The patient was allowed to re-
+sume a low fat diet and TPN was weaned and ceased. The patient returned home on pantoprazole 40 mg
+daily, he was electively brought back to hospital 12 days later for ERCP and stent removal. At ERCP the pigtail
+stent was not seen, having likely passed out, and there was no evidence of extravasation of contrast, consistent
+with resolution of injury (Fig. 3). Follow-up as an outpatient was without incident over a three-month period.
+The patient has been advised not to partake in contact sports for six months.
+
+Case discussion
+
+Injury to the pancreas is rare in adolescent trauma, with the most common aetiology being motor vehicle
+accident followed by domestic violence and bicycle crashes [1]. Pancreatic injury is a common diagnostic
+dilemma following blunt abdominal trauma as symptoms are often insidious in onset and enzyme markers
+(amylase and lipase) are known not to correlate with severity of injury, as well as being normal in a
+
+Fig. 1. Initial abdominal CT 24 h post-injury showing transection of the neck of the pancreas consistent with AAST-OIS Grade IV injury.
+
+A. Zala et al. / Trauma Case Reports 1 (2015) 13–16
+
+15
+
+Fig. 2. Initial ERCP showing contrast extravasation from the main pancreatic duct and the neck of the pancreas, managed with pancreatic
+duct stent.
+
+proportion of injuries [2,12]. Early diagnosis is crucial in pancreatic injury and whilst CT and MRCP are good
+non-invasive imaging modalities ERCP is proven to be the most speciﬁc and sensitive diagnostic tool [3–5].
+Management of pancreatic injury is based on two factors: integrity of the main pancreatic duct and the lo-
+cation of the pancreatic injury, both of which constitute the AAST-OIS grading system. The evolution in man-
+agement of blunt pancreatic injuries over the last 20 years has trended towards non-operative management
+of lower grade injuries with surgical intervention reserved for high grade injuries [2]. The decision for conser-
+vative over operative intervention depends on the physiologic stability of the patient, whether the injury is
+isolated and suitability of the injury for endoscopic treatment [6–8].
+
+Current literature is divided on the beneﬁts of operative intervention with outcome measures focused on
+length of hospital stay, failure of non-operative management, need for repeat intervention and rates of surgi-
+cal complications [3,10,11]. There are no Australian based trauma consensus guidelines but non-operative
+management is usually advocated in the ﬁrst instance. The most common complication is an increased rate
+of pseudocyst occurrence, especially in Grade II and Grade III injuries [9]. Most pseudocysts can be managed
+
+Fig. 3. Serial ERCP 4 weeks post-injury showing patent and healed main pancreatic duct.
+
+16
+
+A. Zala et al. / Trauma Case Reports 1 (2015) 13–16
+
+conservatively, with very little effect on long term endocrine and exocrine function [13]. Other complications
+include pancreatic ﬁstula, sepsis and recurrent pancreatitis [1].
+
+Conclusion
+
+Pancreatic injury in blunt abdominal trauma in adolescent patients is infrequent and often difﬁcult to diag-
+nose. This case emphasises the need for clinical suspicion based on mechanism of injury, even in a relative innoc-
+uous collision during a sporting match. Patients who fail to improve over a period of observation with serial
+clinical examinations should be evaluated with further imaging.
+
+Grade IV pancreatic injury can be effectively managed endoscopically and such injuries should be promptly
+
+referred to a specialist centre for appropriate and timely management.
+
+Acknowledgements
+
+The authors would like to thank Dr M Habib and Dr S D'Amours for their support in the submission.
+
+References
+
+[1] A.G. Cuenca, S. Islam, Paediatric pancreatic trauma: trending toward non-operative management? Am. Surg. 78 (11) (Nov 2012)
+
+[2] I. Sutherland, O. Ledder, J. Crameri, et al., Pancreatic trauma in children, Pediatr. Surg. Int. 26 (12) (Dec 2010) 1201–1206.
+[3] J.H. Wood, D.A. Partrick, J.L. Bruny, A. Sauaia, S.L. Moulton, Operative vs. non-operative management of blunt pancreatic trauma in
+
+children, J. Pediatr. Surg. 45 (2) (February 2010) 401–406.
+
+[4] B. Klin, I. Abu-Kishk, I. Jeroukhimov, et al., Blunt pancreatic trauma in children, Surg. Today 41 (7) (Jul 2011) 946–954.
+[5] F.J. Rescorla, D.A. Plumley, S. Sherman, et al., The efﬁcacy of early ERCP in pediatric pancreatic trauma, J. Pediatr. Surg. 30 (1995)
+
+1204–1210.
+
+336–340.
+
+341–344.
+
+[6] I. de Blaauw, J.T. Winkelhorst, P.N. Rieu, et al., Pancreatic injury in children: good outcome of non-operative treatment, J. Pediatr.
+
+Surg. 43 (9) (Sep 2008) 1640–1643.
+
+[7] E.P. Nadler, M. Gardner, L.C. Schall, et al., Management of blunt pancreatic injury in children, J. Trauma 47 (1999) 1098–1103.
+[8] D.E. Meier, C.D. Coln, B.A. Hicks, P.C. Guzzetta, Early operation in children with pancreas transaction, J. Pediatr. Surg. 36 (2001)
+
+[9] M.D. Paul, D.P. Mooney, The management of pancreatic injuries in children: operate or observe, J. Pediatr. Surg. 46 (6) (Jun 2011)
+
+1140–1143.
+
+[10] H.A. Phelan, J.P. Minei, Pancreatic trauma: diagnostic and therapeutic strategies, Curr. Treat. Options Gastroenterol. 8 (5) (Oct 2005)
+
+355–363.
+
+[11] J. Snajdauf, M. Rygl, J. Kalousová, et al., Surgical management of major pancreatic injury in children, Eur. J. Pediatr. Surg. 17 (5) (Oct
+
+2007) 317–321.
+
+[12] W.T. Adamson, A. Hebra, P.B. Thomas, P. Wagstaff, E.P. Tagge, H.B. Othersen, Serum amylase and lipase alone are not cost-effective
+
+screening methods for pediatric pancreatic trauma, J. Pediatr. Surg. 38 (3) (Mar 2003) 354–357 (discussion 354–7).
+
+[13] P.W. Wales, B. Shuckett, P.C.W. Kim, Long-term outcome after non-operative management of complete pancreatic transaction in
+
+children, J. Pediatr. Surg. 36 (2001) 823–827.
+
+
