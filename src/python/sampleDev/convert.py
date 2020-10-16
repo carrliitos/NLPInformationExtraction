@@ -9,7 +9,6 @@ from pdfminer.cmapdb import CMapDB
 from pdfminer.layout import LAParams
 from pdfminer.image import ImageWriter
 
-# main
 def main(argv):
     import getopt
     def usage():
@@ -81,7 +80,7 @@ def main(argv):
             elif outfile.endswith('.tag'):
                 outtype = 'tag'
     if outfile:
-        outfp = open(outfile, 'w', encoding='utf-8', errors='replace')
+        outfp = open(outfile, 'w', encoding='utf-8')
     else:
         outfp = sys.stdout
     if outtype == 'text':
