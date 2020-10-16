@@ -1,0 +1,432 @@
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-PI 
+ Values =  treated 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  Treatment 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-SurgicalPreparation 
+ Values =  general 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-GOAL 
+ Values =  Treatment 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  ORIF 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  ORIF 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  pre- 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-IM 
+ Values =  2352 
+
+Attributes =  B-IM 
+ Values =  BY-NC 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-GOAL 
+ Values =  examination 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-GOAL 
+ Values =  diagnosis 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-IM 
+ Values =  (CT) 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-PI 
+ Values =  swelling 
+
+Attributes =  B-PI 
+ Values =  dorsal 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  ORIF 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-SurgicalPreparation 
+ Values =  general 
+
+Attributes =  B-SurgicalPreparation 
+ Values =  anesthesia 
+
+Attributes =  B-PI 
+ Values =  Struts 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  direction 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  Struts 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  ankylosis 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  ORIF 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  applied 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  Treatment 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-PI 
+ Values =  treated 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  ankylosis 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  Pfeifer 
+
+Attributes =  B-PI 
+ Values =  F. 
+
+Attributes =  B-PI 
+ Values =  H.C. 
+
+Attributes =  B-PI 
+ Values =  Injury 
+
+Attributes =  B-IM 
+ Values =  S7–12 
+
+Attributes =  B-GOAL 
+ Values =  J.P. 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  F. 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-GOAL 
+ Values =  Treatment 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  L.M. 
+
+Attributes =  B-PI 
+ Values =  Friedl 
+
+Attributes =  B-GOAL 
+ Values =  Zwei 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  Fractures 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-GOAL 
+ Values =  Treatment 
+
+Attributes =  B-PI 
+ Values =  fracture 
+

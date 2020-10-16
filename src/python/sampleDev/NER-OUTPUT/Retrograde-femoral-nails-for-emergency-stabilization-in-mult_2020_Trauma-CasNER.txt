@@ -1,0 +1,816 @@
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  Sultan 
+
+Attributes =  B-IM 
+ Values =  Sultan 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  RIMFN 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  injured 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  identified 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  average 
+
+Attributes =  B-PI 
+ Values =  average 
+
+Attributes =  B-PI 
+ Values =  Injury 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  infection 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  injured 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  infection 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-IM 
+ Values =  Sultan 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  https://doi.org/10.1016/j.tcr.2020.100350 
+
+Attributes =  B-IM 
+ Values =  2352 
+
+Attributes =  B-IM 
+ Values =  BY-NC 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Polytrauma 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  laparotomy 
+
+Attributes =  B-PI 
+ Values =  RIMFN 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-GOAL 
+ Values =  therapy 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  injured 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  RIMFN 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-GOAL 
+ Values =  OTT 
+
+Attributes =  B-IM 
+ Values =  VD 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  PF 
+
+Attributes =  B-PI 
+ Values =  PF 
+
+Attributes =  B-PI 
+ Values =  Fractures 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-IM 
+ Values =  angio 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-IM 
+ Values =  angio 
+
+Attributes =  B-GOAL 
+ Values =  OTT 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  Injury 
+
+Attributes =  B-GOAL 
+ Values =  VD 
+
+Attributes =  B-GOAL 
+ Values =  Ventilator 
+
+Attributes =  B-PI 
+ Values =  Fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  PF 
+
+Attributes =  B-PI 
+ Values =  Fracture 
+
+Attributes =  B-PI 
+ Values =  Fracture 
+
+Attributes =  B-PI 
+ Values =  Fracture 
+
+Attributes =  B-PI 
+ Values =  Fracture 
+
+Attributes =  B-PI 
+ Values =  AF 
+
+Attributes =  B-PI 
+ Values =  Fracture 
+
+Attributes =  B-PI 
+ Values =  CSF 
+
+Attributes =  B-PI 
+ Values =  Fracture 
+
+Attributes =  B-PI 
+ Values =  Pneumothorax 
+
+Attributes =  B-PI 
+ Values =  Haemopneumothorax 
+
+Attributes =  B-PI 
+ Values =  Fractures 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  SBP 
+
+Attributes =  B-IM 
+ Values =  SBP 
+
+Attributes =  B-IM 
+ Values =  SBP 
+
+Attributes =  B-PI 
+ Values =  115 
+
+Attributes =  B-PI 
+ Values =  P102 
+
+Attributes =  B-PI 
+ Values =  P135 
+
+Attributes =  B-IM 
+ Values =  SBP 
+
+Attributes =  B-IM 
+ Values =  SBP 
+
+Attributes =  B-IM 
+ Values =  SBP 
+
+Attributes =  B-PI 
+ Values =  P102 
+
+Attributes =  B-PI 
+ Values =  P115 
+
+Attributes =  B-IM 
+ Values =  SBP 
+
+Attributes =  B-IM 
+ Values =  SBP 
+
+Attributes =  B-PI 
+ Values =  P115 
+
+Attributes =  B-PI 
+ Values =  SBP115 
+
+Attributes =  B-IM 
+ Values =  SBP 
+
+Attributes =  B-IM 
+ Values =  SBP 
+
+Attributes =  B-IM 
+ Values =  SBP110 
+
+Attributes =  B-PI 
+ Values =  P135 
+
+Attributes =  B-IM 
+ Values =  SBP110 
+
+Attributes =  B-IM 
+ Values =  SBP 
+
+Attributes =  B-PI 
+ Values =  SBP115 
+
+Attributes =  B-IM 
+ Values =  SBP110 
+
+Attributes =  B-PI 
+ Values =  P115 
+
+Attributes =  B-IM 
+ Values =  SBP110 
+
+Attributes =  B-PI 
+ Values =  SBP115 
+
+Attributes =  B-PI 
+ Values =  SBP115 
+
+Attributes =  B-IM 
+ Values =  SBP110 
+
+Attributes =  B-PI 
+ Values =  P102 
+
+Attributes =  B-IM 
+ Values =  SBP110 
+
+Attributes =  B-IM 
+ Values =  SBP110 
+
+Attributes =  B-IM 
+ Values =  SBP110 
+
+Attributes =  B-PI 
+ Values =  SBP115 
+
+Attributes =  B-IM 
+ Values =  SBP 
+
+Attributes =  B-PI 
+ Values =  average 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  average 
+
+Attributes =  B-PI 
+ Values =  36.8 
+
+Attributes =  B-PI 
+ Values =  pCO2 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  14.2 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  pCo2 
+
+Attributes =  B-GOAL 
+ Values =  38.6 
+
+Attributes =  B-PI 
+ Values =  43.9 
+
+Attributes =  B-PI 
+ Values =  41.7 
+
+Attributes =  B-PI 
+ Values =  35.7 
+
+Attributes =  B-PI 
+ Values =  −5.8 
+
+Attributes =  B-PI 
+ Values =  −4.9 
+
+Attributes =  B-IM 
+ Values =  pCo2 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  Fracture 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  32B 
+
+Attributes =  B-PI 
+ Values =  32C 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-IM 
+ Values =  FAST 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  RIMFN 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  pre- 
+
+Attributes =  B-PI 
+ Values =  RIMFN 
+
+Attributes =  B-PI 
+ Values =  RIMFN 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  Thorax 
+
+Attributes =  B-SurgicalPreparation 
+ Values =  general 
+
+Attributes =  B-PI 
+ Values =  Pneumothorax 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  Pneumothorax 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  R)Pneumothorax 
+
+Attributes =  B-PI 
+ Values =  contusion 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  contusion 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  R)femur 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fracture+ 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  Injury 
+
+Attributes =  B-PI 
+ Values =  average 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  average 
+
+Attributes =  B-PI 
+ Values =  0.006 
+
+Attributes =  B-PI 
+ Values =  average 
+
+Attributes =  B-PI 
+ Values =  pneumonia 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-IM 
+ Values =  giogram 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  compares 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  pre- 
+
+Attributes =  B-PI 
+ Values =  deficiencies 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  RIMFN 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  RIMFN 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-GOAL 
+ Values =  X 
+
+Attributes =  B-GOAL 
+ Values =  X 
+
+Attributes =  B-GOAL 
+ Values =  X 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-GOAL 
+ Values =  room2.AŌer 
+
+Attributes =  B-GOAL 
+ Values =  room2.AŌer 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  RIMFN 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  RIMFN 
+
+Attributes =  B-PI 
+ Values =  effected 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  RIMFN 
+
+Attributes =  B-PI 
+ Values =  Harthy 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  Sultan 
+
+Attributes =  B-PI 
+ Values =  H.C. 
+
+Attributes =  B-PI 
+ Values =  F. 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  polytrauma 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-GOAL 
+ Values =  M.J. 
+
+Attributes =  B-PI 
+ Values =  T.V.C. 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  R.J. 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  polytrauma 
+
+Attributes =  B-IM 
+ Values =  EAST 
+
+Attributes =  B-GOAL 
+ Values =  Management 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  polytrauma 
+
+Attributes =  B-PI 
+ Values =  H.C. 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  Dumont 
+
+Attributes =  B-PI 
+ Values =  M.B. 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  graph 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  injured 
+
+Attributes =  B-PI 
+ Values =  H.C. 
+
+Attributes =  B-PI 
+ Values =  P.V. 
+
+Attributes =  B-PI 
+ Values =  O. 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  polytrauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  (2005) 
+
+Attributes =  B-PI 
+ Values =  R.O. 
+
+Attributes =  B-PI 
+ Values =  O. 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  http://www.sjtrem.com/content/20/1/2 
+
+Attributes =  B-GOAL 
+ Values =  M.J. 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-IM 
+ Values =  (2008) 
+
+Attributes =  B-PI 
+ Values =  F. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+

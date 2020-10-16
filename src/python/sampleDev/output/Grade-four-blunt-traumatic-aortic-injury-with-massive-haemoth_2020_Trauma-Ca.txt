@@ -1,0 +1,245 @@
+Trauma Case Reports 29 (2020) 100333
+
+Contents lists available at ScienceDirect
+
+Trauma Case Reports
+
+journal homepage: www.elsevier.com/locate/tcr
+
+Case Report
+Grade four blunt traumatic aortic injury with massive
+haemothorax: Resuscitation considerations during the primary
+survey
+Juliana Ying Liang Maia,⁎, Andrew Holmesb, Gert Frahm-Jensenb
+
+a Trauma Service and General Surgery, The Canberra Hospital, Garran ACT, Australia
+b Vascular Surgery, The Canberra Hospital, Garran ACT, Australia
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Blunt traumatic aortic injury
+Haemothorax
+Trauma resuscitation
+Primary survey
+
+Advanced Trauma Life Support principles prioritise the management of ‘breathing’ over ‘circu-
+lation’ in an acute trauma primary survey. In a tamponaded thoracic aortic rupture, however, this
+may lead to fatal haemorrhagic shock. In this case, we discuss the resuscitation and management
+of a patient with a massive left sided haemothorax secondary to a grade four blunt traumatic
+aortic injury. A 26-year-old male was involved in a high-speed motor vehicle crash and was
+hypoxic and hypotensive at the scene. His oxygenation and haemodynamics improved with
+supplemental oxygen and ﬂuid resuscitation. He had a left intercostal catheter inserted after an
+urgent thoracic endovascular aortic repair was performed to prevent disruption of the contained
+haemothorax in the presence of a grade four thoracic aortic injury. It is vital to recognise the
+potential disruption of a tamponaded blunt traumatic aortic injury during consideration of
+thoracostomy and chest drain decompression.
+
+Advanced Trauma Life Support (ATLS) principles prioritise the management of ‘breathing’ over ‘circulation’ in an acute trauma
+primary survey [1]. During ‘breathing’ resuscitation, a life threatening injury such as a massive haemothorax is managed by thor-
+acostomy with intercostal catheter (ICC) insertion. This, however, may be problematic in the presence of an underlying aortic injury,
+where the principle of permissive hypotension and maintenance of the tamponade is required. Here we present a case of a massive
+left haemothorax secondary to an underlying grade four aortic injury and discuss the intricacies of its management.
+
+Case
+
+A 26-year-old male was intoxicated when he drove a car at high speed into a tree on a rural property. He was unrestrained with no
+airbags deployed. When paramedics arrived at the scene the patient had self-extricated and was maintaining his own airway with a
+Glasgow Coma Scale of 15. He was hypoxic at 85% oxygen saturation and hypotensive at 75/40 mmHg. He was brought to the
+nearest peripheral hospital and resuscitated with supplemental oxygen via Hudson mask, tranexamic acid and activation of massive
+transfusion protocol prior to being transferred to a tertiary hospital trauma centre. Upon arrival, his haemodynamics had improved
+with resuscitation to the point where he could proceed to a computed tomography (CT) pan scan which revealed signiﬁcant chest
+trauma including a grade four thoracic aortic injury with circumferential adventitial irregularity and disruption, aortic dilatation and
+signiﬁcant intraluminal thrombus (see Fig. 1), and associated massive left haemothorax (see Fig. 2). Concomitant chest injuries
+
+⁎ Corresponding author at: Trauma Service and Department of General Surgery, The Canberra Hospital, Yamba Drive, Garran ACT 2605, Australia.
+E-mail address: jylmai@gmail.com (J.Y.L. Mai).
+
+https://doi.org/10.1016/j.tcr.2020.100333
+Accepted 26 June 2020
+Available online 29 June 2020
+2352-6440/ © 2020 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+
+J.Y.L. Mai, et al.
+
+Trauma Case Reports 29 (2020) 100333
+
+Fig. 1. Reconstructed CT angiogram of aortic arch demonstrating grade 4 aortic injury with associated intraluminal thrombus.
+
+Fig. 2. Grade 4 aortic injury with associated massive left haemothorax.
+
+included a minor right sided pneumothorax, minimally displaced left fourth to seventh rib fractures and right fourth to ninth rib
+fractures. He also sustained major intra-abdominal injuries including American Association for the Surgery of Trauma grade four liver
+and pancreatic injuries, grade two splenic injury, right adrenal haemorrhage, as well as infarction of both kidneys and multiple limb
+lacerations.
+
+On repeat primary survey, the patient was still maintaining his own airway, tachypnoeic at 32 breaths per minute however
+saturating adequately at 100%, with blood pressure of 129/73 mmHg and heart rate 115 beats per minute. After consultation
+between the trauma, emergency and vascular surgical teams, decision was made to proceed to an urgent thoracic endovascular aortic
+repair (TEVAR) prior to ICC insertion for fear of disturbing the contained haemothorax in the presence of a grade four thoracic aortic
+injury (see Fig. 3). Due to anaesthetic concerns for positive pressure ventilation in the setting of a pneumothorax, the TEVAR was
+performed under local anaesthesia with light sedation and was well tolerated by the patient. A 24x80mm covered stent graft (Zenith
+TX2, Cook Medical, Limerick, Ireland) was placed with good coverage to the rupture site while preserving ﬂow to the left subclavian
+artery (see Fig. 4). The distally located intraluminal thrombus was, however, unable to be covered due to the unavailability of a more
+appropriately sized stent. During the case, the thrombus dislodged and embolised to the left common and external iliac arteries. This
+was successfully suctioned out with subsequent return of good distal perfusion and no evidence of distal embolisation. The patient
+was not stable enough to undergo open or suction embolectomy of the bilateral renal emboli, as such procedure would have involved
+systemic heparinisation posing an unacceptable risk of further haemorrhage in the setting of multi-organ injury. Following the
+TEVAR, a left ICC was placed with an immediate estimated blood loss of 2.2 l. He was transferred to the intensive care unit requiring
+
+2
+
+J.Y.L. Mai, et al.
+
+Trauma Case Reports 29 (2020) 100333
+
+Fig. 3. Intra-operative angiogram of grade 4 aortic injury with no active extravasation, procedure performed prior to drainage of haemothorax.
+
+Fig. 4. Post-operative angiogram showing exclusion of aortic injury, preservation of left subclavian artery and no residual thrombus.
+
+a short duration of inotropic support however remained haemodynamically stable. In the following days he received a pancreas neck
+resection after an MRI had conﬁrmed a disruption of the pancreatic duct. Histology conﬁrmed acute necrosis and continuity was
+restored by a Roux-Y reconstruction.
+
+3
+
+J.Y.L. Mai, et al.
+
+Discussion
+
+Trauma Case Reports 29 (2020) 100333
+
+The internationally practiced ATLS primary survey algorithm states that after establishment of a secure airway the patient's
+breathing must be optimized. Concurrent diagnosis and resuscitation of conditions causing threat to breathing or ventilation, such as
+tension or open pneumothorax or massive haemothorax, must be performed with immediate measures via chest decompression.
+Similarly, in the category of ‘circulatory’ problems, a massive haemothorax, cardiac tamponade or traumatic circulatory arrest
+causing haemodynamic instability and shock must be addressed prior to assessing disability and exposure.
+
+In this scenario, the resuscitation priority of a patient with a massive left haemothorax secondary to an aortic injury involves
+carefully balancing breathing and ventilation optimization, without disruption of the tamponaded aortic injury that would otherwise
+signiﬁcantly compromise haemodynamics. Should a haemothorax require drainage to improve ventilation, the treating centre should
+consider the availability of vascular surgeons to perform an urgent endovascular aortic repair.
+
+Aortic injuries are associated with mechanisms involving penetrating and blunt trauma. Blunt traumatic aortic injuries (BTAI) of
+the thoracic aorta account for the second greatest cause of traumatic deaths with a signiﬁcant impact to function amongst survivors
+[2–4]. Injuries occur mainly due to rapid deceleration with high-energy impact to the thorax, often involving motor vehicle and
+aircraft collisions, assaults, crush injuries and falls from signiﬁcant heights [2,3]. Patients at greater risk of BTAI in vehicle collisions
+are those aged 60 years or older, unrestrained, or occupants of front seats [5,6]. Collisions to the front or near-side of the vehicle
+causing greater than 15 cm intrusion or crushing of the vehicle, or rapid deceleration of greater than 40 km per hour also pose higher
+risk of BTAI [5,6]. Recognising a BTAI may be challenging on initial evaluation due to co-existing injuries and a lack of history in a
+patient with a reduced GCS, it is therefore important to maintain a heightened clinical suspicion when these mechanisms and risk
+factors are involved.
+
+Upon initial assessment of a patient with chest trauma, symptoms of chest or mid-scapular back pain, physical ﬁndings such as
+haemodynamic instability or external evidence of chest trauma, and plain chest supine radiographical features of mediastinal hae-
+matoma or presence of other chest injuries all raise suspicion of a BTAI. Further imaging investigation with chest CT angiography
+(CTA) is the modality of choice due to its availability, high sensitivity and speciﬁcity of detecting a BTAI, and ability to detect
+concomitant chest injuries. Other diagnostic modalities include digital subtraction angiography and trans-oesophageal echocardio-
+graphy, however these are less readily available and operator skill-dependent respectively.
+
+The Society for Vascular Surgery's BTAI classiﬁcation system based on CTA ﬁndings deﬁnes injuries and their management as
+summarised in Table 1 [7]. It is worthy to note that grade four BTAI injuries may not necessarily present with active or free contrast
+extravasation on CTA, as the ruptured injury may be temporarily tamponaded by the adjacent haemothorax and subsequently not be
+exsanguinating. This is a commonly seen scenario in ruptured abdominal aortic aneurysms tamponaded by a retroperitoneal hae-
+matoma.
+
+The initial evaluation of a patient with blunt chest trauma must involve a raised index of suspicion of BTAI and therefore judicious
+consideration of the sequence of further management. Failure to recognise a temporarily tamponaded grade four thoracic BTAI may
+lead to catastrophic consequences if thoracostomy or chest drain insertion are performed prior to deﬁnitive repair.
+
+Funding sources
+
+None.
+
+Credit author statement
+
+Juliana Ying Liang Mai: Conceptualisation, Writing – original draft, Writing – reviewing and editing
+Andrew Holmes: Conceptualisation, Writing – reviewing and editing
+
+Table 1
+BTAI classiﬁcation based on CTA ﬁndings and management guidelines [7].
+
+Grade
+
+Description
+
+Grade I: intimal tear
+
+Grade II: large intimal ﬂap
+
+Intimal defect and/or thrombus less than 10 mm, without
+external aortic contour abnormality
+Intimal defect and/or thrombus equal or greater than
+10 mm, without external aortic contour abnormality
+
+Grade III: pseudoaneurysm
+
+Grade IV: rupture
+
+Presence of external aortic contour abnormality with
+contained rupture
+Presence of external aortic contour abnormality with free
+contrast extravasation or haemothorax
+
+Managementa
+
+(cid:129) Observation
+(cid:129) Interval follow-up CTA within 30 days
+(cid:129) Observation
+(cid:129) Interval follow-up CTA within 7 days
+(cid:129) If evidence of progression, consider endovascular repair
+(cid:129) If hypotensive with aortic arch haematoma > 15 mm: urgent
+(cid:129) If stable and highly likely to survive from other injuries:
+(cid:129) Consider earlier endovascular repair if presence of traumatic brain
+(cid:129) Follow-up CTA at 1 month, 6 months, 1 year, then every second
+
+injury requiring higher target mean arterial pressure
+
+year thereafter
+
+endovascular repair
+
+endovascular repair within 1 week
+
+a Beta-blocker and anti-platelet therapy should be administered for all blunt aortic injuries.
+
+4
+
+J.Y.L. Mai, et al.
+
+Trauma Case Reports 29 (2020) 100333
+
+Gert Frahm-Jensen: Conceptualisation, Writing – reviewing and editing, Supervision.
+
+Declaration of competing interest
+
+None.
+
+References
+
+[1] American College of Surgeons, Advanced Trauma Life Support: Student Course Manual, Tenth edition, American College of Surgeons, Chicago (IL), 2018.
+[2] X.N. Ho, I.J.Y. Wee, N. Syn, M. Harrison, L. Wilson, A.M. Choong, The endovascular repair of blunt traumatic thoracic aortic injury in Asia: a systematic review
+
+and meta-analysis, Vascular 27 (2) (2019) 213–223.
+
+[3] D.G. Neschis, T.M. Scalea, W.R. Flinn, B.P. Griﬃth, Blunt aortic injury, N. Engl. J. Med. 359 (16) (2008) 1708–1716.
+[4] Z.M. Arthus, B.W. Starnes, V.Y. Sohn, N. Singh, M.J. Martin, C.A. Andersen, Functional and survival outcomes in traumatic blunt thoracic aortic injuries: an
+
+analysis of the National Trauma Databank, J. Vasc. Surg. 49 (4) (2009) 988–994.
+
+[5] G. McGwin Jr., D.A. Reiﬀ, S.G. Moran, L.W. Rue 3rd, Incidence and characteristics of motor vehicle collision-related blunt thoracic aortic injury according to age,
+
+J. Trauma 52 (5) (2002) 859–865.
+
+[6] M. Fitzharris, M. Franklyn, R. Frampton, K. Yang, A. Morris, B. Fildes, Thoracic aortic injury in motor vehicle crashes: the eﬀect of impact direction, side of body
+
+struck, and seat belt use, J. Trauma 57 (3) (2004) 582–590.
+
+[7] B.W. Starnes, R.S. Lundgren, M. Gunn, et al., A new classiﬁcation scheme for treating blunt aortic injury, J. Vasc. Surg. 55 (1) (2012) 47–54.
+
+5
+
+

@@ -1,0 +1,636 @@
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-IM 
+ Values =  Lub,1 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  ligament 
+
+Attributes =  B-PI 
+ Values =  rupture 
+
+Attributes =  B-PI 
+ Values =  individualized 
+
+Attributes =  B-GOAL 
+ Values =  therapy 
+
+Attributes =  B-PI 
+ Values =  depend 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-IM 
+ Values =  SSSC 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  dys- 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-IM 
+ Values =  SSSC 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-IM 
+ Values =  SSSC 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-IM 
+ Values =  2352 
+
+Attributes =  B-IM 
+ Values =  BY-NC 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  radiographs 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  displacement 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  swelling 
+
+Attributes =  B-PI 
+ Values =  tenderness 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-GOAL 
+ Values =  examination 
+
+Attributes =  B-GOAL 
+ Values =  reconstruction 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-GOAL 
+ Values =  reconstruction 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  displacement 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  Diagnosis 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  healthy 
+
+Attributes =  B-SurgicalPreparation 
+ Values =  general 
+
+Attributes =  B-SurgicalPreparation 
+ Values =  anesthesia 
+
+Attributes =  B-PI 
+ Values =  ligament 
+
+Attributes =  B-PI 
+ Values =  rupture 
+
+Attributes =  B-PI 
+ Values =  hemorrhage 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  ligament 
+
+Attributes =  B-PI 
+ Values =  rupture 
+
+Attributes =  B-PI 
+ Values =  contusion 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  ligament 
+
+Attributes =  B-GOAL 
+ Values =  repaired 
+
+Attributes =  B-PI 
+ Values =  penetrating 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  healthy 
+
+Attributes =  B-IM 
+ Values =  radiographs 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  classification 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  classification 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-IM 
+ Values =  radiographs 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-IM 
+ Values =  radiographs 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-IM 
+ Values =  SSSC 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-IM 
+ Values =  SSSC 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  drooping 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  Combined 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  repair 
+
+Attributes =  B-IM 
+ Values =  SSSC 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-GOAL 
+ Values =  therapy 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  ligament 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-IM 
+ Values =  SSSC 
+
+Attributes =  B-PI 
+ Values =  ligament 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  contusion 
+
+Attributes =  B-PI 
+ Values =  ligament 
+
+Attributes =  B-GOAL 
+ Values =  repair 
+
+Attributes =  B-PI 
+ Values =  rupture 
+
+Attributes =  B-PI 
+ Values =  cognitions 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-GOAL 
+ Values =  reconstruction 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  individualized 
+
+Attributes =  B-GOAL 
+ Values =  therapy 
+
+Attributes =  B-PI 
+ Values =  depend 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-IM 
+ Values =  SSSC 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-IM 
+ Values =  (2012) 
+
+Attributes =  B-IM 
+ Values =  T.P. 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  Fracture 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-GOAL 
+ Values =  Sehrt 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-PI 
+ Values =  Fractures 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  L. 
+
+Attributes =  B-PI 
+ Values =  L. 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  C.R. 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  classification 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-GOAL 
+ Values =  Management 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-IM 
+ Values =  (2012) 
+
+Attributes =  B-IM 
+ Values =  T.P. 
+
+Attributes =  B-PI 
+ Values =  Fractures 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  Fractures 
+
+Attributes =  B-GOAL 
+ Values =  Treatment 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-IM 
+ Values =  X.L. Zhang, 
+
+Attributes =  B-PI 
+ Values =  Z.C. 
+
+Attributes =  B-PI 
+ Values =  Z.Q. 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  O. 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  Injury 
+
+Attributes =  B-PI 
+ Values =  injury 
+

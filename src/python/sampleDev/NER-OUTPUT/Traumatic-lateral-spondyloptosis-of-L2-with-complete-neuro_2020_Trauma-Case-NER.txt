@@ -1,0 +1,324 @@
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  spondyloptosis 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-PI 
+ Values =  Fifth 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Corpectomy 
+
+Attributes =  B-PI 
+ Values =  spondyloptosis 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  spondyloptosis 
+
+Attributes =  B-PI 
+ Values =  spondyloptosis 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  corpectomy 
+
+Attributes =  B-IM 
+ Values =  T12-L4 
+
+Attributes =  B-PI 
+ Values =  spondyloptosis 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  spondyloptosis 
+
+Attributes =  B-PI 
+ Values =  spondyloptosis 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Spondyloptosis 
+
+Attributes =  B-PI 
+ Values =  spondyloptosis 
+
+Attributes =  B-PI 
+ Values =  collateral 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  spondyloptosis 
+
+Attributes =  B-PI 
+ Values =  spondyloptosis 
+
+Attributes =  B-PI 
+ Values =  zhaojindong1025@163.com 
+
+Attributes =  B-PI 
+ Values =  L. 
+
+Attributes =  B-IM 
+ Values =  2352 
+
+Attributes =  B-IM 
+ Values =  BY-NC 
+
+Attributes =  B-PI 
+ Values =  L. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  Injury 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-GOAL 
+ Values =  MRI 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  transection 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-PI 
+ Values =  L. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-GOAL 
+ Values =  MRI 
+
+Attributes =  B-SurgicalPreparation 
+ Values =  general 
+
+Attributes =  B-SurgicalPreparation 
+ Values =  anesthesia 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  corpectomy 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-IM 
+ Values =  1/5 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-PI 
+ Values =  displacement 
+
+Attributes =  B-PI 
+ Values =  spondyloptosis 
+
+Attributes =  B-PI 
+ Values =  photograph 
+
+Attributes =  B-GOAL 
+ Values =  removal 
+
+Attributes =  B-PI 
+ Values =  L. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  T12-L4 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  corpectomy 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-IM 
+ Values =  T12-L4 
+
+Attributes =  B-PI 
+ Values =  L. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  F. 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  spondyloptosis 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  Y.C. 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  K. 
+
+Attributes =  B-PI 
+ Values =  726–729 
+
+Attributes =  B-PI 
+ Values =  Injury 
+
+Attributes =  B-PI 
+ Values =  Injury 
+
+Attributes =  B-GOAL 
+ Values =  J.P. 
+
+Attributes =  B-PI 
+ Values =  F. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  F. 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  spondyloptosis 
+
+Attributes =  B-PI 
+ Values =  spondyloptosis 
+
+Attributes =  B-PI 
+ Values =  B.C. 
+
+Attributes =  B-PI 
+ Values =  D. 
+

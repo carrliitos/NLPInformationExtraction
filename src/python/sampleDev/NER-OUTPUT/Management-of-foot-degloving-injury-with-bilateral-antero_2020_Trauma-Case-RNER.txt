@@ -1,0 +1,291 @@
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-GOAL 
+ Values =  Management 
+
+Attributes =  B-PI 
+ Values =  degloving 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  degloving 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  dorsal 
+
+Attributes =  B-PI 
+ Values =  degloving 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  degloving 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  anatomy 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  dorsal 
+
+Attributes =  B-GOAL 
+ Values =  therapy 
+
+Attributes =  B-GOAL 
+ Values =  examination 
+
+Attributes =  B-PI 
+ Values =  dorsal 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-IM 
+ Values =  2352 
+
+Attributes =  B-IM 
+ Values =  BY-NC 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  dorsal 
+
+Attributes =  B-PI 
+ Values =  Hematoma 
+
+Attributes =  B-GOAL 
+ Values =  therapy 
+
+Attributes =  B-GOAL 
+ Values =  applied 
+
+Attributes =  B-PI 
+ Values =  dorsal 
+
+Attributes =  B-PI 
+ Values =  dorsal 
+
+Attributes =  B-PI 
+ Values =  dorsal 
+
+Attributes =  B-GOAL 
+ Values =  drainage 
+
+Attributes =  B-PI 
+ Values =  donor 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  degloving 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  dorsal 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  dorsal 
+
+Attributes =  B-PI 
+ Values =  dorsal 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  degloving 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  closure 
+
+Attributes =  B-PI 
+ Values =  sound 
+
+Attributes =  B-PI 
+ Values =  L. 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-GOAL 
+ Values =  application 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-GOAL 
+ Values =  achieving 
+
+Attributes =  B-GOAL 
+ Values =  therapy 
+
+Attributes =  B-PI 
+ Values =  L. 
+
+Attributes =  B-GOAL 
+ Values =  applied 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  materials 
+
+Attributes =  B-GOAL 
+ Values =  closure 
+
+Attributes =  B-PI 
+ Values =  dorsal 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  microsurgery 
+
+Attributes =  B-PI 
+ Values =  degloving 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-GOAL 
+ Values =  therapy 
+
+Attributes =  B-PI 
+ Values =  dorsal 
+
+Attributes =  B-PI 
+ Values =  L. 
+
+Attributes =  B-PI 
+ Values =  degloving 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-GOAL 
+ Values =  reconstruction 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-GOAL 
+ Values =  closure 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  degloving 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  363–365 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-GOAL 
+ Values =  Treatment 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  L. 
+
+Attributes =  B-IM 
+ Values =  X. Ji, 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  crossover 
+
+Attributes =  B-GOAL 
+ Values =  reconstruction 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-IM 
+ Values =  (2007) 
+
+Attributes =  B-GOAL 
+ Values =  114–119 
+
+Attributes =  B-GOAL 
+ Values =  drainage 
+
+Attributes =  B-GOAL 
+ Values =  reconstruction 
+
+Attributes =  B-PI 
+ Values =  degloving 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  repair 
+
+Attributes =  B-PI 
+ Values =  injury 
+

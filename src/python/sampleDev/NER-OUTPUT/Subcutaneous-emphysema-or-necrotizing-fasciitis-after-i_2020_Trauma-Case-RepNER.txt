@@ -1,0 +1,468 @@
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-IM 
+ Values =  LNIREC 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  hard 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  swelling 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-GOAL 
+ Values =  diagnosis 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  penetrating 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  infection 
+
+Attributes =  B-PI 
+ Values =  Emphysema 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  Emphysema 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  infections 
+
+Attributes =  B-PI 
+ Values =  infection 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  swelling 
+
+Attributes =  B-IM 
+ Values =  2352 
+
+Attributes =  B-IM 
+ Values =  BY-NC 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-GOAL 
+ Values =  examination 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-GOAL 
+ Values =  applied 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  swelling 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  tachycardia 
+
+Attributes =  B-IM 
+ Values =  Radiographs 
+
+Attributes =  B-IM 
+ Values =  radiographs 
+
+Attributes =  B-PI 
+ Values =  swelling 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Fasciotomy 
+
+Attributes =  B-PI 
+ Values =  dorsal 
+
+Attributes =  B-PI 
+ Values =  dorsal 
+
+Attributes =  B-PI 
+ Values =  Discoloration 
+
+Attributes =  B-PI 
+ Values =  dorsal 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  analgesic 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  infection 
+
+Attributes =  B-PI 
+ Values =  infection 
+
+Attributes =  B-PI 
+ Values =  infection 
+
+Attributes =  B-GOAL 
+ Values =  Imaging 
+
+Attributes =  B-PI 
+ Values =  hemorrhagic 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  radiograph 
+
+Attributes =  B-PI 
+ Values =  discoloration 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  sound 
+
+Attributes =  B-GOAL 
+ Values =  applied 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  mEq 
+
+Attributes =  B-PI 
+ Values =  ≥135 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-GOAL 
+ Values =  diagnosis 
+
+Attributes =  B-PI 
+ Values =  infections 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  hard 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-GOAL 
+ Values =  evaluation 
+
+Attributes =  B-GOAL 
+ Values =  examination 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  fasciotomy 
+
+Attributes =  B-PI 
+ Values =  infection 
+
+Attributes =  B-PI 
+ Values =  Pain 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  hard 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-GOAL 
+ Values =  evaluation 
+
+Attributes =  B-GOAL 
+ Values =  diagnosis 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-GOAL 
+ Values =  diagnosis 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  Pinto 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Otorrinolaringol 
+
+Attributes =  B-IM 
+ Values =  (2012) 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  R.J. 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  www.uptodate.com/contents/necrotizing-soft-tissue-infections 
+
+Attributes =  B-GOAL 
+ Values =  C.H. 
+
+Attributes =  B-PI 
+ Values =  H.C. 
+
+Attributes =  B-PI 
+ Values =  J.L. 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  K. 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  A.A. 
+
+Attributes =  B-PI 
+ Values =  K.S. 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-IM 
+ Values =  DM 
+
+Attributes =  B-PI 
+ Values =  Forensic 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  La 
+
+Attributes =  B-PI 
+ Values =  F. 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  Jan. 
+
+Attributes =  B-PI 
+ Values =  emphysema 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  infection 
+
+Attributes =  B-PI 
+ Values =  K.S. 
+
+Attributes =  B-PI 
+ Values =  K.C. 
+
+Attributes =  B-PI 
+ Values =  LRINEC 
+
+Attributes =  B-PI 
+ Values =  W.N. 
+
+Attributes =  B-GOAL 
+ Values =  M.J. 
+
+Attributes =  B-GOAL 
+ Values =  Application 
+
+Attributes =  B-PI 
+ Values =  A.B. 
+
+Attributes =  B-GOAL 
+ Values =  C.H. 
+
+Attributes =  B-GOAL 
+ Values =  diagnosis 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-IM 
+ Values =  Jul. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  Jul. 
+
+Attributes =  B-IM 
+ Values =  (2003) 
+
+Attributes =  B-PI 
+ Values =  Jan. 
+

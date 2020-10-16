@@ -1,0 +1,324 @@
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  Alexandre 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-PI 
+ Values =  P.O. 
+
+Attributes =  B-IM 
+ Values =  AIIS 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  ORIF 
+
+Attributes =  B-PI 
+ Values =  lesions 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-GOAL 
+ Values =  repair 
+
+Attributes =  B-PI 
+ Values =  precautions 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-GOAL 
+ Values =  MRI 
+
+Attributes =  B-PI 
+ Values =  lesions 
+
+Attributes =  B-PI 
+ Values =  lesions 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-IM 
+ Values =  2352 
+
+Attributes =  B-IM 
+ Values =  BY-NC 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-GOAL 
+ Values =  MRI 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-GOAL 
+ Values =  MRI 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  osteoar- 
+
+Attributes =  B-PI 
+ Values =  infection 
+
+Attributes =  B-PI 
+ Values =  par- 
+
+Attributes =  B-PI 
+ Values =  femoris 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  mechanisms 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-PI 
+ Values =  AIIS 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-GOAL 
+ Values =  reconstruction 
+
+Attributes =  B-PI 
+ Values =  AIIS 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  MRI 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  AIIS 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  AIIS 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  AIIS 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  AIIS 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  repair 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  Alexandre 
+
+Attributes =  B-GOAL 
+ Values =  Y.J. 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-PI 
+ Values =  K.S. 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-IM 
+ Values =  radiographic 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  British 
+
+Attributes =  B-IM 
+ Values =  V.M. 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-GOAL 
+ Values =  B.M. 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  femoris 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-GOAL 
+ Values =  M.J. 
+
+Attributes =  B-IM 
+ Values =  Schenker 
+
+Attributes =  B-PI 
+ Values =  R.B. 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  S.C. 
+
+Attributes =  B-PI 
+ Values =  R.H. 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  femoris 
+
+Attributes =  B-PI 
+ Values =  J.C. 
+
+Attributes =  B-PI 
+ Values =  femoris 
+

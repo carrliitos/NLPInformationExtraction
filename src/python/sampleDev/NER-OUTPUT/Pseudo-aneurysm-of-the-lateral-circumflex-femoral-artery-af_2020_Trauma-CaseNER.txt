@@ -1,0 +1,516 @@
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-IM 
+ Values =  X-ray 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-IM 
+ Values =  ultrasound 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-GOAL 
+ Values =  angio- 
+
+Attributes =  B-IM 
+ Values =  gram 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  pre- 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  imaging 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  imaging 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-IM 
+ Values =  2352 
+
+Attributes =  B-IM 
+ Values =  BY-NC 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  anatomy 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  treated 
+
+Attributes =  B-PI 
+ Values =  1992 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  stainless 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-IM 
+ Values =  x-ray 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-IM 
+ Values =  x-ray 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  x-ray 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-IM 
+ Values =  x-ray 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  threaded 
+
+Attributes =  B-IM 
+ Values =  x-rays 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-IM 
+ Values =  12.0 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-GOAL 
+ Values =  imaging 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-IM 
+ Values =  ultrasound 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-IM 
+ Values =  angiography 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  diagnosis 
+
+Attributes =  B-IM 
+ Values =  ultrasound 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-IM 
+ Values =  Angiogram 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  ’ 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  imaging 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-IM 
+ Values =  angiogram 
+
+Attributes =  B-GOAL 
+ Values =  imaging 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-IM 
+ Values =  MA 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  Karanikas 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  J.C. 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Anatomy 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  Injury 
+
+Attributes =  B-PI 
+ Values =  L. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  480–481 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  K. 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  Management 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  P.D. 
+
+Attributes =  B-PI 
+ Values =  J.C. 
+
+Attributes =  B-IM 
+ Values =  S.I. 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-IM 
+ Values =  angiography 
+
+Attributes =  B-PI 
+ Values =  trauma 
+

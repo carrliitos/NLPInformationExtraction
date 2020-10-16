@@ -1,0 +1,184 @@
+Trauma Case Reports 29 (2020) 100342
+
+Contents lists available at ScienceDirect
+
+Trauma Case Reports
+
+journal homepage: www.elsevier.com/locate/tcr
+
+Case Report
+Anterior inferior iliac spine avulsion fracture post hip arthroscopy
+for Femoroacetabular impingement☆,☆☆
+Joseph Maalouly, Dany Aouad⁎, Rami Ayoubi, Nabil Dib, Mohammad Darwish,
+Elias Saidy, Alexandre Nehme
+Department of Orthopedic Surgery, Traumatology Saint Georges University Medical Center, Balamand University, P.O. Box 166378 Achraﬁeh, Beirut
+1100 2807, Lebanon
+St Georges University Medical Center, Achraﬁeh, St Georges Street, Beirut, Lebanon
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Hip
+Arthroscopy
+AIIS
+
+Introduction
+
+FAI (Femoroacetabular Impingement) is an uncommon yet reported pathology of the hip joint,
+especially in the young athletic population. If left untreated, it predisposes for premature os-
+teoarthritis of the hip. FAI treatment modalities consists of either open or arthroscopic surgery,
+the latter becoming the most adapted modality. We present a case of a young male athlete found
+to have FAI, treated arthroscopically. His post operative follow up was complicated by anterior
+inferior iliac spine avulsion fracture due to post op protocol non compliance which was treated
+with ORIF, with satisfactory non symptomatic outcome.
+
+Femoroacetabular impingement (FAI) is a cause of chondral lesions, labral tears and hip pain among young adults [1] and in
+particular among athletes [2]. It is also a cause of osteoarthritis of the hips [3]. This condition presents a major cause of degenerative
+hip outcome [4]. Previously, the standard treatments of FAI was surgical hip dislocation and open osteochondroplasty [5]. Currently,
+arthroscopic repair has become the standard in such cases [6]. The arthroscopic technique follows the same precautions and steps as
+an open surgical procedure [6]. As any other surgical procedure, the arthroscopic technique presents many challenges to the surgeon
+and is prone to post-operative complications.
+
+This report discusses the case of a 21-year-old male patient who was found to have an anterior inferior iliac spine avulsion fracture
+11 months post hip arthroscopy for femoroacetabular impingement. According to a review of literature on hip arthroscopy com-
+plications, few similar cases were reported [7].
+
+Case report
+
+This is the case of a 21-year-old male patient who presented with right hip pain upon exercise. X-ray (Fig. 1A and B) and MRI
+(Fig. 1C) revealed right hip mixed femoroacetabular impingement (Pincer and CAM lesions). He underwent right hip arthroscopy
+using traction table for his FAI in 2015 with satisfying post-op results. Both CAM and pincer lesions were debrided using a burr.
+
+☆ No funds were received in support of this study.
+☆☆ The authors declare no conﬂict of interest regarding the publication of this article.
+⁎ Corresponding author.
+E-mail address: Dany_aouad@hotmail.com (D. Aouad).
+
+https://doi.org/10.1016/j.tcr.2020.100342
+Accepted 27 July 2020
+Available online 29 July 2020
+2352-6440/ © 2020 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+
+J. Maalouly, et al.
+
+Trauma Case Reports 29 (2020) 100342
+
+Fig. 1. (A) Pelvis AP X-ray showing mixed femoroacetabular impingement (B) Lateral hip.
+X-ray showing mixed femoroacetabular impingement (C) MRI T1 coronal cut showing right hip mixed femoroacetabular impingement.
+
+Adequate resection was veriﬁed with ﬂuoroscopy, with the involved part of the labrum being stable, requiring no further ﬁxation.
+At his 1-month follow-up, he had full range of motion and reported minimal pain. Patient started resuming his sports activities
+progressively with no to minimal pain. His activities consisted mainly of soccer and running. On his 6 months follow-up, patient
+presented with diﬀuse pain in his right groin area that intensiﬁes with any hip movement. He was advised to lower his exercising
+intensity and stop forceful kicking sports. 11 months post-op, his right groin pain persisted and became prominent mostly with
+hyperextension of his hip. He reports no history of trauma. X-ray (Fig. 2A), CT scan (Fig. 2B) and MRI (Fig. 2C) revealed an anterior
+inferior iliac spine avulsion fracture. Therefore, the patient underwent open reduction and internal ﬁxation using the anterior ap-
+proach, reattachment of rectus femoris to its anatomical location on the anterior inferior iliac spine using cannulated screw and two
+anchors (Fig. 3). Two months post-op, the patient regained full range of motion of his hip and was pain free.
+
+Currently, patient remains pain free with return to normal previous activities without any complaints.
+
+Discussion
+
+The complications rate in hip arthroscopy was found to be 15% [1]. Complications included traction-related, surgical technique
+related and outcome-related problems. Traction-related problems can be traced to nerve injuries resulting from traction [1], often
+caused to the sciatic nerve [8]. Surgical technique-related problems can be caused by breakage or failure of instruments, among
+which causing labral perforation, femoral head scuﬃng, labrum injury occurring among patients with stiﬀ joints, etc. The outcome-
+related complications include heterotopic bone formation along the gluteus medius as well as rapid progression towards osteoar-
+thritis [1]. Other complications found in the literature included avascular necrosis of femoral head, DVT, infection, transitory par-
+esthesia of the pudendal nerve, etc. [4,8].
+
+Rectus femoris injuries more often occur in young athletes, rarely in the adult population. They usually are a result of forceful
+kicking with abrupt arrest, causing avulsion of the rectus femoris at the anterior infericor iliac spine. Other described mechanisms
+consist of sudden deceleration in running sports and hip hyperextension with a ﬂexed knee [7]. It has been postulated that patients
+who underwent hip arthroscopy for FAI are prone to these injuries more than individuals with no previous surgery, lowering the
+threshold for injury [7].
+
+Operative vs non operative management of such injuries has been described in the literature [9,10]. Hsu et al. reported the cases
+of two American football athletes who underwent non operative treatment, returning to kicking and normal activities at 6 weeks.
+
+Fig. 2. (A) X-ray pelvis ap showing AIIS avulsion fracture. (B) CT scan reconstruction showing AIIS avulsion fracture. (C)Sagittal T2 MRI showing
+avulsion fracture of AIIS.
+
+2
+
+J. Maalouly, et al.
+
+Trauma Case Reports 29 (2020) 100342
+
+Fig. 3. Right hip post AIIS avulsion fracture reduction and ﬁxation.
+
+Furthermore, a case series of 11 american football players reported by Gamradt et al. returned to full activity after conservative
+treatment. Five cases of AIIS avulsion sustained by four football players are described by Irmola et al. [11]. They underwent operative
+treatment using suture anchors followed by protective hip bracing, with return to normal sports activity 9 months post-op. The
+surgery of two of these patients was complicated by lateral cutaneous nerve palsy.
+
+Conclusion
+
+Numerous complications may occur following a hip arthroscopy, including traction-related, surgical-technique related and out-
+come-related problems. The anterior inferior iliac spine avulsion fracture was not among the complications. The fracture described in
+this case report might be the result of a surgical complication but could also have a diﬀerent origin, such as a trauma that was
+unnoticed and reported by the patient, taking into consideration the nature of his sports activities consisting of forceful kicking and
+hip hyperextension. Conservative management is of high importance in AIIS avulsion fractures, however when this fails, surgical
+repair is required; hence surgeons should always weigh the beneﬁts of surgery taking into account the high complication rate in hip
+arthroscopy.
+
+Acknowledgements
+
+Contributions by authors
+
+Joseph Maalouly: Writing - Review & Editing
+Dany Aouad: Writing - Review & Editing
+Rami Ayoubi: Writing, editing
+Mohammad Darwish: Editing, Review
+Elias Saidy: Editing, Review
+Nabil Dib: Writing and data collection
+Alexandre Nehme: Resources, Supervision, writing, surgical technique
+
+References
+
+[1] M.S. Park, S.J. Yoon, Y.J. Kim, W.C. Chung, Hip arthroscopy for femoroacetabular impingement: the changing nature and severity of associated complications
+
+over time, Arthroscopy: The Journal of Arthroscopic & Related Surgery 30 (8) (2014) 957–963.
+
+[2] J.T. Byrd, K.S. Jones, Arthroscopic management of femoroacetabular impingement in athletes, Am. J. Sports Med. 39 (1_suppl) (2011) 7–13.
+[3] A. Bedi, B.T. Kelly, Femoroacetabular impingement, JBJS 95 (1) (2013) 82–92.
+[4] B.D. Roos, M.V. Roos, A. Camisa Júnior, E.M.U. Lima, D.P. Gyboski, L.S. Martins, Extracapsular approach for arthroscopic treatment of femoroacetabular
+
+impingement: clinical and radiographic results and complications, Rev. Bras. Ortop. 50 (4) (2015) 430–437.
+
+[5] M. Beck, M. Kalhor, M. Leunig, R. Ganz, Hip morphology inﬂuences the pattern of damage to the acetabular cartilage: femoroacetabular impingement as a cause
+
+of early osteoarthritis of the hip, The Journal of bone and joint surgery. British volume 87 (7) (2005) 1012–1018.
+
+[6] V.M. Ilizaliturri, Complications of arthroscopic femoroacetabular impingement treatment: a review, Clin. Orthop. Relat. Res. 467 (3) (2009) 760–768.
+[7] B.M. Devitt, B. Smith, R. Stapf, J.M. O’Donnell, Avulsion of the direct head of rectus femoris following arthroscopic subspine impingement resection: a case
+
+report, Journal of Hip Preservation Surgery 3 (1) (2015) 56–60, https://doi.org/10.1093/jhps/hnv072.
+
+[8] M.J. Philippon, A.J. Stubbs, M.L. Schenker, R.B. Maxwell, R. Ganz, M. Leunig, Arthroscopic management of femoroacetabular impingement: osteoplasty
+
+technique and literature review, Am. J. Sports Med. 35 (9) (2007) 1571–1580.
+
+3
+
+J. Maalouly, et al.
+
+Trauma Case Reports 29 (2020) 100342
+
+[9] S.C. Gamradt, R.H. Brophy, R. Barnes, et al., Nonoperative treatment for proximal avulsion of the rectus femoris in professional American football, Am. J. Sports
+
+Med. 37 (2009) 1370–1374.
+
+[10] J.C. Hsu, D.A. Fischer, R.W. Wright, Proximal rectus femoris avulsions in national football league kickers: a report of 2 cases, Am. J. Sports Med. 33 (2005)
+
+1085–1087.
+
+[11] T. Irmola, J.T. Heikkila, S. Orava, et al., Total proximal tendon avulsion of the rectus femoris muscle, Scand. J. Med. Sci. Sports 17 (2007) 378–382.
+
+4
+
+

@@ -1,0 +1,561 @@
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  Denmark 
+
+Attributes =  B-GOAL 
+ Values =  Physiotherapy 
+
+Attributes =  B-GOAL 
+ Values =  Therapy 
+
+Attributes =  B-PI 
+ Values =  Denmark 
+
+Attributes =  B-PI 
+ Values =  Denmark 
+
+Attributes =  B-PI 
+ Values =  Denmark 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  highly 
+
+Attributes =  B-PI 
+ Values =  permit 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-IM 
+ Values =  radiographic 
+
+Attributes =  B-GOAL 
+ Values =  imaging 
+
+Attributes =  B-PI 
+ Values =  hammer 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  treated 
+
+Attributes =  B-PI 
+ Values =  highly 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-IM 
+ Values =  4200 
+
+Attributes =  B-PI 
+ Values =  Denmark 
+
+Attributes =  B-IM 
+ Values =  https://doi.org/10.1016/j.tcr.2020.100331 
+
+Attributes =  B-IM 
+ Values =  2352 
+
+Attributes =  B-IM 
+ Values =  BY-NC 
+
+Attributes =  B-PI 
+ Values =  K.B. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  bearing 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  aofoundation.org 
+
+Attributes =  B-PI 
+ Values =  bearing 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  bearing 
+
+Attributes =  B-PI 
+ Values =  highly 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  reposition 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-IM 
+ Values =  radiography 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  lesions 
+
+Attributes =  B-PI 
+ Values =  healthy 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  TB 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  K.B. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  radiographic 
+
+Attributes =  B-GOAL 
+ Values =  imaging 
+
+Attributes =  B-PI 
+ Values =  K.B. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  hammer 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-IM 
+ Values =  SCARE 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  bearing 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  bearing 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  K.B. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  loss 
+
+Attributes =  B-PI 
+ Values =  randomized 
+
+Attributes =  B-PI 
+ Values =  bearing 
+
+Attributes =  B-PI 
+ Values =  highly 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  randomized 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  treated 
+
+Attributes =  B-PI 
+ Values =  highly 
+
+Attributes =  B-PI 
+ Values =  permit 
+
+Attributes =  B-PI 
+ Values =  bearing 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-IM 
+ Values =  e780–e786 
+
+Attributes =  B-GOAL 
+ Values =  M.J. 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-IM 
+ Values =  EFORT 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  F. 
+
+Attributes =  B-PI 
+ Values =  bearing 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  Injury 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-GOAL 
+ Values =  Impaction 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  Injury 
+
+Attributes =  B-PI 
+ Values =  https://doi.org/10.1016/j.injury.2015.02.019 
+
+Attributes =  B-PI 
+ Values =  displacement 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  restricted 
+
+Attributes =  B-PI 
+ Values =  Injury 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  980–983 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  R.A. 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  L. 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-PI 
+ Values =  O. 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-IM 
+ Values =  SCARE 
+
+Attributes =  B-IM 
+ Values =  SCARE 
+
+Attributes =  B-PI 
+ Values =  https://doi.org/10.1016/j.ijsu.2018.10.028 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  bearing 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  Injury 
+
+Attributes =  B-PI 
+ Values =  donor 
+
+Attributes =  B-PI 
+ Values =  https://doi.org/10.2106/JBJS.J.01513 
+
+Attributes =  B-PI 
+ Values =  P.V. 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  Injury 
+
+Attributes =  B-PI 
+ Values =  K.B. 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  Randomised 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-IM 
+ Values =  (2002) 
+

@@ -1,0 +1,606 @@
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  haemothorax 
+
+Attributes =  B-PI 
+ Values =  Frahm 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-SurgicalPreparation 
+ Values =  General 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-GOAL 
+ Values =  ‘ 
+
+Attributes =  B-GOAL 
+ Values =  ’ 
+
+Attributes =  B-GOAL 
+ Values =  ‘ 
+
+Attributes =  B-GOAL 
+ Values =  ’ 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  rupture 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-GOAL 
+ Values =  haemothorax 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  oxygenation 
+
+Attributes =  B-GOAL 
+ Values =  repair 
+
+Attributes =  B-PI 
+ Values =  disruption 
+
+Attributes =  B-GOAL 
+ Values =  haemothorax 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  disruption 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  thoracostomy 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-GOAL 
+ Values =  ‘ 
+
+Attributes =  B-GOAL 
+ Values =  ’ 
+
+Attributes =  B-GOAL 
+ Values =  ‘ 
+
+Attributes =  B-GOAL 
+ Values =  ’ 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-GOAL 
+ Values =  ‘ 
+
+Attributes =  B-GOAL 
+ Values =  ’ 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  haemothorax 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  hypotension 
+
+Attributes =  B-GOAL 
+ Values =  haemothorax 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-GOAL 
+ Values =  transfusion 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-IM 
+ Values =  (CT) 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  disruption 
+
+Attributes =  B-GOAL 
+ Values =  haemothorax 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  General 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-IM 
+ Values =  2352 
+
+Attributes =  B-IM 
+ Values =  BY-NC 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-IM 
+ Values =  angiogram 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  haemothorax 
+
+Attributes =  B-PI 
+ Values =  pneumothorax 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  haemorrhage 
+
+Attributes =  B-PI 
+ Values =  115 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-GOAL 
+ Values =  repair 
+
+Attributes =  B-GOAL 
+ Values =  ICC 
+
+Attributes =  B-GOAL 
+ Values =  haemothorax 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  pneumothorax 
+
+Attributes =  B-SurgicalPreparation 
+ Values =  anaesthesia 
+
+Attributes =  B-PI 
+ Values =  rupture 
+
+Attributes =  B-PI 
+ Values =  preserving 
+
+Attributes =  B-PI 
+ Values =  heparinisation 
+
+Attributes =  B-PI 
+ Values =  haemorrhage 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  ICC 
+
+Attributes =  B-PI 
+ Values =  loss 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  angiogram 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  extravasation 
+
+Attributes =  B-GOAL 
+ Values =  drainage 
+
+Attributes =  B-GOAL 
+ Values =  haemothorax 
+
+Attributes =  B-IM 
+ Values =  angiogram 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  MRI 
+
+Attributes =  B-PI 
+ Values =  disruption 
+
+Attributes =  B-GOAL 
+ Values =  reconstruction 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  pneumothorax 
+
+Attributes =  B-GOAL 
+ Values =  haemothorax 
+
+Attributes =  B-GOAL 
+ Values =  ‘ 
+
+Attributes =  B-GOAL 
+ Values =  ’ 
+
+Attributes =  B-GOAL 
+ Values =  haemothorax 
+
+Attributes =  B-GOAL 
+ Values =  haemothorax 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  disruption 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  haemothorax 
+
+Attributes =  B-GOAL 
+ Values =  drainage 
+
+Attributes =  B-GOAL 
+ Values =  repair 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  mechanisms 
+
+Attributes =  B-PI 
+ Values =  penetrating 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  Injuries 
+
+Attributes =  B-PI 
+ Values =  thorax 
+
+Attributes =  B-PI 
+ Values =  collisions 
+
+Attributes =  B-PI 
+ Values =  BTAI 
+
+Attributes =  B-PI 
+ Values =  collisions 
+
+Attributes =  B-PI 
+ Values =  Collisions 
+
+Attributes =  B-PI 
+ Values =  BTAI 
+
+Attributes =  B-PI 
+ Values =  BTAI 
+
+Attributes =  B-GOAL 
+ Values =  evaluation 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  mechanisms 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  BTAI 
+
+Attributes =  B-GOAL 
+ Values =  imaging 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-IM 
+ Values =  angiography 
+
+Attributes =  B-PI 
+ Values =  BTAI 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-IM 
+ Values =  angiography 
+
+Attributes =  B-IM 
+ Values =  graphy 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-PI 
+ Values =  BTAI 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  worthy 
+
+Attributes =  B-PI 
+ Values =  BTAI 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  extravasation 
+
+Attributes =  B-PI 
+ Values =  ruptured 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  haemothorax 
+
+Attributes =  B-PI 
+ Values =  ruptured 
+
+Attributes =  B-GOAL 
+ Values =  evaluation 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  BTAI 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  BTAI 
+
+Attributes =  B-IM 
+ Values =  catastrophic 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  thoracostomy 
+
+Attributes =  B-GOAL 
+ Values =  repair 
+
+Attributes =  B-IM 
+ Values =  BTAI 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  rupture 
+
+Attributes =  B-PI 
+ Values =  rupture 
+
+Attributes =  B-PI 
+ Values =  extravasation 
+
+Attributes =  B-GOAL 
+ Values =  haemothorax 
+
+Attributes =  B-GOAL 
+ Values =  Observation 
+
+Attributes =  B-GOAL 
+ Values =  Observation 
+
+Attributes =  B-GOAL 
+ Values =  repair 
+
+Attributes =  B-PI 
+ Values =  > 
+
+Attributes =  B-PI 
+ Values =  highly 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-GOAL 
+ Values =  repair 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  repair 
+
+Attributes =  B-GOAL 
+ Values =  repair 
+
+Attributes =  B-GOAL 
+ Values =  therapy 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  Frahm 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  X.N. Ho, 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-GOAL 
+ Values =  repair 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  D.G. 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-GOAL 
+ Values =  Z.M. 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-GOAL 
+ Values =  M.J. 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  direction 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  injury 
+

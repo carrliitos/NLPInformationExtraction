@@ -1,0 +1,480 @@
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  100338 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Tahab,1 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Surgery 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  dissociation 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  pre- 
+
+Attributes =  B-PI 
+ Values =  displacement 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  displacement 
+
+Attributes =  B-PI 
+ Values =  displacement 
+
+Attributes =  B-PI 
+ Values =  dissociation 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  mechanisms 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  dissociation 
+
+Attributes =  B-PI 
+ Values =  displacement 
+
+Attributes =  B-PI 
+ Values =  https://doi.org/10.1016/j.tcr.2020.100338 
+
+Attributes =  B-IM 
+ Values =  2352 
+
+Attributes =  B-IM 
+ Values =  BY-NC 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  100338 
+
+Attributes =  B-IM 
+ Values =  x-ray 
+
+Attributes =  B-PI 
+ Values =  disruption 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-IM 
+ Values =  X-rays 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  identified 
+
+Attributes =  B-PI 
+ Values =  dissociation 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  displacement 
+
+Attributes =  B-PI 
+ Values =  displacement 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-SurgicalPreparation 
+ Values =  general 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-GOAL 
+ Values =  application 
+
+Attributes =  B-PI 
+ Values =  displacement 
+
+Attributes =  B-GOAL 
+ Values =  application 
+
+Attributes =  B-GOAL 
+ Values =  Management 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  symphysis 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  100338 
+
+Attributes =  B-IM 
+ Values =  x-ray 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-IM 
+ Values =  (CT) 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  100338 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-GOAL 
+ Values =  reconstruction 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-IM 
+ Values =  program 
+
+Attributes =  B-IM 
+ Values =  X-rays 
+
+Attributes =  B-PI 
+ Values =  b. 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  Ileostomy 
+
+Attributes =  B-IM 
+ Values =  X-rays 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  100338 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  dissociation 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  classification 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  establish 
+
+Attributes =  B-PI 
+ Values =  classification 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  classification 
+
+Attributes =  B-PI 
+ Values =  displacement 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  100338 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  dissociation 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  dissociation 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  dissociation 
+
+Attributes =  B-PI 
+ Values =  classification 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  displacement 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  displacement 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  dissociation 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  dissociation 
+
+Attributes =  B-PI 
+ Values =  Classification 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  highly 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  100338 
+
+Attributes =  B-PI 
+ Values =  https://doi.org/10.1097/BRS.0b013e3181a8cdad 
+
+Attributes =  B-PI 
+ Values =  10.1097/00007632 
+
+Attributes =  B-PI 
+ Values =  R.A. 
+
+Attributes =  B-PI 
+ Values =  classification 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-IM 
+ Values =  (2012) 
+
+Attributes =  B-IM 
+ Values =  X. Lu, 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  Fracture 
+
+Attributes =  B-PI 
+ Values =  F. 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  R.A. 
+
+Attributes =  B-PI 
+ Values =  dissociation 
+

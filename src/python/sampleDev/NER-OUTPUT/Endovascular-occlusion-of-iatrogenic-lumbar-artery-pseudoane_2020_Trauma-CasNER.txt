@@ -1,0 +1,258 @@
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  Fandinoa 
+
+Attributes =  B-PI 
+ Values =  Pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  lesion 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-IM 
+ Values =  MR 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-SurgicalPreparation 
+ Values =  general 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-PI 
+ Values =  hematoma 
+
+Attributes =  B-PI 
+ Values =  hematoma 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-IM 
+ Values =  angiogram 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-IM 
+ Values =  angiogram 
+
+Attributes =  B-PI 
+ Values =  hematoma 
+
+Attributes =  B-GOAL 
+ Values =  drained 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  hematoma 
+
+Attributes =  B-IM 
+ Values =  2352 
+
+Attributes =  B-IM 
+ Values =  BY-NC 
+
+Attributes =  B-PI 
+ Values =  J.C. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-PI 
+ Values =  hyperdense 
+
+Attributes =  B-PI 
+ Values =  hematoma 
+
+Attributes =  B-PI 
+ Values =  rupture 
+
+Attributes =  B-PI 
+ Values =  hematoma 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  rupture 
+
+Attributes =  B-PI 
+ Values =  hemorrhage 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  hemorrhage 
+
+Attributes =  B-PI 
+ Values =  hemorrhage 
+
+Attributes =  B-GOAL 
+ Values =  achieving 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  aneurysm 
+
+Attributes =  B-PI 
+ Values =  Pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  penetrating 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  deterioration 
+
+Attributes =  B-PI 
+ Values =  hemorrhage 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  deterioration 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  J.C. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  angiography 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-IM 
+ Values =  angiography 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-GOAL 
+ Values =  management 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  surgery 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-SurgicalProcedure 
+ Values =  K. 
+
+Attributes =  B-PI 
+ Values =  pseudoaneurysm 
+

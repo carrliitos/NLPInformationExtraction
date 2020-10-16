@@ -1,0 +1,294 @@
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-PI 
+ Values =  Castro 
+
+Attributes =  B-PI 
+ Values =  dislocations 
+
+Attributes =  B-IM 
+ Values =  radiographs 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-GOAL 
+ Values =  Treatment 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-GOAL 
+ Values =  physiotherapy 
+
+Attributes =  B-PI 
+ Values =  fracture 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  pain 
+
+Attributes =  B-PI 
+ Values =  swelling 
+
+Attributes =  B-PI 
+ Values =  tenderness 
+
+Attributes =  B-GOAL 
+ Values =  examination 
+
+Attributes =  B-GOAL 
+ Values =  imaging 
+
+Attributes =  B-IM 
+ Values =  radiographs 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-GOAL 
+ Values =  reconstruction 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  lesions 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-IM 
+ Values =  2352 
+
+Attributes =  B-IM 
+ Values =  BY-NC 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  X-Ray 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-GOAL 
+ Values =  reconstruction 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-GOAL 
+ Values =  removal 
+
+Attributes =  B-GOAL 
+ Values =  physiotherapy 
+
+Attributes =  B-PI 
+ Values =  lesion 
+
+Attributes =  B-IM 
+ Values =  radiograph 
+
+Attributes =  B-GOAL 
+ Values =  evaluation 
+
+Attributes =  B-PI 
+ Values =  pre- 
+
+Attributes =  B-PI 
+ Values =  fractures 
+
+Attributes =  B-PI 
+ Values =  lesion 
+
+Attributes =  B-PI 
+ Values =  dislocations 
+
+Attributes =  B-PI 
+ Values =  dislocations 
+
+Attributes =  B-PI 
+ Values =  dislocations 
+
+Attributes =  B-PI 
+ Values =  lesion 
+
+Attributes =  B-PI 
+ Values =  trauma 
+
+Attributes =  B-PI 
+ Values =  mechanisms 
+
+Attributes =  B-PI 
+ Values =  injury 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-IM 
+ Values =  radiographs 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-IM 
+ Values =  X-Ray 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-IM 
+ Values =  X-Ray 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  direction 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-GOAL 
+ Values =  repair 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-PI 
+ Values =  injuries 
+
+Attributes =  B-PI 
+ Values =  dislocations 
+
+Attributes =  B-GOAL 
+ Values =  diagnosis 
+
+Attributes =  B-IM 
+ Values =  radiographs 
+
+Attributes =  B-IM 
+ Values =  CT 
+
+Attributes =  B-GOAL 
+ Values =  reduction 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-PI 
+ Values =  BMC 
+
+Attributes =  B-PI 
+ Values =  L. 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  D. 
+
+Attributes =  B-PI 
+ Values =  Lepage 
+
+Attributes =  B-PI 
+ Values =  P. 
+
+Attributes =  B-PI 
+ Values =  L. 
+
+Attributes =  B-GOAL 
+ Values =  ‘ 
+
+Attributes =  B-GOAL 
+ Values =  ’ 
+
+Attributes =  B-GOAL 
+ Values =  R. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  8–12 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-PI 
+ Values =  170–173 
+
+Attributes =  B-PI 
+ Values =  N. 
+
+Attributes =  B-PI 
+ Values =  Trauma 
+
+Attributes =  B-GOAL 
+ Values =  treatment 
+
+Attributes =  B-GOAL 
+ Values =  evaluation 
+
+Attributes =  B-PI 
+ Values =  Dhawan 
+
