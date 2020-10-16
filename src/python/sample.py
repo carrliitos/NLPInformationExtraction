@@ -1,9 +1,9 @@
 import os
 
 def fileConvert(file):
-	os.system("python convert.py {0} > {1}".format(file, file.replace(".pdf", ".txt")))
+	os.system("python C:\\convert.py C:\\input.pdf > C:\\output.txt")
 
-directory = f"CaseReports/TestFiles/"
+directory = f"sopas/"
 
 def main():
 	for file in os.listdir(directory):

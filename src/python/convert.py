@@ -81,7 +81,7 @@ def main(argv):
             elif outfile.endswith('.tag'):
                 outtype = 'tag'
     if outfile:
-        outfp = open(outfile, 'w', encoding=encoding)
+        outfp = open(outfile, 'w', encoding='utf-8', errors='replace')
     else:
         outfp = sys.stdout
     if outtype == 'text':
