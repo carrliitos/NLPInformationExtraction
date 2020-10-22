@@ -25,7 +25,6 @@ sleep 1;mkdir "$NEROUTPUT";echo "$NEROUTPUT folder created.";echo ""
 for outputFile in $OUTPUT/*.txt; do
 	echo "Extracting from the following text: $outputFile"
 	for file in $outputFile; do
-		echo "Extracting: $file"
 		python "EntityExtraction.py" "$file" > "${file::-4}_NER.csv"
 		mv "${file::-4}_NER.csv" "$NEROUTPUT"
 	done
