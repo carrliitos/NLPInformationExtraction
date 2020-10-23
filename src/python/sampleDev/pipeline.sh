@@ -19,6 +19,7 @@ echo "Text outputs are located in the $OUTPUT folder."
 echo "$OUTPUT directory list";sleep 1; ls -l "$OUTPUT"
 echo "****************************************"
 echo ""
+
 # Named entity extraction
 echo "Extracting entities";echo ""
 sleep 1;mkdir "$NEROUTPUT";echo "$NEROUTPUT folder created.";echo ""
