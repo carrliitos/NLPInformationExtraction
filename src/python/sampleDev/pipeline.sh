@@ -1,7 +1,7 @@
 #!/bin/bash
 
-OUTPUT="output"
 INPUT="input"
+OUTPUT="output"
 NEROUTPUT="NER-OUTPUT"
 
 # PDF to text conversion
