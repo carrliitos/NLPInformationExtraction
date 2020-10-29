@@ -10,10 +10,16 @@ def main(argv):
 		start = 0
 		end = 0
 		for(line_number, text) in enumerate(f):
-			if text.startswith("Case pre") or text.startswith("Case Pre") or text.startswith("Case rep") or text.startswith("Case "):
+			if (text.startswith("Case pre")
+				or text.startswith("Case Pre") 
+				or text.startswith("Case rep")
+				or text.startswith("Case ")
+				):
 				start = line_number + 1
 				a.append(start)
-			if text.startswith("Discuss") or text.startswith("discuss"):
+			if (text.startswith("Discuss")
+				or text.startswith("discuss")
+				):
 				end = line_number + 1
 				a.append(end)
 
