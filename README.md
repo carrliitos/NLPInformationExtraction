@@ -3,7 +3,8 @@
 
 This is my undergraduate project focusing on automated Information Extraction
 
-The goal of this project is to be able to automate data/information extraction to create a larger database of CSVs for the medical domain (for proprietary research in University of Wisconsin - WHITEWATER)
+The goal of this project is to be able to automate data/information extraction 
+to create a larger database of CSVs for the medical domain (for proprietary research in University of Wisconsin - WHITEWATER)
 
 # General Overview of the Pipeline
 
@@ -18,7 +19,7 @@ The goal of this project is to be able to automate data/information extraction t
 - [ ] Validating machine-generated CSVs against human-generated CSVs - ***In progress***
 - [ ] Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures - ***In progress***
 - [ ] CSV assembly from relevant sentences - ***In progress***
-- [ ] CSV for proprietary research
+- [ ] CSV for proprietary research - ***In progress***
 
 # Sources I am following:
 ## For all NLP:
