@@ -11,18 +11,12 @@ nlp = spacy.load("UWW_NER_TRAUMA")
 
 def main(argv):
 	file = argv
-	data = []
-	headers = []
 	my_dict = []
 	with open(file, "r") as inputText:
 		for line in inputText:
 			doc = nlp(line)
 			for ent in doc.ents:
 				# print(ent.label_, ",", ent.text)
-				headers.append(ent.label_)
-				data.append(ent.text)
-		# print(headers)
-		# print(data)
 				my_dict.append(dict([(ent.label_, ent.text)]))
 		all_keys = reduce(operator.or_, (d.keys() for d in my_dict))
 		# print(all_keys)
