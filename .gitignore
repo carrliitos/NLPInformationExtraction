@@ -7,6 +7,7 @@ pdfminer/
 
 # Our model
 src/TraumaNLP/
+lib/UWW_NER_TRAUMA/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
