@@ -22,28 +22,29 @@ echo "****************************************"
 echo ""
 
 # Extract specific Case Report sections
-echo "Extracting Case Report sections now"; echo ""
-mkdir "$EXTRACTEDSECTIONS"; echo "$EXTRACTEDSECTIONS folder created.";echo "";sleep 1
-for sectionFile in $OUTPUT/*.txt; do
-	echo "Extracting Case Report section from the following: $sectionFile"
-	python "SectionExtraction.py" "$sectionFile" > "${sectionFile::-4}.sec.txt"
-	mv "${sectionFile::-4}.sec.txt" "$EXTRACTEDSECTIONS"
-done
-echo ""
-echo "****************************************"
-echo "Case Report sections extraction complete."
-echo "Text outputs are located in the $EXTRACTEDSECTIONS folder."
-echo "$EXTRACTEDSECTIONS directory list";sleep 1; ls -l "$EXTRACTEDSECTIONS"
-echo "****************************************"
+# echo "Extracting Case Report sections now"; echo ""
+# mkdir "$EXTRACTEDSECTIONS"; echo "$EXTRACTEDSECTIONS folder created.";echo "";sleep 1
+# for sectionFile in $OUTPUT/*.txt; do
+# 	echo "Extracting Case Report section from the following: $sectionFile"
+# 	python "SectionExtraction.py" "$sectionFile" > "${sectionFile::-4}.sec.txt"
+# 	mv "${sectionFile::-4}.sec.txt" "$EXTRACTEDSECTIONS"
+# done
+# echo ""
+# echo "****************************************"
+# echo "Case Report sections extraction complete."
+# echo "Text outputs are located in the $EXTRACTEDSECTIONS folder."
+# echo "$EXTRACTEDSECTIONS directory list";sleep 1; ls -l "$EXTRACTEDSECTIONS"
+# echo "****************************************"
 
 # Named entity extraction
 echo "Extracting entities";echo ""
 sleep 1;mkdir "$NEROUTPUT";echo "$NEROUTPUT folder created.";echo ""
-for outputFile in $EXTRACTEDSECTIONS/*.txt; do
+for outputFile in $OUTPUT/*.txt; do
+# for outputFile in $EXTRACTEDSECTIONS/*.txt; do
 	echo "Extracting from the following text: $outputFile"
 	for file in $outputFile; do
-		python "EntityExtraction.py" "$file" > "${file::-8}.NER.csv"
-		mv "${file::-8}.NER.csv" "$NEROUTPUT"
+		python "EntityExtraction.py" "$file" "${file::-4}.NER.csv"
+		mv "${file::-4}.NER.csv" "$NEROUTPUT"
 	done
 done
 echo ""

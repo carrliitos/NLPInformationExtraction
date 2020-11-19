@@ -9,29 +9,29 @@ def fileConvert(file, saveFile): # Converts PDFs to TXT
 	os.system("(python convert.py {0}) > {1}".format(file, saveFile))
 
 def entityExtraction(file, saveFile): # Runs TXT through NER model and outputs to CSV
-	os.system("(python EntityExtraction.py {0}) > {1}".format(file, saveFile))
+	os.system("(python EntityExtraction.py {0}) {1}".format(file, saveFile))
 
-def improveCSV(directory): # Puts the CSV in proper format.
-	# Group data by category
-	for file in os.listdir(directory):
-		newData = {}
-		with open((directory + '/' + file), 'rt') as ogFile:
-		   csvReader = csv.reader(ogFile, delimiter=',', quotechar='"')
-		   for row in csvReader:
-			   if row[0] in newData:
-				   newData[row[0]].append(row[1])
-			   else:
-				   newData[row[0]] = [row[1]]
+# def improveCSV(directory): # Puts the CSV in proper format.
+# 	# Group data by category
+# 	for file in os.listdir(directory):
+# 		newData = {}
+# 		with open((directory + '/' + file), 'rt') as ogFile:
+# 		   csvReader = csv.reader(ogFile, delimiter=',', quotechar='"')
+# 		   for row in csvReader:
+# 			   if row[0] in newData:
+# 				   newData[row[0]].append(row[1])
+# 			   else:
+# 				   newData[row[0]] = [row[1]]
 		
-		# Transpose and save data to CSV
-		newData_df = pd.DataFrame.from_dict(newData, orient='index')
-		newData_df = newData_df.transpose()
-		newData_df.to_csv((directory + '/' + file), index=False)
+# 		# Transpose and save data to CSV
+# 		newData_df = pd.DataFrame.from_dict(newData, orient='index')
+# 		newData_df = newData_df.transpose()
+# 		newData_df.to_csv((directory + '/' + file), index=False)
 
 def main():
-	inputDir = r'input'  # Directories depend on user
-	outputDir = r''
-	nerOutputDir = r'NER-OUTPUT'
+	inputDir = r'./input'  # Directories depend on user
+	outputDir = r'./output'
+	nerOutputDir = r'./NER-OUTPUT'
 	
 	# PDF to text conversion
 	print ("Starting pdf to text conversions now.")
@@ -39,8 +39,8 @@ def main():
 	print ("Output folder is the following: ")
 	print(outputDir)
 	time.sleep(1)
-	if not os.path.exists("output"):
-		os.makedirs("output")
+	if not os.path.exists("./output"):
+		os.makedirs("./output")
 	for file in os.listdir(inputDir):
 		print("Extracting texts from: ")
 		print(file)
@@ -61,8 +61,8 @@ def main():
 	print ("Output folder is the following: ")
 	print(nerOutputDir)
 	time.sleep(1)
-	if not os.path.exists("NER-OUTPUT"):
-		os.makedirs("NER-OUTPUT")
+	if not os.path.exists("./NER-OUTPUT"):
+		os.makedirs("./NER-OUTPUT")
 	for file in os.listdir(outputDir): 
 		print("Extracting from the following text: ")
 		print(file)
@@ -78,12 +78,12 @@ def main():
 	time.sleep(1)
 	
 	#Improve CSVs
-	print("Improving CSVs")
-	improveCSV(nerOutputDir)
-	print("****************************************")
-	print("CSV improvement complete.")
-	print("****************************************")
-	print("")
+	# print("Improving CSVs")
+	# improveCSV(nerOutputDir)
+	# print("****************************************")
+	# print("CSV improvement complete.")
+	# print("****************************************")
+	# print("")
 	return
 		
 main()
