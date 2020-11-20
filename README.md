@@ -10,14 +10,17 @@ to create a larger database of CSVs for the medical domain (for proprietary rese
 
 - [x] Case reports are crawled from online resources
 	- Summary:
-		- Successfully extracted [223 PDF articles](https://github.com/carrliitos/NLPInformationExtraction/blob/master/src/java/main/preprocessing/textCollection/output1.csv) from [Trauma Case Reports Online Medical Journal Vol. 10 - Vol. 27](https://www.sciencedirect.com/journal/trauma-case-reports). The articles extracted included Editorial Boards from all volumes, which will be removed for NER/Sentence Classification as it is irrelevant for all case reports
+		- Successfully extracted [223 PDF articles](src/java/main/preprocessing/textCollection/output1.csv) from [Trauma Case Reports Online Medical Journal Vol. 10 - Vol. 27](https://www.sciencedirect.com/journal/trauma-case-reports). The articles extracted included Editorial Boards from all volumes, which will be removed for NER/Sentence Classification as it is irrelevant for all case reports
 - [x] Documents are converted and cleaned from PDF to text
 - [x] NER model created 
 	- Summary:
-		- Successfully created a first version of our NER model. The sample can be found [here](https://github.com/carrliitos/NLPInformationExtraction/blob/master/src/python/sampleNER.ipynb).
+		- Successfully created a first version of our NER model. The sample can be found [here](src/python/sampleNER.ipynb).
 		- The attributes we would generally extract manually are correctly automatically extracted by our model. After this step, we move on to extracting the actions values from our case reports.
 - [ ] Validating machine-generated CSVs against human-generated CSVs - ***In progress***
-- [ ] Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures - ***In progress***
+- [x] Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures
+	- Summary:
+		- Successfully done Named Entity Recognition and Information Extraction. I have done IE on 50 case reports as a test case, and a full implementation will an IE on the 223 PDF articles.
+		- Sample on 50 case reports can be found [here](src/python/sampleDev/NER-OUTPUT) 
 - [ ] CSV assembly from relevant sentences - ***In progress***
 - [ ] CSV for proprietary research - ***In progress***
 
