@@ -15,12 +15,15 @@ to create a larger database of CSVs for the medical domain (for proprietary rese
 - [x] Documents are converted and cleaned from PDF to text
 - [x] NER model created 
 	- Summary:
-		- Successfully created a first version of our NER model. The sample can be found [here](src/python/sampleNER.ipynb).
-		- The attributes we would generally extract manually are correctly automatically extracted by our model. After this step, we move on to extracting the actions values from our case reports.
+		- Successfully created a first version of our NER model. 
+		- The attributes we would generally extract manually are correctly automatically extracted by our model.
+		- After this step, we move on to extracting the actions values from our case reports.
+		- The sample can be found [here](src/python/sampleNER.ipynb).
 - [ ] Validating machine-generated CSVs against human-generated CSVs - ***In progress***
 - [x] Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures
 	- Summary:
-		- Successfully done Named Entity Recognition and Information Extraction. I have done IE on 50 case reports as a test case, and a full implementation will an IE on the 223 PDF articles.
+		- Successfully done Named Entity Recognition and Information Extraction.
+		- I have done IE on 50 case reports as a test case, and a full implementation will an IE on the 223 PDF articles.
 		- Sample on 50 case reports can be found [here](src/python/sampleDev/NER-OUTPUT).
 - [x] CSV assembly from relevant sentences
 	- Summary:
