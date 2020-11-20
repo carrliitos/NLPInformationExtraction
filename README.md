@@ -20,8 +20,10 @@ to create a larger database of CSVs for the medical domain (for proprietary rese
 - [x] Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures
 	- Summary:
 		- Successfully done Named Entity Recognition and Information Extraction. I have done IE on 50 case reports as a test case, and a full implementation will an IE on the 223 PDF articles.
-		- Sample on 50 case reports can be found [here](src/python/sampleDev/NER-OUTPUT) 
-- [ ] CSV assembly from relevant sentences - ***In progress***
+		- Sample on 50 case reports can be found [here](src/python/sampleDev/NER-OUTPUT).
+- [x] CSV assembly from relevant sentences
+	- Summary:
+		- Successfully converted all the NER results into a proper CSV, which can be found [here](src/python/sampleDev/NER-OUTPUT).
 - [ ] CSV for proprietary research - ***In progress***
 
 # Sources I am following:
