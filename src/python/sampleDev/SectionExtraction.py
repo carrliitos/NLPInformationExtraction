@@ -3,7 +3,7 @@ import sys
 def main(argv):
 	file = argv
 	a = []
-	# out = open("OUTPUT.txt", "w")
+	out = open("OUTPUT.txt", "w")
 
 	with open(file, "r") as f:
 		f = f.readlines()
@@ -27,6 +27,6 @@ def main(argv):
 			print(first, second)
 			for i in f[first:second]:
 				print(i)
-				# out.write(i)
+				out.write(i)
 
 if __name__ == '__main__': sys.exit(main(sys.argv[1]))
