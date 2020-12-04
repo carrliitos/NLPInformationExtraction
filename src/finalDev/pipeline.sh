@@ -5,6 +5,8 @@ OUTPUT="output"
 EXTRACTEDSECTIONS="sections-output"
 NEROUTPUT="NER-OUTPUT"
 
+# Extract PDFs from given website
+
 # PDF to text conversion
 echo "Starting pdf to text conversions now.";echo ""
 mkdir "$OUTPUT";echo "$OUTPUT folder created.";echo "";sleep 1
@@ -20,21 +22,6 @@ echo "Text outputs are located in the $OUTPUT folder."
 echo "$OUTPUT directory list";sleep 1; ls -l "$OUTPUT"
 echo "****************************************"
 echo ""
-
-# Extract specific Case Report sections
-# echo "Extracting Case Report sections now"; echo ""
-# mkdir "$EXTRACTEDSECTIONS"; echo "$EXTRACTEDSECTIONS folder created.";echo "";sleep 1
-# for sectionFile in $OUTPUT/*.txt; do
-# 	echo "Extracting Case Report section from the following: $sectionFile"
-# 	python "SectionExtraction.py" "$sectionFile" > "${sectionFile::-4}.sec.txt"
-# 	mv "${sectionFile::-4}.sec.txt" "$EXTRACTEDSECTIONS"
-# done
-# echo ""
-# echo "****************************************"
-# echo "Case Report sections extraction complete."
-# echo "Text outputs are located in the $EXTRACTEDSECTIONS folder."
-# echo "$EXTRACTEDSECTIONS directory list";sleep 1; ls -l "$EXTRACTEDSECTIONS"
-# echo "****************************************"
 
 # Named entity extraction
 echo "Extracting entities";echo ""
