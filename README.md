@@ -6,6 +6,13 @@ This is my undergraduate project focusing on automated Information Extraction
 The goal of this project is to be able to automate data/information extraction 
 to create a larger database of CSVs for the medical domain (for proprietary research in University of Wisconsin - WHITEWATER)
 
+## Contents:
+* [General Overview](https://github.com/carrliitos/NLPInformationExtraction#general-overview-of-the-pipeline)
+* [Sources](https://github.com/carrliitos/NLPInformationExtraction#sources)
+* [Tools](https://github.com/carrliitos/NLPInformationExtraction#tools)
+* [Similarity Measures](https://github.com/carrliitos/NLPInformationExtraction#similarity-measures)
+* [How to run](https://github.com/carrliitos/NLPInformationExtraction#how-to-run)
+
 ## General Overview of the Pipeline
 
 - [x] Case reports are crawled from online resources
@@ -55,7 +62,7 @@ to create a larger database of CSVs for the medical domain (for proprietary rese
 - [BioThings Explorer](https://github.com/biothings/biothings_explorer/tree/master/jupyter%20notebooks)
 	- BioThings Explorer is an engine for autonomously querying a distributed knowledge graph. The distributed knowledge graph is made up of biomedical APIs that have been annotated with semantically-precise descriptions of their inputs and outputs.
 
-### Similarity Measures [src folder](https://github.com/carrliitos/NLPInformationExtraction/tree/master/src/python/CSVComparisons)
+## Similarity Measures [folder](https://github.com/carrliitos/NLPInformationExtraction/tree/master/src/python/CSVComparisons)
 - Levenshtein Edit Distance
 - Jaro/Jaro-Winkler
 - Soundex

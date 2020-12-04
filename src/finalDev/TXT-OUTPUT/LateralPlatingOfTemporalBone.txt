@@ -1,0 +1,276 @@
+Trauma Case Reports 3 (2016) 12–17
+
+Contents lists available at ScienceDirect
+
+Trauma Case Reports
+
+j o u r n a l h o m e p a g e : w w w . e l s e vi e r . c o m / l o c a t e / t c r
+
+Case Report
+Lateral plating of the temporal bone: Hemostatic technique for
+complex transverse fractures of the petrous temporal bone
+F.A. Zeiler ⁎, C.J. Kazina 1
+
+Section of Neurosurgery, Dept. of Surgery, University of Manitoba, Winnipeg, MB, Canada
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Accepted 26 March 2016
+Available online 22 April 2016
+
+Keywords:
+Temporal bone fracture
+Plating
+Petrous carotid
+
+Background: Transverse petrous temporal bone fractures are commonly
+associated with signiﬁcant intracranial trauma. Diastases of these frac-
+tures can lead to issues with hemostasis in the setting of venous sinus
+or petrous internal carotid artery (ICA) injuries.
+Objective: To describe a rare case of a severe displaced transverse
+petrous temporal bone fracture with impending intra-operative exsan-
+guination, treated with fracture reduction and lateral plating in order
+to achieve hemostasis.
+Methods: We retrospectively reviewed the records of a patient admitted
+to the neurosurgical department with a hyperacute epidural hematoma
+(EDH) secondary to a transverse petrous temporal bone fracture with
+venous sinus and petrous ICA injuries.
+Results: A 22 year old male was admitted for a severe traumatic brain
+injury leading to a left displaced transverse petrous temporal bone
+fracture and a hyperacute EDH. Given the location of the fractures, injury
+to the venous sinus (at the area of the transverse-sigmoid junction) and
+petrous ICA was suspected.
+Intra-operatively, signiﬁcant blood loss from both the venous sinus and
+petrous ICA was encountered. Given the displaced temporal bone frac-
+ture, packing of the areas was impaired.
+We performed a manual reduction of the temporal fracture, followed by
+lateral plating in order to achieve hemostasis from the petrous ICA and
+aid with packing of the venous sinus injury.
+Conclusions: Reduction and lateral plating of displaced transverse
+petrous temporal bone fractures can aid signiﬁcantly with intra-
+
+⁎ Corresponding author at: Section of Neurosurgery, University of Manitoba, GB-1 Health Sciences Center, 820 Sherbrook Street,
+
+Winnipeg, Manitoba R3A1R9, Canada. Fax: +1 204 787 3851.
+
+E-mail addresses: umzeiler@myumanitoba.ca (F.A. Zeiler), ckazina@exchange.hsc.mb.ca (C.J. Kazina).
+
+1 Section of Neurosurgery, University of Manitoba, GB-1 Health Sciences Center, 820 Sherbrook Street, Winnipeg, Manitoba, Canada,
+
+R3A1R9.
+
+http://dx.doi.org/10.1016/j.tcr.2016.03.009
+2352-6440/© 2016 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+F.A. Zeiler, C.J. Kazina / Trauma Case Reports 3 (2016) 12–17
+
+13
+
+operative hemostasis in the extreme case of venous sinus and/or petrous
+ICA injuries.
+
+© 2016 The Authors. Published by Elsevier Inc. This is an open access
+article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Introduction
+
+Various patterns of skull base fractures are seen in the setting of severe traumatic brain injury (TBI) [1].
+
+These fractures can lead to cerebrospinal ﬂuid (CSF) leak, meningitis and cranial neuropathies.
+
+Temporal bone fractures are typically secondary to high energy impact, and are classically classiﬁed
+according to the direction of the fracture lines [2,3]: longitudinal, transverse, and mixed. Recently, a newer
+classiﬁcation system of temporal bone fractures includes subcategories for petrous region fractures and the
+degree of involvement of the otic capsule [3].
+
+Fractures of the petrous temporal bone are concerning. The amount of energy required to fracture this
+segment of the temporal bone is typically transmitted to the brain leading to a variety of intracranial injuries
+[4]. Up to 78% of the patients have intracranial hematomas, with acute subdural hematomas (SDHs) being the
+most common [5]. In addition, injuries to the venous sinuses and the petrous portion of the internal carotid
+artery (ICA) have been described.
+
+Given the incidence of extra-axial compressive lesions with petrous temporal fractures, surgical evacua-
+tion may be necessary. If there are associated venous sinus or petrous ICA injuries, hemostasis is paramount
+in order to prevent exsanguination. In the setting of a severe displaced fracture of the petrous temporal
+bone, there can be signiﬁcant difﬁculties in packing the site of hemorrhage and controlling the bleeding
+from the petrous ICA.
+
+Within this case we describe a rare displaced petrous temporal bone fracture in the presence of a hyper-
+acute epidural hematoma (EDH), related to a venous sinus and petrous ICA injuries. Intra-operatively, hemo-
+stasis was achieved via fracture reduction and ﬁxation with lateral temporal bone plating.
+
+Case presentation
+
+A 22 year old male was presented to the emergency department after being found down on the road. The
+time from injury to the arrival of ﬁrst responders was unknown. His Glasgow coma score (GCS) on scene was
+noted to be 8; with localization of the left arm to central stimulus, incomprehensible vocal sounds, and failure
+to open his eyes. We stabilized his vital signs, with no signs of hypotension or hypoxia. It was noted that he
+had signiﬁcant external trauma to the face and left occiput, with scalp lacerations and arterial bleeding
+from the left external auditory canal (EAC). He was transferred to the local trauma center for evaluation.
+
+Upon arrival to the emergency department his GCS dropped over a period of 10 min to 4, with extensor
+posturing of the left side. His left pupil also became ﬁxed and dilated at 8 mm. Mannitol 40 g intravenously
+(IV) was administered. He was subsequently intubated and sent for computed tomography (CT) of the
+brain. The non-contrast CT of the brain demonstrated a large left extra-axial hyperacute hematoma, consistent
+with an EDH, with signiﬁcant midline shift and uncal herniation (Fig. 1). In addition, the CT scan displayed a
+severely displaced transversely oriented fracture to the petrous temporal bone (Fig. 2A, B, and C), extending
+into the carotid canal (Fig. 2D, arrow). Concerns of both injuries to the junction of the transverse-sigmoid
+sinus and the petrous ICA were raised. Arterial blood continued to drain from the left EAC.
+
+After completion of the CT brain, his examination deteriorated to become bilaterally ﬁxed and dilated. His
+brainstem reﬂexes were completely absent at this point, and he was not triggering the ventilator. His pCO2
+was reduced to 25 mm Hg and he was administered 60 g of mannitol, followed by 140 mL of 7.33% saline
+on his way to the operating room. Given the speed of decline, we were unable to perform CT angiography
+to conﬁrm suspected venous sinus or petrous ICA injuries.
+
+Under general anesthesia, a large trauma musculocutaneous ﬂap was raised, starting from 1 cm anterior to
+the tragus and continuing in a “question mark” shape to include the frontal/temporal/parietal regions of the
+calvarium. This ﬂap was elevated anteriorly until the keyhole was identiﬁed. Similarly, the ﬂap was opened
+inferiorly to expose the entire root of the zygoma.
+
+14
+
+F.A. Zeiler, C.J. Kazina / Trauma Case Reports 3 (2016) 12–17
+
+Fig. 1. Pre-operative CT brain. CT = computed tomography. Panel A: Axial CT image at the level of mesencephalon displaying signiﬁcant
+bilateral uncal herniation and cerebral edema. The arrow indicates hemorrhage and pneumocephaly near the junction of the left trans-
+verse and sigmoid sinuses. Panel B: Axial CT image at the level of the lateral ventricles displaying the left calvarial fracture and hyperacute
+epidural hematoma.
+
+The temporalis muscle was dissected off from the fractured fragments of the calvarium. At this point a
+large amount of venous hemorrhage was encountered near the ﬂoor of the middle fossa, which was packed
+with gel foam. The fracture fragments over the lateral cortical surface were removed, and the high speed
+drill was utilized to complete a large craniectomy, exposing all of the frontal, temporal and parietal lobes of
+the left hemisphere. A subtemporal decompression was performed with rongeurs.
+
+The EDH was evacuated, revealing a large dural laceration to the cortical surface, measuring 8 cm by 6 cm
+overlying the peri-Rolandic area. Hemostasis of this cortical injury was obtained with bipolar electrocautery.
+Ongoing brisk venous sinus bleeding was seen from the area of the temporal fracture extending into the
+asterion. The injury was inaccessible for primary repair. Attempts at packing the area failed as the pressure
+required for packing led to diastases of the transverse petrous fracture and subsequent arterial bleeding
+from deep within the fracture line. This likely represented the bleeding from the petrous ICA. The lateral
+portion of the entire temporal bone became free ﬂoating from the remainder of the skull base.
+
+The overall blood loss at this point was approximately 4 L from both the venous sinus and petrous ICA in-
+juries. Ongoing transfusion occurred throughout the case, without any episodes of hypotension or hypoxemia.
+Given the difﬁculties with controlling the hemorrhage from these two inaccessible sites, it was elected to
+perform a manual reduction of the petrous temporal bone fracture, followed by lateral plating, in order to aid
+with packing of the sinus injury and tamponade of the suspected petrous ICA injury.
+
+Medially directed pressure was applied at the level of the EAC with a gloved open palm, leading the reduc-
+tion of the fracture diastases in the petrous temporal bone. We were able to completely reduce the fracture
+fragments, which were initially separated approximately 10–15 mm. Throughout this maneuver we ensured
+that the medial pressure was as co-axial as possible, so as to prevent any further shear injury to the venous
+sinus and petrous carotid artery during the reduction attempt. Hemorrhage from both the venous sinus and
+petrous carotid artery decreased dramatically with this maneuver. Short titanium plates were applied across
+the fracture lines, both anterior and posterior, and secured with 4 mm screws. Fixation via titanium plates and
+screws occurred speciﬁcally across the spheno–squamousal suture line anterior-inferiorly via two separate
+plates, and also along the mastoid–occipital suture line posterior-inferiorly utilizing a single plate (Fig. 3).
+The bleeding at this point decreased signiﬁcantly, with cessation of the arterial hemorrhage deep within
+the temporal bone. The plating can be seen in Fig. 3.
+
+The residual bleeding from the venous sinus injury was subsequently packed with gel foam without
+
+difﬁculty.
+
+F.A. Zeiler, C.J. Kazina / Trauma Case Reports 3 (2016) 12–17
+
+15
+
+Fig. 2. Pre-operative CT brain displaying bone windows. CT = computed tomography. Panels A, B, and C: Axial CT images at the level of
+temporal bone displaying a transverse petrous temporal bone fracture with diastases. Panel D: Arrow indicates the fracture of the petrous
+temporal one extending into the carotid canal compromising the course of the internal carotid artery.
+
+Unfortunately at this point, the entire left hemisphere appeared quite swollen and ischemic (likely from an
+ICA injury). An intra-parenchymal strain gage intracranial pressure (ICP) monitor was placed and the wound
+was closed, leaving the bone off. The patient was subsequently transferred to ICU.
+
+Upon arrival in ICU, the ICP was ranging from 40 to 60 mm Hg despite maximal medical therapy. Over
+the course of the following 6 h the patient developed diabetes insipidus. A CT scan of the brain demonstrated
+signiﬁcant left hemispheric ischemia, contralateral hemispheric injuries, and suspected injury to the mesen-
+cephalon and pons (Fig. 4). It was elected to withdrawal care. The patient died 6 h after the surgery was
+completed.
+
+Discussion
+
+Displaced temporal bone fractures, in the setting of venous sinus or petrous carotid injuries, pose signiﬁ-
+cant challenges in achieving hemostasis. Standard techniques in dealing with venous sinus injuries via
+
+16
+
+F.A. Zeiler, C.J. Kazina / Trauma Case Reports 3 (2016) 12–17
+
+Fig. 3. Post-operative CT brain displaying fracture reduction and plating. CT = computed tomography. Panels A and B: Reduction of
+previously transverse temporal bone fracture. Panel C: Anterior lateral plating seen (arrow) leading to the ﬁxation and maintenance of
+fracture reduction.
+
+packing can be impeded. Our case describes a potential surgical technique to aid with hemostasis in these
+extreme situations.
+
+A few important points can be gleamed from our case. First, fracture reduction is essential. Common
+orthopedic principles apply even though the injury is in the skull base. Fracture reduction leads to improved
+hemostasis. This could be seen with simple medially applied pressure directed along the axis of the EAC.
+Second, ﬁxation of the reduced fracture is paramount. We utilized standard titanium plates and screws for
+cranial repair. Third, packing of the venous sinus injury in order to achieve hemostasis was impossible with
+the free ﬂoating component of the temporal bone fracture. This had to be secured prior to effective packing.
+Fourth, the arterial bleeding from deep within the fracture site, suspected to arise from the petrous ICA,
+was controlled effectively with fracture reduction and ﬁxation. This bleeding would have been extremely
+difﬁcult to stop otherwise, and packing the fracture line would likely have failed. Finally, this easy to perform
+technique can potentially be a life saver in the setting of impending exsanguination.
+
+Despite the improved hemostasis with reduction and ﬁxation of the petrous temporal bone fracture in our
+case, there are some limitations to what can be concluded. First, this is a single extreme case. The majority of
+temporal bone fractures do not present in this manner with a hyperacute extra-axial hematoma secondary
+to a venous sinus and ICA injury. Thus, the ability to generalize the principles of this case is limited. Finally,
+despite adequate hemostasis post-fracture ﬁxation, the patient unfortunately died as a result of signiﬁcant
+ischemia and bilateral hemispheric injuries. It should be noted, that despite achieving control of the
+
+Fig. 4. Post-operative CT brain. CT = computed tomography. Panel A: Axial CT image at the level of the mesencephalon displaying
+hypoattenuation of the midbrain (solid arrow) and bilateral uncal herniation and edema. The dashed arrow displays the area of the trans-
+verse-sigmoid sinus junction that was packed with gel foam. Panels B and C: Axial CT images displaying signiﬁcant bilateral contusions,
+interhemispheric subdural hematoma and left hemisphere ischemia.
+
+F.A. Zeiler, C.J. Kazina / Trauma Case Reports 3 (2016) 12–17
+
+17
+
+hemorrhage, we were unable to address the suspected injury to the petrous ICA. It is this injury that likely led
+to the signiﬁcant left hemispheric ischemia seen both on intra-operatively and post-operative imaging.
+
+Conclusions
+
+Reduction and lateral plating of displaced transverse petrous temporal bone fractures can aid signiﬁcantly
+
+with intra-operative hemostasis in the extreme case of venous sinus and/or petrous ICA injuries.
+
+Conﬂict of interest statement
+
+The authors have no conﬂicts of interest to disclose.
+
+References
+
+[1] D.T. Lin, A.C. Lin, Surgical treatment of traumatic injuries to the cranial base, Otolaryngol. Clin. N. Am. 46 (5) (2013) 749–757.
+[2] M.A. Rafferty, R. Mc Conn Walsh, M.A. Walsh, A comparison of temporal bone fracture classiﬁcation systems, Clin. Otolaryngol. 31 (4)
+
+(2006) 287–291.
+
+[3] H.M. Kang, M.G. Kim, S.H. Boo, et al., Comparison of the clinical relevance of traditional and new classiﬁcation systems of temporal
+
+bone fractures, Eur. Arch. Otorhinolaryngol. 269 (8) (2012) 1893–1899.
+
+[4] Z.A. Asha'Ari, R. Ahmad, J. Rahman, N. Kamarudin, L.W. Ishlah, Contrecoup injury in patients with traumatic temporal bone fracture,
+
+J. Laryngol. Otol. 125 (8) (2011) 781–785.
+
+[5] Z.A. Asha'ari, R. Ahmad, J. Rahman, R.A. Yusof, N. Kamarudin, Patterns of intracranial hemorrhage in petrous temporal bone fracture,
+
+Auris Nasus Larynx 39 (2) (2012) 151–155.
+
+

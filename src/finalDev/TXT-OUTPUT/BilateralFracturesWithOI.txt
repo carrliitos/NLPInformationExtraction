@@ -1,0 +1,235 @@
+Trauma Case Reports 25 (2020) 100265
+
+Contents lists available at ScienceDirect
+
+Trauma Case Reports
+
+journal homepage: www.elsevier.com/locate/tcr
+
+Case Report
+Bilateral fractures of acetabulum in a young girl with osteogenesis
+imperfecta and epilepsy
+Antonio Medicia, Mariano Giuseppe Di Salvatorea, Raﬀaele Pezzellab,
+Andrea Fidanzab,⁎, Alfonso Maria De Simonea, Vittorio Calvisib
+
+a AORN S. Giuseppe Moscati, UOC Ortopedia e Traumatologia, Avellino, Italy
+b Department of Life Health & Environmental Sciences, University of L'Aquila, Unit of Orthopaedics and Traumatology, L'Aquila, Italy
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Osteogenesis imperfecta
+Protrusio acetabuli
+Column fracture
+Blue sclera
+Epilepsy
+Ipoacusia
+
+Introduction
+
+We report a case of bilateral displaced acetabular fractures including both columns fractures with
+protrusio acetabuli in a female patient, aged 15 years, with osteogenesis imperfecta (OI) (Sillence
+Type I), epilepsy, blue sclera and bilateral ipoacusia. Since OI is a rare genetic disorder char-
+acterized by an increased propensity to osteopenia, intraoperative fracture risks and hemorrhagic
+diathesis, we opted for the open reduction and internal ﬁxation of the acetabula in two surgical
+steps and using two diﬀerent approaches. Although the clinical outcomes are not excellent in this
+report (HHS 45/100), the authors suggest that chances of a good outcome with reconstruction of
+the acetabulum must be balanced against the beneﬁts of early or late total hip arthroplasty. The
+goal was to delay a joint replacement as long as possible due to the patient's young age.
+
+Level of evidence: V, case report.
+
+Osteogenesis imperfecta (OI) is a rare genetic disorder characterized by abnormal collagen formation associated with increased
+bone fragility and recurrent fractures throughout life [1]; moreover, patients with OI often have an inherent coagulation defect due to
+abnormal collagen within endothelial capillaries [2,3].
+
+In a healthy adolescent or adult, a displaced fracture of the acetabulum is usually treated by open reduction and ﬁxation. In OI
+patients this management may be diﬃcult: in fact, bleeding diathesis and friable tissues should be considered, as well as possible
+deformities, such as protrusio acetabuli and osteopenia, which reduce the bone stock and increase the risk of intraoperative fracture.
+Postoperatively, hypertrophic callus or heterotopic ossiﬁcation (HO) can also be expected in OI patients, which can be used to
+provide additional stability and a suitable bone stock for future ﬁxation in the event of a new fracture [2].
+
+We have surgically treated bilateral displaced acetabulum fractures in a patient with osteogenesis imperfecta and epilepsy. To our
+
+knowledge, it is the ﬁrst case of a patient with this rare disorder to be described in the literature.
+
+Case report
+
+A 15-year-old woman was diagnosed with osteogenesis imperfecta (Sillence Type I) at a regional reference pediatric hospital.
+Although a genetic characterization of the disease is currently underway and the patient never underwent a bone density test, she
+
+⁎ Corresponding author at: Piazzale S. Tommasi, 1, 67100 L'Aquila, Italy.
+E-mail address: andrea.ﬁdanza@graduate.univaq.it (A. Fidanza).
+
+https://doi.org/10.1016/j.tcr.2019.100265
+Accepted 6 November 2019
+Available online 27 November 2019
+2352-6440/ © 2019 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+
+A. Medici, et al.
+
+Trauma Case Reports 25 (2020) 100265
+
+Fig. 1. The ﬁrst X-ray show bilateral multifragmentary fracture of the acetabulum and protrusion of the femoral heads in the pelvis.
+
+expresses the same phenotypic traits as her mother, who suﬀers from autosomal dominant OI. Following a fall from a chair during an
+epileptic seizure, the young patient came to our observation. Medical history did not predict any other fractures. She was not taking
+bisphosphonates before the injury but she was taking valproic acid for epilepsy.
+
+On physical examination the patient had blue sclera, bilateral ipoacusia, inability to ambulate, and absolute impossibility to
+
+active and passive motion of both hips due to pain.
+
+The imaging showed acetabular fractures, which were classiﬁed as associated both-column fractures with protrusio acetabuli4
+(Fig. 1). Three dimensional reconstructed computed tomography (CT) examination revealed a greater degree of comminution and
+displacement than could be appreciated on the plain radiographs (Fig. 2).
+
+Once informed consent was obtained from the patient and her parents, the preoperative preparation by the orthopaedic and
+anaesthesia team consisted in typing and cross matching eight units of packed red blood cells, fresh frozen plasma, cryoprecipitate,
+desmopressin, and interoperative cell salvage capability available for the operation.
+
+On the ﬁfth post-trauma day, considering the young age of the patient, the comorbidities and the operative duration, we opted for
+
+the ﬁxation of the acetabula in two surgical steps.
+
+At ﬁrst, we performed ORIF of bilateral posterior columns via Iselin approach. A pelvic reconstruction plate was shaped and
+positioned along the perimeter of the pelvis until its ﬁxation (Fig. 3). The patient was extremely osteopenic, bones were very fragile,
+and the reduction obtained from the fracture was the best possible given the starting conditions. Since on the right side the posterior
+synthesis alone appeared insuﬃcient to guarantee a lasting reduction of the femoral head in the acetabulum, we drilled a Kirschner
+wire to provide stable ﬁxation and to avoid possible future dislocations.
+
+The second surgical step was performed on post-injury day ten via a bilateral modiﬁed Stoppa approach and augmented by
+creating the lateral window of the ilioinguinal approach [5]. Bilaterally, there were multiple devitalised, free-ﬂoating, articular
+fragments medial to the quadrilateral surface that were deemed no-reconstructible. Two dedicated suprapectineal plate® (Stryker
+corporate, Selzach, Switzerland) were applied to reconstruct anterior column and quadrilateral lamina of both hips.
+
+The post-operative period was uneventful, hemoglobin never fell below 10 mg/dl and intraoperatively the blood loss was less than
+400 cl and no blood transfusion was necessary. She was mobilized on crutches with touch weight-bearing for six weeks and partial
+weight-bearing for another six weeks.
+
+After three weeks, the patient was discharged to home therapy with bisphosphonates and referred to a specialist center for OI
+disease. We followed the patient weekly for one month, then monthly until the sixth month, with radiographic control at 30, 60 and
+120 days (Fig. 4). The hips function was evaluated with Harris Hip Score (HHS) with result of 45/100 at the ﬁnal follow-up. The
+
+2
+
+A. Medici, et al.
+
+Trauma Case Reports 25 (2020) 100265
+
+Fig. 2. The three dimensional reconstructed computed tomography gave us further details for planning the operation through intrapelvic and
+exopelvic vision.
+
+Numeric Pain Rating Scale (NPRS), a segmented numeric version of the visual analog scale (VAS), used to assess pain intensity,
+reported a score of 5/10 (moderate pain) at the ﬁnal follow-up. The last radiographic examination showed an adequate reduction of
+the fracture and a satisfactory wall and bone stock for a subsequent prosthesis: the patient developed a bilateral post-traumatic
+arthrosis with heterotopic calciﬁcations typical of the underlying disease.
+
+Discussion
+
+Despite the less ominous Type I form of OI, our patient's blue sclera and bilateral hearing aids were a harbinger of the poor bone
+quality and of increased risk of hemorrhagic blood loss [6,7]. Whilst post-operative HO or hypertrophic callus formation was also
+anticipated, the primary goal was to achieve a stable reconstruction with minimisation of perioperative blood loss, empirically
+predictable [1,6].
+
+The mechanism of the injury alone suggested the poor quality of bone stock as our patient suﬀered an extremely comminuted
+fracture as a result of low energy kinematics. Low energy acetabular fractures in OI patients have been described in other case
+reports, but they have not reported the involvement of both columns and both acetabula [8,9].
+
+Darmanis and Bircher described 2 patients with OI each sustaining T-type acetabular fractures, without signiﬁcant comminution,
+according to the Judet–Letournel classiﬁcation system [4,8]. Each fracture had occurred in relatively low energy environments: the
+two cases involved a 16-year-old man whilst playing football who also sustained a concomitant posterior hip dislocation, and the
+other a 25-year-old woman who slipped whilst walking [8]. Ziran et al. described a 25-year-old woman with OI who suﬀered a T-type
+fracture during a bed-to-chair transfer at home [9]. Liporace and Yoon [10] reported single-stage total hip arthroplasty and fracture
+ﬁxation on an adult patient with a both column fracture.
+
+In patients with OI, there is a 10%–30% incidence of bleeding diathesis [6]. This coagulation defect is related to decreased
+capillary strength, as well as to the eﬀect of abnormal collagen on platelet-endothelial cell interactions. In this report, the fracture
+involved both columns, in accordance with the Judet-Letournel classiﬁcation [4]. This demanding pattern often requires two surgical
+approaches, or at the least, the passage of screws through the quadrilateral lamina from one column to the other [8,11]. The surgical
+technique must be gentle because bony fragments can easily become comminuted. We encountered a protrusio acetabuli and a very
+thin quadrilateral lamina, and neither the right- nor left-side fractures pattern allowed a screw ﬁxation without penetrating the joint,
+for this reason we opted for a dedicated plate on the quadrilateral lamina. The main aim of the intervention was to reduce the femoral
+
+3
+
+A. Medici, et al.
+
+Trauma Case Reports 25 (2020) 100265
+
+Fig. 3. X-ray control after the ﬁrst surgical time that consisting in the implant of a posterior pelvic plate and a Kirschner wire in order to maintain
+the femoral head relocation.
+
+heads inside the acetabulum and stabilize them in order to allow the basic movements for the patient and to restore suﬃcient a
+satisfactory medial bone stock to support a hip prosthesis implant in the future. The chances of a good outcome with reconstruction of
+the acetabulum must be balanced against the beneﬁts of early or late arthroplasty. Although the intraoperative analysis of the
+acetabular reconstruction yielded a stable construct, and the patient is now autonomous in carrying out normal daily activities,
+functional result was not very satisfactory and x-rays show an advanced osteoarthritis of both hips.
+
+Despite the high risk of bleeding, poor bone quality, friable tissue, the complexity of these fractures in our opinion exclude the
+possibility of nonoperative treatment. We do know that an acute total hip arthroplasty yields superior outcomes only if there is a
+simultaneous synthesis of the fracture [11], however the extremely long surgical times to obtain reduction, synthesis and hip joint
+replacement in a single step - which in the case described would have been bilateral - would have further exposed the patient to a
+higher risk of infection, bleeding and a greater rate of cup mobilization [12].
+
+For this reason, we have tried to preserve the native articulation due to the young age of the patient, postponing the joint
+resurfacing in a moment of clinical stability and therefore as an intervention in election and not in urgency, also applying a correct
+prophylaxis for heterotopic calciﬁcations.
+
+Conclusion
+
+In summary, acetabular fractures in patients with osteogenesis imperfecta can pose an extremely daunting treatment scenario.
+The authors suggest that, when choosing treatment options, it is primarily mandatory to try to safeguard the original joint in order to
+postpone as long as possible a prosthetic replacement, especially in very young patients.
+
+Declaration of competing interest
+
+We declare that authors of this study do not have any ﬁnancial disclosure and have not received any form of grant for this study.
+
+4
+
+A. Medici, et al.
+
+Trauma Case Reports 25 (2020) 100265
+
+Fig. 4. X-ray control at last follow-up as result of reconstruction of anterior column and quadrilateral lamina that show, despite bone fragility, a
+good ﬁxation and a satisfactory bone stock to plan a future hip arthroplasty.
+
+References
+
+[1] D. Basel, R.D. Steiner, Osteogenesis imperfecta: recent ﬁndings shed new light on this once well-understood condition, Genet Med 11 (2009) 375–385.
+[2] R. Ramaswamy, Y. Kosashvili, H. Cameron, Bilateral total hip replacement in osteogenesis imperfecta with hyperplastic callus, J Bone Joint Surg Br 91 (2009)
+
+[3] G.A. Stynowick, J.D. Tobias, Perioperative care of the patient with osteogenesis imperfecta, Orthopedics 30 (2007) 1043–1049.
+[4] R. Judet, J. Judet, E. Letournel, Fractures of the acetabulum: classiﬁcation and surgical approaches for open reduction preliminary report, J. Bone Joint Surg.
+
+812–814.
+
+Am. 46 (1964) 1615–1646.
+
+[5] J.D. Cole, B.R. Bolhofner, Acetabular fracture ﬁxation via a modiﬁed Stoppa limited intrapelvic approach description of operative technique and preliminary
+
+treatment results, Clin. Orthop. Relat. Res. 305 (1994) 112–123.
+
+[6] M.T. Keegan, B.D. Whatcott, B.A. Harrison, Osteogenesis imperfecta, perioperative bleeding, and desmopressin, Anesthesiology 97 (2002) 1011–1013.
+[7] S. Das, K. Bhatnagar, Blue sclera and osteogenesis imperfecta - a rare association, Kerala J Ophthalmol 29 (2017) 240–243.
+[8] S. Darmanis, M. Bircher, Fractures of the acetabulum in osteogenesis imperfecta, J Bone Joint Surg Br 88 (2006) 670–672.
+[9] N.M. Ziran, J.L. Johnson, S.J. Morgan, W.R. Smith, Femoral artery thrombosis after internal ﬁxation of a transverse acetabular fracture in a patient with
+
+osteogenesis imperfecta type I, Patient Saf Surg 2 (1) (2008).
+
+[10] F.A. Liporace, R.S. Yoon, M.A. Frank, J.P. Maurer, R.J. Gaines, Single-stage total hip arthroplasty and fracture ﬁxation for a both column acetabular fracture in
+
+type I osteogenesis imperfecta, Injury 42 (2011) 1184–1187.
+
+[11] M. Hanschen, S. Pesch, S. Huber-Wagner, P. Biberthaler, Management of acetabular fractures in the geriatric patient, SICOT J 3 (2017) 37.
+[12] P.E. Beaulé, D.B. Griﬃn, J.M. Matta, The Levine anterior approach for total hip replacement as the treatment for an acute acetabular fracture, J. Orthop. Trauma
+
+18 (2004) 623–629.
+
+5
+
+

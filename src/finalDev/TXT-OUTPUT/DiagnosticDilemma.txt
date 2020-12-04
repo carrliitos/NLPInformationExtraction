@@ -1,0 +1,173 @@
+Trauma Case Reports 26 (2020) 100289
+
+Contents lists available at ScienceDirect
+
+Trauma Case Reports
+
+journal homepage: www.elsevier.com/locate/tcr
+
+Case Report
+Complications of interosseous infusion resulting in a diagnostic
+dilemma
+Mohammad Noah Hasan Khana, Abdul Basit Jamalb,⁎, Syed Neshat Anjuma
+
+a Southampton general hospital, Southampton, United Kingdom
+b Ittefaq hospital, Lahore, Pakistan
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Resuscitation
+CPR
+Intraosseous line
+Septic arthritis
+Humeral osteomyelitis
+Septic shock
+Documentation error
+
+Introduction
+
+Successful revival of a patient with cardiac arrest need vigilant eﬀort on behalf of whole team but
+sometimes missing a small thing can create disaster. Here we present a case of 58 years old obese
+lady who was revived from a cardiac arrest secondary to septic shock. Obstruction due to
+proximal ureteric stone was relieved with JJ stent insertion. She required renal replacement
+therapy and invasive ventilation. Fever and inﬂammatory blood markers improved and she woke
+up after 6 days in intensive care unit (ICU). She developed another episode of sepsis but this time
+it was her shoulder that was hurting. Initially it was thought to be an iatrogenic skeletal injury
+during aggressive cardiopulmonary resuscitation (CPR) but radiographs came out to be normal.
+Magnetic resonance imaging (MRI) created more confusion by showing septic arthritis with
+proximal humeral osteomyelitis and gas formation. MRI suggested that it might be the sequelae
+of an intraosseous line insertion. All documented records were silent regarding the intraosseous
+line insertion. Resuscitation team was contacted and inquired. They conﬁrmed the insertion of
+intraosseous line insertion during initial resuscitation which was removed after securing per-
+ipheral vascular access and before transferring the patient to ICU but they forgot to document.
+Her shoulder joint was washed out and debrided arthroscopically. She made a safe recovery
+without any other problem.
+
+Intraosseous access is used to deliver ﬂuids and drugs directly to vascular system through bone marrow. Proximal and distal tibia,
+proximal humerus and sternum are the preferred sites. It takes less than 01 min to insert an intraosseous line and ﬂow rates of up to
+125 ml/min can be achieved. These lines are removed once a stable vascular access has been secured [1]. There are various com-
+mercially available devices for each site of insertion. They have their own advantages and disadvantages [2]. Leidel BA et al. de-
+scribed the intraosseous route as fast and eﬃcacious compared to central venous catheterization in adult patients under resuscitation
+in the emergency department [3].
+
+Intraosseous route has its complications, like osteomyelitis, compartment syndrome, local infection, fat embolism and growth
+plate damage in skeletally immature patients [4]. We describe our case to present another very rare complication, the septic arthritis
+of shoulder joint after intraosseous line insertion for resuscitation of a patient with cardiac arrest.
+
+⁎ Corresponding author.
+E-mail addresses: noah_khan@hotmail.com (M.N.H. Khan), dr.basit@live.com (A.B. Jamal).
+
+https://doi.org/10.1016/j.tcr.2020.100289
+Accepted 17 February 2020
+Available online 13 March 2020
+2352-6440/ Crown Copyright © 2020 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+
+M.N.H. Khan, et al.
+
+Case report
+
+Trauma Case Reports 26 (2020) 100289
+
+58 years old obese lady was brought in emergency department by rescue team. She was accompanied by her son. She presented in
+critical condition, was confused, tachypneic and tachycardiac. According to attendant, she was complaining for last 2–3 days of
+abdominal pain, fever, decreased oral intake and decreased urination. Presently she was taking her antihypertensive medication. Few
+minutes after arrival to emergency department she collapsed and was coded. She was pulseless with electrical cardiac activity (PEA).
+Cardiopulmonary resuscitation (CPR) was initiated according to Adult Cardiac Life Support (ACLS) protocol. Peripheral vascular
+access was diﬃcult with several failed attempts. Patient was revived after 5 min of chest compression, endotracheal tube ventilation
+and single shot of adrenaline. Initial investigations revealed raised WCC, CRP and very high blood glucose levels. She was previously
+non-diabetic. Working diagnosis of septic shock was made. She was put on broad spectrum antibiotics which were changed according
+to sensitivity report of blood and urine cultures. Femoral arterial line was used for monitoring, ﬂuid and drug administration. She was
+sedated and put on invasive ventilation. She was shifted to intensive care unit for monitoring and management. She remained oliguric
+despite ﬂuid replacement. Computed tomography (CT) abdomen was performed which revealed impacted proximal right ureteric
+stone with dilatation of pelvicaleceal system and bi-basal lung consolidation. She was reviewed by urology team for urosepsis and JJ
+stent was place to relieve the obstruction. Frack pus and old blood was drained which conﬁrmed the reason of shock to be the
+urosepsis. Urine output improved but she still needed renal replacement therapy. Fever improved but it didn't touch the baseline.
+Similarly WCC and CRP were showing a decreasing trend. On 6th post admission day patient regained consciousness, urine output
+improved and invasive ventilatory support was withdrawn. She was transferred out of intensive care unit. She again developed high
+grade fever, WCC and CRP was persistently raised. Now that patient was conscious and oriented, she started complaining of left
+shoulder joint pain associated with weakness of left upper limb. Orthopedics team was asked to review the patient. On initial
+examination, mild joint eﬀusion was suspected and turbid blood stained ﬂuid was aspirated. Iatrogenic skeletal injury during CPR
+was suspected and radiograph was obtained which was unremarkable other than degenerative changes. Magnetic resonance imaging
+(MRI) scan was advised to rule out soft tissue pathology. MRI showed large eﬀusion with surrounding tissue edema, bone marrow
+edema with gas formation in proximal humerus. Based on these ﬁndings MRI suggested the diﬀerential diagnoses of septic arthritis
+with proximal humerus osteomyelitis, gas gangrene and sequelae of proximal humeral intraosseous line. This was something new for
+the whole team. All notes were reviewed again but there was no mention of intraosseous line insertion. Resuscitation team was
+contacted and inquired about the intraosseous line and they conﬁrm that intraosseous line was inserted for initial resuscitation and it
+was removed when femoral arterial line was secured, but they forgot to mention it in their notes. Mystery was solved. Shoulder joint
+was decompressed and washed arthroscopically. She was also diagnosed to have type II diabetes mellitus by endocrinology team and
+was managed accordingly. Rest of her recovery was uneventful. She was booked by urologist for removal of stone at a later stage.
+
+Discussion
+
+It was 1922 when Drinker et al. ﬁrst documented the use of intraosseous route for delivery of drugs and ﬂuid [5]. Since then this
+route has been used in pediatric and adult population for ﬂuid resuscitation and drug delivery when peripheral vascular access is not
+obtainable. Complications, although not very common, do occur and include local infection, air or fat embolism, local tissue ex-
+travasation, dislodgment, osteomyelitis, compartment syndrome and growth plate injury etc. [2].
+
+A multi-center study looking into the complications of intraosseous line in pediatric population noted that no complications
+
+occurred when this line was used in 239 patients in emergency department and 52 inpatients [6].
+
+Chalopin T et al. described a case of extensive tibial osteomyelitis in adult male 3 months after this site was used for intraosseous
+delivery of drugs and ﬂuids [7]. A 2.5 month old infant lost a limb to ischemia and compartment syndrome due to intraosseous line
+insertion [4]. 67 years old lady received ﬂuid and medications through humeral intraosseous route because below knee amputation
+on one side and foot amputation on contralateral side. Intraosseous line was removed after 24 h but she developed deltoid com-
+partment syndrome 2 weeks after arrival to hospital. Fasciotomy and debridement was done to relieve the severe pain [8].
+
+Well maintained record are very important communication tool, especially in the current climate of multiprofessional working
+[9]. ‘If it's not written down; it didn't happen.’ is self-explanatory. Amanda Andrews and Bernie St Aubyn quote “a patient claimed
+that one district nurse did not wash her hands when she visited his house to dress his wound. Although the nurse stated that she
+always washed her hands with alcohol rub following local policy, there was no recorded evidence of this” [10].
+
+Our case is unique in two ways. Firstly it is a very rare complication of a time tested lifesaving procedure, secondly the patient was
+put in harm's way by hospital staﬀ by not documenting properly. It would have resulted in catastrophe in the form of loss of limb or
+even life, if patient was still sedated and had not complained of pain in shoulder.
+
+Conclusion
+
+A lifesaving procedure should not be turned into a life-threatening procedure just by documentation error. Any invasive pro-
+cedure, no matter how small and quick, should be done according to standard protocols and should be documented. This case caused
+a diagnostic dilemma on the MRI as it reﬂected impressions of bone edema and gas after the use of interosseous infusion in the
+proximal humerus. Similar ﬁndings can be found in infection or osteomyelitis from gas forming organisms.
+
+2
+
+M.N.H. Khan, et al.
+
+References
+
+Trauma Case Reports 26 (2020) 100289
+
+[1] M.W. Day, Intraosseous devices for intravascular access in adult trauma patients, Crit. Care Nurse 31 (2) (2011) 76–90. Apr 1.
+[2] Anson, Jonathan A. Vascular access in resuscitation. Anesthesiology. 120(4):1015–31.
+[3] B.A. Leidel, C. Kirchhoﬀ, V. Bogner, J. Stegmaier, W. Mutschler, K.-G. Kanz, et al., Is the intraosseous access route fast and eﬃcacious compared to conventional
+central venous catheterization in adult patients under resuscitation in the emergency department? A prospective observational pilot study, Patient Saf Surg 3 (1)
+(2009) 24.
+
+[4] J. Molacek, K. Houdek, V. Opatrný, J. Fremuth, L. Sasek, I. Treskova, et al., Serious complications of Intraosseous access during infant resuscitation, Eur J Pediatr
+
+Surg Rep. 6 (1) (2018) e59–e62 Jan.
+
+[5] C.K. Drinker, K.R. Drinker, C.C. Lund, The circulation in the mammalian bone-marrow, Am J Physiol-Leg Content 62 (1) (1922 Sep) 1–92.
+[6] M. Hansen, G. Meckler, D. Spiro, C. Newgard, Intraosseous line use, complications, and outcomes among a population-based cohort of children presenting to
+
+California hospitals, Pediatr. Emerg. Care 27 (10) (2011) 928–932 Oct.
+
+[7] T. Chalopin, A. Lemaignen, A. Guillon, A. Geﬀray, G. Derot, O. Bahuaud, et al., Acute Tibial osteomyelitis caused by intraosseous access during initial re-
+
+suscitation: a case report and literature review, BMC Infect. Dis. 18 (1) (2018 Dec) 665.
+
+[8] K.M. Thadikonda, F.M. Egro, I. Ma, A.M. Spiess, Deltoid compartment syndrome: a rare complication after humeral intraosseous access, Plast Reconstr Surg Glob
+
+Open 5 (1) (2017 Jan) e1208.
+
+[9] D. Jeﬀeries, M. Johnson, R. Griﬃths, A meta-study of the essentials of quality nursing documentation, Int. J. Nurs. Pract. 16 (2) (2010) 112–124. Apr.
+[10] A. Andrews, B.S. Aubyn, If it’s Not Written Down; it Didn’t Happen…, 29(5) (2015), pp. 20–22.
+
+3
+
+

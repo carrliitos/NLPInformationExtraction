@@ -1,7 +1,7 @@
 #!/bin/bash
 
 INPUT="CaseReports"
-OUTPUT="output"
+OUTPUT="TXT-OUTPUT"
 EXTRACTEDSECTIONS="sections-output"
 NEROUTPUT="NER-OUTPUT"
 

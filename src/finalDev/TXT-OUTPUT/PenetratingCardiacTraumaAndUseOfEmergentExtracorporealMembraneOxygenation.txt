@@ -1,0 +1,211 @@
+Trauma Case Reports 1 (2015) 95–98
+
+Contents lists available at ScienceDirect
+
+Trauma Case Reports
+
+j o u r n a l h o m e p a g e : h t t p : / / w w w . j o u r n a l s . e l s e vi e r . c o m /
+
+t r a u m a - c a s e - r e p o r t s /
+
+Case Report
+Penetrating cardiac trauma and the use of emergent
+extracorporeal membrane oxygenation and therapeutic
+hypothermia: When cooler heads prevail
+Nathaniel Lee ⁎, Daniel Tang, Sudha Jayaraman
+
+Virginia Commonwealth University Department of Surgery, Richmond, VA, United States
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Accepted 19 October 2015
+Available online 27 November 2015
+
+Keywords:
+Penetrating cardiac trauma
+ECMO
+Therapeutic hypothermia
+Neuroprotection
+
+Background and case
+
+This is a case of penetrating chest trauma with traumatic arrest from
+cardiac tamponade, right and left ventriculotomies, mitral valve injury
+and ventricular septal defect. Patient underwent resuscitative thoracot-
+omy converted to clamshell thoracotomy for haemorrhage control.
+Ventriculotomies were repaired on initial damage control operation.
+Extracorporeal membrane oxygenation cannulation and therapeutic
+cooling bridged to deﬁnitive cardiac repair several days later. Patient
+was discharged to an inpatient rehabilitation facility in 16 days.
+
+© 2015 The Authors. Published by Elsevier Ltd. This is an open access
+article under the CC BY-NC-ND license (http://creativecommons.org/
+licenses/by-nc-nd/4.0/).
+
+Whilst extracorporeal membrane oxygenation (ECMO) has been used for temporising patients with
+cardiac injuries, the most common indications for ECMO in the literature are lung injury and acute respi-
+ratory distress syndrome [1]. Therapeutic cooling for neuroprotection has become standard in the setting
+of cardiac arrest, but this practise has not expanded into patients after traumatic arrest [2]. This case
+describes an instance of major penetrating cardiac injury managed with ECMO and therapeutic cooling.
+(See Figs. 1– 3.)
+
+This 28 year old man was brought to a level one trauma centre after being stabbed in the chest. He was
+found in pulseless electrical activity and treated with 10 to 20 min of CPR and three rounds of epinephrine
+whilst en route. On trauma evaluation, he had a stab wound to the left chest with no pulse. A resuscitative tho-
+racotomy and pericardiotomy were performed revealing minimal blood in the left chest, but a large amount of
+
+⁎ Corresponding author at: VCU Dept of Surgery, P.O. Box 980135, Richmond, VA 23298-0454, United States.
+
+E-mail address: nathaniel.lee@vcuhealth.org (N. Lee)
+
+http://dx.doi.org/10.1016/j.tcr.2015.10.011
+2352-6440/© 2015 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+96
+
+N. Lee et al. / Trauma Case Reports 1 (2015) 95–98
+
+Fig. 1. Haemorrhage from the right ventriculotomy is controlled with gentle traction via a Foley catheter as the internal mammary arteries
+are ligated.
+
+dark blood in the pericardium. The patient had return of spontaneous circulation. The incision was extended
+to a clamshell thoracotomy, allowing the identiﬁcation of an actively haemorrhaging right ventricular injury.
+This was occluded with direct pressure until a Foley catheter was placed through the ventriculotomy and in-
+ﬂated (Fig. 1), allowing for haemostatic resuscitation and transfer to the operating room. Estimated downtime
+was approximately 20–25 min.
+
+Fig. 2. CT angiogram demonstrates the ventricular septal defect prior to surgical repair.
+
+N. Lee et al. / Trauma Case Reports 1 (2015) 95–98
+
+97
+
+Fig. 3. The ventricular septal defect and mitral valve injury are inspected through atriotomies prior to repair.
+
+In the operating room, the right ventriculotomy was closed with pledgeted prolene sutures and the Foley
+was removed. At this time, the patient remained hypotensive. A transesophageal echo (TEE) revealed a trau-
+matic ventricular septal defect (VSD) and mitral valve injury (Fig. 2). A cardiac surgeon was called into the
+case. A left ventriculotomy was identiﬁed and also repaired with pledgeted prolene. Immediate cardiac recon-
+struction was considered, however the patient was acidotic, coagulopathic, and hypothermic. His neurologic
+status was unclear and we could not be sure that he would physiologically tolerate a complex cardiac opera-
+tion immediately. The patient was placed on veno-arterial ECMO via aortic root and femoral vein cannulation
+to rest the heart and give the patient time to declare survivability. His chest was packed and he was trans-
+ferred to the cardiothoracic surgery intensive care unit (CSICU) for further resuscitation and ECMO therapy.
+At the conclusion of the case, the patient had lost an estimated 10 l of blood, and received 14 units of packed
+red cells, 10 units of plasma, and three doses of platelets.
+
+In the CSICU, therapeutic hypothermia was initiated to support neurologic recovery. Over the following
+24 h, he needed aggressive resuscitation with blood products, receiving a total of ﬁve units of packed red
+cells, ﬁve units of plasma, four doses of platelets, and ﬁve doses of cryoprecipitate. Considering this require-
+ment, his chest was re-explored in the CSICU to control any surgical bleeding. Minor bleeding was noted
+from the chest wall musculature, but the right and left ventricle repairs were intact and haemostatic.
+
+The patient stabilised enough to permit CT evaluation, which was obtained on post-operative day (POD)
+two. No additional injuries were identiﬁed on CT head, chest, and abdomen/pelvis. An EGD, performed to eval-
+uate for esophageal injury, also revealed no abnormality. A continuous 24 hour EEG was performed which re-
+vealed generalised slowing, attributed to sedation. On POD three, the patient was able to follow simple
+commands during a sedation holiday.
+
+Based on isolated cardiac wounds and reasonable neurologic function, deﬁnitive cardiac repair was
+planned. On POD four, the patient underwent repair of the ventricular septal defect, mitral valve, and pericar-
+dium, as well as ECMO decannulation. The 2.2 cm VSD in the perimembranous region was closed with prolene
+reinforced with autologous pericardium. The mitral valve was noted to have a 1.5 cm oblique defect that was
+repaired with prolene and reinforced with an A3–P3 commissuroplasty. Once the atriotomies were closed, the
+patient was rewarmed, reperfused, and weaned from bypass; TEE revealed normal systolic function, no appar-
+ent ventricular shunt, and adequate mitral function. The pericardium was then reconstructed with synthetic
+pericardial membrane (Fig. 3).
+
+Postoperatively, he developed MSSA pneumonia with hypotension but was effectively treated with anti-
+biotics. He was extubated on POD9/5 and transitioned to oral diet by POD 11/7. He was discharged to inpatient
+rehabilitation on POD 18/14 and was discharged home after four days. At the time of discharge home, he was
+cognitively intact (GCS 15) and independently completing activities of daily living and walking without assis-
+tive devices.
+
+Two weeks after discharge, he denied any cognitive or motor difﬁculties, but did report paresthesias in bi-
+lateral ﬁngers and toes. At four weeks, he again complained of paresthesias, but had no other complaints. After
+
+98
+
+N. Lee et al. / Trauma Case Reports 1 (2015) 95–98
+
+four months, his ﬁnger paresthesias had resolved, though his toe paresthesias persisted. He had returned to
+work as a roofer without any limitations.
+
+Discussion
+
+From the onset, the odds were against a favourable outcome for this patient. His mechanism alone put him
+at 35% risk of death [3]. Presenting in traumatic arrest increased this risk to approximately 80% [3]. Rapidly
+intervening with a resuscitative thoracotomy, relieving the pericardial tamponade and restoring circulation
+after 20 min left him at great risk of debilitating anoxic brain injury. In order to maximise the likelihood of
+a meaningful recovery, we elected to place him on ECMO and induce therapeutic hypothermia.
+
+Our management strategy hinged on the availability and utilisation of ECMO, which allowed for delayed
+repair of the VSD and valvular injuries. This permitted us to ensure evidence of neurologic function and inves-
+tigate for additional injuries whilst preventing cardiogenic shock. There have been very few reports of ECMO
+use for traumatic cardiac injuries [4] although, ARDS remains a well-recognised indication in trauma patients
+[1]. The most common complication associated with ECMO is bleeding, which occurs in up to 68% of patients
+[1], a risk that could be compounded by therapeutic hypothermia.
+
+Induced hypothermia has slowly gained traction and become a standard practise for neuroprotection in
+cases of non-traumatic cardiac arrest, and has been incorporated into ACLS protocol [5]. Several studies
+have indicated signiﬁcant outcome beneﬁts including survival and increased likelihood of good neurologic re-
+covery when used in the medical post-cardiac arrest setting [6]. Bernard et al. demonstrated that the likeli-
+hood of discharge to home or to rehab after therapeutic hypothermia was ﬁve times greater than without it
+[7]. However, there has been reluctance to adopt these manoeuvres in trauma patients, often citing the
+risks of hypothermic coagulopathy [2]. One ongoing clinical trial is evaluating use of rapid induction of hypo-
+thermia, resuscitative surgery and resuscitation with cardiopulmonary bypass in trauma patients, suggesting
+this attitude is evolving [8].
+
+This case demonstrates the utility of ECMO and therapeutic hypothermia in maximising clinical outcomes
+in patients sustaining cardiac arrest from penetrating cardiac injury. This patient had excellent recovery be-
+cause of the availability and immediate use of these interventions for a rare indication. However, the risks
+of haemorrhage are substantial and may be compounded with this approach, especially if it results in a neu-
+rologic “second-hit” for the patient which is associated with 150% increase in mortality in the setting of brain
+trauma [9]. Whilst more research is necessary to determine which patients may beneﬁt from these interven-
+tions, this case demonstrates the feasibility of using ECMO and therapeutic hypothermia in patients having
+post-traumatic cardiac arrest.
+
+Conﬂict of interest
+
+The authors of this case report have no conﬂicts of interest to disclose.
+
+References
+
+[1] T. Pranikoff, R.B. Hirschl, C.N. Steimle, H.L. Anderson, R.H. Bartlett, Efﬁcacy of extracorporeal life support in the setting of adult car-
+
+diorespiratory failure, ASAIO J. 40 (1994) M339–M343.
+
+[2] M.A. Tuma, L.G. Stansbury, D.M. Stein, K.A. McQuillan, T.M. Scalea, Induced hypothermia after cardiac arrest in trauma patients: a
+
+[3] J.A. Asensio, J.D. Berne, D. Demetriades, L. Chan, J. Murray, A. Falabella, et al., One hundred ﬁve penetrating cardiac injuries: a 2-year
+
+case series, J. Trauma 71 (2011) 1524–1527.
+
+prospective evaluation, J. Trauma 44 (1998) 1073–1082.
+
+[4] G. Gatti, G. Forti, A. Bologna, G. Sagrati, G. Gustin, R. Korcova, et al., Rescue extracorporeal membrane oxygenation in a young man
+
+with a stab wound in the chest, Injury 45 (2014) 1509–1511.
+
+[5] M.A. Peberdy, C.W. Callaway, R.W. Neumar, R.G. Geocadin, J.L. Zimmerman, M. Donnino, et al., Part 9: post-cardiac arrest care: 2010
+American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care, Circulation 122
+(2010) S768–S786.
+
+[6] Group HaCAS, Mild therapeutic hypothermia to improve the neurologic outcome after cardiac arrest, N. Engl. J. Med. 346 (2002) 549–556.
+[7] S.A. Bernard, T.W. Gray, M.D. Buist, B.M. Jones, W. Silvester, G. Gutteridge, et al., Treatment of comatose survivors of out-of-hospital
+
+cardiac arrest with induced hypothermia, N. Engl. J. Med. 346 (2002) 557–563.
+
+[8] Pittsburgh Uo, Emergency preservation and resuscitation for cardiac arrest from trauma, ClinicalTrials.gov [Internet], National
+Library of Medicine (US), Bethesda (MD), 2002 ([cited 2014 Mar 31]. Available from: http://clinicaltrials.gov/show/NCT01042015).
+[9] R.M. Chesnut, L.F. Marshall, M.R. Klauber, B.A. Blunt, N. Baldwin, H.M. Eisenberg, et al., The role of secondary brain injury in deter-
+
+mining outcome from severe head injury, J. Trauma 34 (1993) 216–222.
+
+

@@ -1,0 +1,131 @@
+Trauma Case Reports 23 (2019) 100238
+
+Contents lists available at ScienceDirect
+
+Trauma Case Reports
+
+journal homepage: www.elsevier.com/locate/tcr
+
+Case Report
+Handlebar versus gallbladder: A case of gallbladder rupture in
+blunt thoracoabdominal trauma without other major injury
+Elizabeth B. Lockie⁎, Samuel P. Banting, Aaron Y.S. Hui
+
+Department of General Surgery, The Royal Melbourne Hospital, Australia
+
+Case report
+
+A 51-year-old male presented to the emergency department 4 h after falling oﬀ a pushbike onto his right side at 20 km/h. He
+presented to hospital after initially returning home for a brief period, where he reported symptoms of dizziness and nausea and
+noticed increased swelling to of right side of his abdomen. Primary assessment was signiﬁcant for blood pressure of 75/48 mmHg
+(heart rate 86 bpm), which improved to 105/67 with 1 L intravenous 0.9% saline. Focused abdominal ultrasound showed free ﬂuid in
+right upper quadrant. Secondary survey identiﬁed right chest wall tenderness, right upper quadrant tenderness and distension, and
+grazes on the abdomen. He proceeded to contrast enhanced computer tomography (CT) that demonstrated haemoperitoneum, grade
+II splenic laceration [2], right sixth to eighth rib fractures, and right transverse process fracture of the ﬁrst lumbar vertebra (Fig. 1).
+The patient underwent an emergency trauma laparotomy, that revealed one litre haemoperitoneum, perforated gallbladder with free
+gallbladder calculi, grade I duodenal haematoma and a grade II splenic laceration. The bleeding was from the gallbladder mucosa and
+peritoneal covering; the duodenal and splenic injuries were not bleeding. His gallbladder was resected (Fig. 2), and calculi retrieved.
+His gallbladder appeared ﬁbrosed, as conﬁrmed on histopathology that showed ﬁbrosis. The duodenum and spleen were managed
+conservatively. He had an uncomplicated recovery post-operatively, with conservative management of the rib and vertebral fractures,
+and was discharged home seven days later.
+
+Discussion
+
+Gallbladder rupture following blunt trauma is a rare condition, reported in only 2% of trauma laparotomies for blunt trauma, with
+isolated gallbladder rupture occurring in under 1% of cases [1]. We present an interesting case of gallbladder rupture due to blunt
+thoracoabdominal trauma, without other major injury.
+
+Risk factors for gallbladder rupture are related to the mechanism of trauma and gallbladder factors. Gallbladder injuries are far
+more likely in penetrating trauma than blunt trauma, the former accounting for 90% of gallbladder injuries [3,4]. In greater than 90%
+of cases, there is other major intra-abdominal injury, most commonly to liver [4,5]. In this case, the mechanism of injury was direct
+blunt trauma, likely from the pushbike handlebar, force applied directly to the gall bladder through the abdominal wall. Other minor
+abdominal injuries reported, to the spleen and small bowel could also be attributable to the direct blow by the handle bars or the fall
+itself.
+
+Being a balloon-like structure, the risk of rupture is related to the wall thickness and ﬁlling of the gallbladder. The literature
+describes that a thin-walled gallbladder is more prone to rupture in blunt trauma than a thick-walled ﬁbrosed gallbladder, and a
+distended post-prandial gallbladder is also more likely to rupture [6]. In this case however, the patient had a ﬁbrosed gallbladder, and
+it was likely not distended. Alcohol consumption has also been proposed as a risk factor for gallbladder rupture, through increasing
+sphincter of Oddi tone thus biliary tract pressure [6], but we do not think it was a factor in this case.
+
+Diagnosis of gallbladder rupture is often missed [6], due to low index of suspicion, variable clinical presentation, and variable
+
+⁎ Corresponding author at: Royal Melbourne Hospital, 300 Grattan Street, Parkville, 3050, Australia.
+E-mail address: Elizabeth.Lockie@mh.org.au (E.B. Lockie).
+
+https://doi.org/10.1016/j.tcr.2019.100238
+Accepted 25 July 2019
+Available online 31 July 2019
+2352-6440/ © 2019 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+
+E.B. Lockie, et al.
+
+Trauma Case Reports 23 (2019) 100238
+
+Fig. 1. Computer tomography scan demonstrating haematoma within gallbladder lumen and around gallbladder; (a) Axial slice; (b) Coronal slice.
+
+Fig. 2. Resected gallbladder specimen.
+
+imaging ﬁndings. The spectrum of contrast-enhanced CT ﬁndings includes pericholecystic ﬂuid, ill-deﬁned contour of the gallbladder
+wall, high density intraluminal material (haemorrhage), active contrast extravasation into the lumen, and gallbladder collapse [ 7,8].
+The addition of delayed post-contrast CT can assist in diﬀerentiating traumatic from nontraumatic conditions such as cholelithiasis,
+
+2
+
+E.B. Lockie, et al.
+
+Trauma Case Reports 23 (2019) 100238
+
+which can mimic intra-luminal haemorrhage, as haemorrhage will show an increase in amount of dense ﬂuid or extravasation on the
+delayed phase [8]. In this case, diagnosis of gallbladder rupture was made intra-operatively, which is the more common situation. In
+a retrospective review of 45 patients, diagnosis was made on CT in seven and intra-operatively in the remaining 38 patients [4]. In
+this case, there were ﬁndings suggestive of gallbladder rupture on CT, including haematoma within the gallbladder lumen and
+surrounding the gallbladder, but these ﬁndings were appreciated only by the radiologist, not by the emergency physicians or sur-
+geons. This reﬂects the diﬃculty of diagnosis, even by experienced doctors in a trauma centre. Nevertheless, the treatment in this case
+was not delayed, as decision for trauma laparotomy was made based on the positive abdominal ultrasound scan and haemodynamic
+instability of the patient. The patient underwent cholecystectomy, the gold standard of management for gallbladder rupture [9].
+
+Conclusion
+
+This case is a rare example of gallbladder rupture without other major injury following blunt thoracoabdominal trauma, and it
+illustrates the diﬃculties in diagnosis of this unusual injury. When managed promptly, the outcome of this injury has a good
+prognosis.
+
+Acknowledgements
+
+We acknowledge the patient for giving permission to share his case.
+
+Declaration of Competing Interest
+
+We declare no competing interests.
+
+References
+
+[1] Kaehr D, Jones LM, Miller SF, Finley RK Jr. Traumatic cholecystectomy. J. Trauma 1984; 24(6); 544–5.
+[2] E.E. Moore, T.H. Cogbill, M.A. Malangoni, G.J. Jurkovich, S.R. Shackford, H.R. Champion, J.W. McAninch, Organ injury scaling, Surg. Clin. North Am. 75 (1995)
+
+293–303.
+
+[3] R. Zellweger, P.H. Navsaria, F. Hess, J. Omoshoro-Jones, D. Kahn, A.J. Nicol, Gall bladder injuries as part of the spectrum of civilian abdominal trauma in South
+
+Africa, ANZ J. Surg. 75 (7) (2005) 559–561.
+
+[4] G.B. Ball, E. Dixon, A.W. Kirkpatrick, F.R. Sutherland, K.B. Laupland, D.V. Feliciano, A decade of experience with injuries to the gallbladder, J. Trauma Manag.
+
+[5] O. Sharma, Blunt gallbladder injuries: presentation of twenty-two cases with review of the literature, J. Trauma 39 (3) (1995) 576–580.
+[6] C.A. Soderstrom, K. Maekawa, R.W. DuPriest Jr., R.A. Cowley, Gallbladder injuries resulting from blunt abdominal trauma: an experience and review, Ann. Surg.
+
+Outcomes 4 (3) (2010).
+
+193 (1) (1981) 60–66.
+
+[7] R.E. Erb, S.E. Mirvis, K. Shanmuganathan, Gallbladder injury secondary to blunt trauma: CT ﬁndings, J. Comput. Assist. Tomogr. 18 (5) (1994) 778–784.
+[8] A.D. Lyles, J.T. Rexroad, Isolated traumatic gallbladder avulsion: a case report, Emerg. Radiol. 17 (5) (2010) 419–421.
+[9] B.N. Thomson, B. Nardino, K. Gumm, A.J. Robertson, B.P. Knowles, N.A. Collier, R. Judson, Management of blunt and penetrating biliary tract trauma, J. Trauma
+
+Acute Care Surg. 72 (6) (2012) 1620–1625.
+
+3
+
+
