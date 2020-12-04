@@ -1,7 +1,7 @@
-# NLP Information Extraction (In Progress)
+# NLP Information Extraction
 > Benzon Carlitos Salazar
 
-This is my undergraduate project focusing on automated Information Extraction
+This is my undergraduate 2020 project focusing on automated Information Extraction
 
 The goal of this project is to be able to automate data/information extraction 
 to create a larger database of CSVs for the medical domain (for proprietary research in University of Wisconsin - WHITEWATER)
@@ -71,9 +71,7 @@ to create a larger database of CSVs for the medical domain (for proprietary rese
 ## How to run
 1. Make sure you have your NER model.
 2. Make sure you have a folder of inputs of pdfs, check [here](./src/finalDev/CaseReports) for example.
-3. Edit [pipeline script](./src/finalDev/pipeline.sh)
-	- Make sure you have the correct input folder (check line 3).
-4. Run:
+3. Run:
 
 ```
 $ ./pipeline.sh
