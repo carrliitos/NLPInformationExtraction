@@ -8,9 +8,9 @@ to create a larger database of CSVs for the medical domain (for proprietary rese
 
 ## Contents:
 * [General Overview](https://github.com/carrliitos/NLPInformationExtraction#general-overview-of-the-pipeline)
-* [Sources](https://github.com/carrliitos/NLPInformationExtraction#sources)
+* [Sources](https://github.com/carrliitos/NLPInformationExtraction#sources-i-am-following)
 * [Tools](https://github.com/carrliitos/NLPInformationExtraction#tools)
-* [Similarity Measures](https://github.com/carrliitos/NLPInformationExtraction#similarity-measures)
+* [Similarity Measures](https://github.com/carrliitos/NLPInformationExtraction#similarity-measures-folder)
 * [How to run](https://github.com/carrliitos/NLPInformationExtraction#how-to-run)
 
 ## General Overview of the Pipeline
@@ -67,3 +67,5 @@ to create a larger database of CSVs for the medical domain (for proprietary rese
 - Jaro/Jaro-Winkler
 - Soundex
 - [Description and Evaluation of Semantic Similarity Measures Approaches](https://arxiv.org/abs/1310.8059)
+
+## How to run
