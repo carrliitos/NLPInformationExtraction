@@ -1,15 +1,109 @@
-Attributes,Values
-B-PI , fracture
-B-PI , Alexandre
-B-SurgicalProcedure , Surgery
-B-PI , P.O.
-B-IM , AIIS
-B-GOAL , treatment
-B-SurgicalProcedure , surgery
-B-PI , fracture
-B-SurgicalProcedure , ORIF
-B-PI , lesions
-B-PI , pain
-B-GOAL , repair
-B-PI , precautions
-B-PI , fracture
+B-PI,B-GOAL,B-IM,B-SurgicalPreparation,B-SurgicalProcedure
+Trauma,null,null,null,null
+Trauma,null,null,null,null
+fracture,null,null,null,null
+Alexandre,null,null,null,null
+null,null,null,null,Surgery
+P.O.,null,null,null,null
+null,null,AIIS,null,null
+null,treatment,null,null,null
+null,null,null,null,surgery
+fracture,null,null,null,null
+null,null,null,null,ORIF
+lesions,null,null,null,null
+pain,null,null,null,null
+null,repair,null,null,null
+precautions,null,null,null,null
+fracture,null,null,null,null
+pain,null,null,null,null
+null,null,X-ray,null,null
+null,MRI,null,null,null
+lesions,null,null,null,null
+lesions,null,null,null,null
+D.,null,null,null,null
+null,null,2352,null,null
+null,null,BY-NC,null,null
+Trauma,null,null,null,null
+null,null,X-ray,null,null
+null,null,X-ray,null,null
+null,MRI,null,null,null
+pain,null,null,null,null
+pain,null,null,null,null
+pain,null,null,null,null
+pain,null,null,null,null
+trauma,null,null,null,null
+null,null,X-ray,null,null
+null,null,CT,null,null
+null,MRI,null,null,null
+fracture,null,null,null,null
+null,reduction,null,null,null
+pain,null,null,null,null
+pain,null,null,null,null
+injuries,null,null,null,null
+injury,null,null,null,null
+osteoar-,null,null,null,null
+infection,null,null,null,null
+par-,null,null,null,null
+femoris,null,null,null,null
+injuries,null,null,null,null
+mechanisms,null,null,null,null
+injuries,null,null,null,null
+null,null,null,null,surgery
+injury,null,null,null,null
+null,management,null,null,null
+injuries,null,null,null,null
+null,treatment,null,null,null
+null,null,X-ray,null,null
+AIIS,null,null,null,null
+fracture,null,null,null,null
+null,null,CT,null,null
+null,reconstruction,null,null,null
+AIIS,null,null,null,null
+fracture,null,null,null,null
+null,MRI,null,null,null
+fracture,null,null,null,null
+AIIS,null,null,null,null
+Trauma,null,null,null,null
+AIIS,null,null,null,null
+null,reduction,null,null,null
+null,treatment,null,null,null
+AIIS,null,null,null,null
+null,treatment,null,null,null
+null,null,null,null,surgery
+fracture,null,null,null,null
+fracture,null,null,null,null
+trauma,null,null,null,null
+null,management,null,null,null
+AIIS,null,null,null,null
+fractures,null,null,null,null
+null,repair,null,null,null
+null,null,null,null,surgery
+Alexandre,null,null,null,null
+null,Y.J.,null,null,null
+null,null,null,null,Surgery
+K.S.,null,null,null,null
+null,management,null,null,null
+null,treatment,null,null,null
+null,null,radiographic,null,null
+null,R.,null,null,null
+null,null,null,null,surgery
+British,null,null,null,null
+null,null,V.M.,null,null
+null,treatment,null,null,null
+null,B.M.,null,null,null
+null,R.,null,null,null
+femoris,null,null,null,null
+null,null,null,null,Surgery
+null,M.J.,null,null,null
+null,null,Schenker,null,null
+R.B.,null,null,null,null
+null,R.,null,null,null
+null,management,null,null,null
+Trauma,null,null,null,null
+null,null,S.C.,null,null
+R.H.,null,null,null,null
+null,R.,null,null,null
+null,treatment,null,null,null
+femoris,null,null,null,null
+J.C.,null,null,null,null
+femoris,null,null,null,null
