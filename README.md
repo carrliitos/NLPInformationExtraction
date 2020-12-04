@@ -69,3 +69,12 @@ to create a larger database of CSVs for the medical domain (for proprietary rese
 - [Description and Evaluation of Semantic Similarity Measures Approaches](https://arxiv.org/abs/1310.8059)
 
 ## How to run
+1. Make sure you have your NER model.
+2. Make sure you have a folder of inputs of pdfs, check [here](./src/finalDev/CaseReports) for example.
+3. Edit [pipeline script](./src/finalDev/pipeline.sh)
+	a. Make sure you have the correct input folder.
+4. Run:
+
+```
+$ ./pipeline.sh
+```
