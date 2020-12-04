@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INPUT="input"
+INPUT="CaseReports"
 OUTPUT="output"
 EXTRACTEDSECTIONS="sections-output"
 NEROUTPUT="NER-OUTPUT"
