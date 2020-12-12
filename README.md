@@ -1,6 +1,12 @@
 # NLP Information Extraction
 > Benzon Carlitos Salazar
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 This is my undergraduate 2020 project focusing on automated Information Extraction
 
 The goal of this project is to be able to automate data/information extraction 
@@ -76,3 +82,14 @@ to create a larger database of CSVs for the medical domain (for proprietary rese
 ```
 $ ./pipeline.sh
 ```
+
+[contributors-shield]: https://img.shields.io/github/contributors/uww-student-athlete-success/repo.svg?style=plastic
+[contributors-url]: https://github.com/carrliitos/NLPInformationExtraction/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/uww-student-athlete-success/repo.svg?style=plastic
+[forks-url]: https://github.com/carrliitos/NLPInformationExtraction/network/members
+[stars-shield]: https://img.shields.io/github/stars/uww-student-athlete-success/repo.svg?style=plastic
+[stars-url]: https://github.com/carrliitos/NLPInformationExtraction/stargazers
+[issues-shield]: https://img.shields.io/github/issues/uww-student-athlete-success/repo.svg?style=plastic
+[issues-url]: https://github.com/carrliitos/NLPInformationExtraction/issues
+[license-shield]: https://img.shields.io/github/license/uww-student-athlete-success/repo.svg?style=plastic
+[license-url]: https://github.com/carrliitos/NLPInformationExtraction/blob/master/LICENSE
