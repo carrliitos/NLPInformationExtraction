@@ -1,11 +1,11 @@
-# NLP Information Extraction
-> Benzon Carlitos Salazar
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Apache-2.0 License][license-shield]][license-url]
+
+# NLP Information Extraction
+> Benzon Carlitos Salazar
 
 This is my undergraduate 2020 project focusing on automated Information Extraction
 
