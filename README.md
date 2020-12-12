@@ -83,13 +83,13 @@ to create a larger database of CSVs for the medical domain (for proprietary rese
 $ ./pipeline.sh
 ```
 
-[contributors-shield]: https://img.shields.io/github/contributors/uww-student-athlete-success/repo.svg?style=plastic
+[contributors-shield]: https://img.shields.io/github/contributors/carrliitos/NLPInformationExtraction
 [contributors-url]: https://github.com/carrliitos/NLPInformationExtraction/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/uww-student-athlete-success/repo.svg?style=plastic
+[forks-shield]: https://img.shields.io/github/forks/carrliitos/NLPInformationExtraction
 [forks-url]: https://github.com/carrliitos/NLPInformationExtraction/network/members
-[stars-shield]: https://img.shields.io/github/stars/uww-student-athlete-success/repo.svg?style=plastic
+[stars-shield]: https://img.shields.io/github/stars/carrliitos/NLPInformationExtraction
 [stars-url]: https://github.com/carrliitos/NLPInformationExtraction/stargazers
-[issues-shield]: https://img.shields.io/github/issues/uww-student-athlete-success/repo.svg?style=plastic
+[issues-shield]: https://img.shields.io/github/issues/carrliitos/NLPInformationExtraction
 [issues-url]: https://github.com/carrliitos/NLPInformationExtraction/issues
-[license-shield]: https://img.shields.io/github/license/uww-student-athlete-success/repo.svg?style=plastic
+[license-shield]: https://img.shields.io/github/license/carrliitos/NLPInformationExtraction
 [license-url]: https://github.com/carrliitos/NLPInformationExtraction/blob/master/LICENSE
