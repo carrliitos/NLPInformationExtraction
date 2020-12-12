@@ -32,7 +32,7 @@ to create a larger database of CSVs for the medical domain (for proprietary rese
 		- The attributes we would generally extract manually are correctly automatically extracted by our model.
 		- After this step, we move on to extracting the actions values from our case reports.
 		- The sample can be found [here](src/python/sampleNER.ipynb).
-- [ ] Validating machine-generated CSVs against human-generated CSVs - ***In progress***
+- [x] Validating machine-generated CSVs against human-generated CSVs
 - [x] Use of Sentence Classification/Named Entity Recognition from Case Report section of literatures
 	- Summary:
 		- Successfully done Named Entity Recognition and Information Extraction.
@@ -41,7 +41,7 @@ to create a larger database of CSVs for the medical domain (for proprietary rese
 - [x] CSV assembly from relevant sentences
 	- Summary:
 		- Successfully converted all the NER results into a proper CSV, which can be found [here](src/python/sampleDev/NER-OUTPUT).
-- [ ] CSV for proprietary research - ***In progress***
+- [x] CSV for proprietary research
 
 ## Sources I am following:
 ### For all NLP:
