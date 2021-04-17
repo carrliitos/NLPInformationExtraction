@@ -1,7 +1,8 @@
 /**
+* This is a util class used for storing all PDFs extracted in either a .csv
+* or .txt format
 *
-* @author BC Salazar
-* My class for storing all the PDFs
+* @author Benzon Carlitos Salazar
 */
 
 public final class PDFStore {

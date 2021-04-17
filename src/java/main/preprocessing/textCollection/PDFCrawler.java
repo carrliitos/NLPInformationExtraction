@@ -1,10 +1,3 @@
-/**
-* 
-* @author BC Salazar
-* This PDF Crawler is for extracting all the pdf articles and their links
-* 	for further research purposes
-*/
-
 import java.io.IOException;
 import java.net.URL;
 
@@ -12,6 +5,13 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+
+/**
+* A crawler class for extracting pdf articles from 
+* <a href="https://www.sciencedirect.com/">sciencedirect.com</a>
+*
+* @author Benzon Carlitos Salazar
+*/
 
 public class PDFCrawler{
 	public static void main(String[] args) {

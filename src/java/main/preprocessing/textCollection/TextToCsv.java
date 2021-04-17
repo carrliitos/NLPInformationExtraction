@@ -1,9 +1,8 @@
 /**
+* This class converts all .txt files that holds all the output .pdf links and 
+* and converts them to a .csv file for an easier handling.
 *
-* @author BC Salazar
-* This program is for converting the .txt files that holds
-* 	all of the extracted .pdf files to a .csv file for a more
-* 	easier way of handling data.
+* @author Benzon Carlitos Salazar
 */
 
 import java.util.List;
@@ -22,7 +21,6 @@ public class TextToCsv{
 		String path = "/home/carlitos/Documents/programs/NLPInformationExtraction/src/main/output.txt";
 		List<PDFStore> pdfs;
 
-		// Read the file
 		try{
 			pdfs = readFile(path);
 		}catch(FileNotFoundException a){
@@ -33,7 +31,6 @@ public class TextToCsv{
 			return;
 		}
 
-		// Write to a new file
 		try{
 			writeFile(pdfs, "/home/carlitos/Documents/programs/NLPInformationExtraction/src/main/output.csv");
 			System.out.println("Successfully wrote to file.");
@@ -43,6 +40,13 @@ public class TextToCsv{
 		}
 	}
 
+	/**
+	* A class that reads in a file using a String path and stores them in 
+	* the {@code PDFStore} as links
+	*
+	* @param path a {@link String path} text file that holds all the the extracted PDFs
+	* @return a {@link List list} of PDFs
+	*/
 	private static List<PDFStore> readFile(String path) throws FileNotFoundException, IOException {
 		// Buffered reader for reading in files
 		BufferedReader reader = new BufferedReader(new FileReader(path));
@@ -68,6 +72,12 @@ public class TextToCsv{
 		return pdfs;
 	}
 
+	/**
+	* A class that writes all PDF links from text to csv
+	*
+	* @param pdfs all of the PDFs stored
+	* @param path the csv path we want the PDF links stored in
+	*/
 	private static void writeFile(List<PDFStore> pdfs, String path) throws IOException {
 		// Check to see if the file exists first
 		File file = new File(path);
@@ -78,7 +88,7 @@ public class TextToCsv{
 		// Create file with text in it
 		BufferedWriter writer = new BufferedWriter(new FileWriter(path));
 
-		// Create heade
+		// Create header
 		writer.write("Link,Article");
 		writer.newLine();
 
